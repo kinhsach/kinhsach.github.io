@@ -1,0 +1,25 @@
+I"<<aside
+  id="notification"
+  class="toast"
+  role="alert"
+  aria-live="assertive"
+  aria-atomic="true"
+  data-bs-animation="true"
+  data-bs-autohide="false"
+>
+  <div class="toast-header">
+    <button
+      type="button"
+      class="btn-close ms-auto"
+      data-bs-dismiss="toast"
+      aria-label="Close"
+    ></button>
+  </div>
+  <div class="toast-body text-center pt-0">
+    <p class="px-2 mb-3">Đã có phiên bản mới của nội dung.</p>
+    <button type="button" class="btn btn-primary" aria-label="Update">
+      Cập nhật
+    </button>
+  </div>
+</aside>
+:ET

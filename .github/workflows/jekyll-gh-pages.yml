@@ -49,7 +49,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Jekyll Action
+      - name: Jekyll 4 Build
         # You may pin to the exact commit or the version.
-        # uses: lemonarc/jekyll-action@2d5e5a2316cd9d4b74ad33da527d6d9be5bff8d1
-        uses: lemonarc/jekyll-action@1.0.0
+        # uses: nan-wang/jekyll4-deploy-gh-pages@6313a761f8d723ec4aace430548330e2f97ab179
+        uses: nan-wang/jekyll4-deploy-gh-pages@0.0.1

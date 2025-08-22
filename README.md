@@ -32,7 +32,7 @@
 
 | <h3>ssh keygen cmd</h3> |
 |:-----|
-| trên windows mở cmd quyền adminstrator |
+| trên windows mở cmd quyền quản trị |
 | ssh-keygen -t rsa -C "EMAIL@gmail.com" |
 | enter (hoặc nhập đường dẫn lưu keygen) |
 | nhập mật khẩu bảo mật ít nhất 4 ký tự |

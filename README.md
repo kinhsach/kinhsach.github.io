@@ -7,7 +7,5 @@ Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu tr
 ![phiên bản](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)&nbsp;&nbsp;
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
-<div align="center">
-[![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+![Kinh Sách](https://chirpy-img.netlify.app/commons/devices-mockup.png)
 Thực tế => [Kinh Sách](https://kinhsach.github.io/)
-</div>

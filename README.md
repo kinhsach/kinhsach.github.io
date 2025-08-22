@@ -40,16 +40,19 @@
 | <h3>github ssh key</h3> |
 |:-----|
 | trên github mở settings từ menu phải |
-| chọn SSH and GPG keys ở khung access |
+| chọn SSH and GPG keys khung access |
 | nhấn new ssh key và nhập file PUB vào |
 | nếu có key cũ không xài thì xóa trước |
 
 | <h3>ruby gem jekyll</h3> |
 |:-----|
 | tải và cài [rubyinstaller devkit 3.4.5 x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
-| chọn SSH and GPG keys ở khung access |
-| nhấn new ssh key và nhập file PUB vào |
-| nếu có key cũ không xài thì xóa trước |
+| cài ruby nhớ chọn tính năng all users |
+| trang component chọn MSYS2 toolchain |
+| cài xong devkit tự động chạy MSSYS2 |
+| chọn dòng cuối hay số 3 cài toolchain |
+| xong thoát exit và nhập ridk enable |
+| *lệnh cài toolchain => ridk install |
 
 ## nhóm chép kinh
 

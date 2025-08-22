@@ -25,7 +25,7 @@
 - Thẻ kinh sách thịnh hành.
 - Mục lục lưu trữ kinh sách.
 - Tự cập nhật kinh sách mới.
-- Seo json-ld chuyên nghiệp.
+- Mã SEO JSON-LD kết hợp RDFa.
 - Mã nhúng video audio nhanh.
 - Hệ thống trao đổi bình luận.
 - Có tính năng gợi ý tìm kinh.

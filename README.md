@@ -1,8 +1,6 @@
 # kinhsach.github.io
 <p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
-
-![Kinh Sách](https://chirpy-img.netlify.app/commons/devices-mockup.png)
-
+<img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 <div align="right">
 
 ![mã nguồn](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)&nbsp;&nbsp;

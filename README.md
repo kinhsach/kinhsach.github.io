@@ -15,8 +15,19 @@
 
 ## tính năng jekyll
 
-<p font-size="18px"><a href="https://kinhsach.github.io/">Kinh sách</a> miễn phí itvtbadboy phát triển từ mã nguồn chirpy chạy trên máy chủ jekyll, giấy phép truyền bá nội dung kinh sách <a href="https://github.com/kinhsach/kinhsach.github.io/tree/main?tab=GPL-2.0-1-ov-filefile">GPL v2.0</a>.</p>
+<p font-size="18px">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 license.</p>
 
 - Tùy chọn trang kinh sáng tối.
 - Giao diện người dùng Web UI.
+- Ảnh nổi theo giao diện tối.
 - Ghim kinh sách lên trang chủ.
+- Danh mục tủ kinh phân cấp.
+- Thẻ kinh sách thịnh hành.
+- Mục lục lưu trữ kinh sách.
+- Tự cập nhật kinh sách mới.
+- Seo json-ld chuyên nghiệp.
+- Mã nhúng video audio nhanh.
+- Hệ thống trao đổi bình luận.
+- Có tính năng gợi ý tìm kinh.
+- Nguồn dữ liệu atom liên kết.
+- Hiệu suất trang kinh rất cao.

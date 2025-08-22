@@ -32,4 +32,9 @@
 - Hiệu suất trang kinh rất cao.
 - Mã nguồn jekyll đa nền tảng.
 
+## nhóm chép kinh
+
+| ảnh | dự án |
+|-----|-----|
+
 ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)

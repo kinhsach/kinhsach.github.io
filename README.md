@@ -30,12 +30,26 @@
 
 <p font-size="18px">Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.</p>
 
-| <h3>github ssh key</h3> |
+| <h3>ssh keygen cmd</h3> |
 |:-----|
 | trên windows mở cmd quyền adminstrator |
 | ssh-keygen -t rsa -C "EMAIL@gmail.com" |
-| enter (hoặc có thể nhập đường dẫn lưu keygen) |
-| nhập passwd ít nhất 4 ký tự |
+| enter (hoặc nhập đường dẫn lưu keygen) |
+| nhập mật khẩu bảo mật ít nhất 4 ký tự |
+
+| <h3>github ssh key</h3> |
+|:-----|
+| trên github mở settings từ menu phải |
+| chọn SSH and GPG keys ở khung access |
+| nhấn new ssh key và nhập file PUB vào |
+| nếu có key cũ không xài thì xóa trước |
+
+| <h3>ruby gem jekyll</h3> |
+|:-----|
+| tải và cài [rubyinstaller-devkit-3.4.5-1-x64.exe](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
+| chọn SSH and GPG keys ở khung access |
+| nhấn new ssh key và nhập file PUB vào |
+| nếu có key cũ không xài thì xóa trước |
 
 ## nhóm chép kinh
 

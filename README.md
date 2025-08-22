@@ -1,6 +1,6 @@
 # kinhsach.github.io
 
-<p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
+<p font-size="20px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 
 <div align="center">
@@ -22,7 +22,7 @@
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
 | Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
-| Tự cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
+| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
 | Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
 | Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
 

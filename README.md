@@ -3,7 +3,7 @@ Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu tr
 
 ![Kinh Sách](https://chirpy-img.netlify.app/commons/devices-mockup.png)
 
-<div style="align: right;">
+<div align="right">
 
 ![mã nguồn](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)&nbsp;&nbsp;
 ![chất lượng](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)&nbsp;&nbsp;

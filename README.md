@@ -44,6 +44,8 @@
 | nhấn new ssh key và nhập file PUB vào |
 | nếu có key cũ không xài thì xóa trước |
 
+<p font-size="18px">Kinh sách miễn phí github.io là định dạng mặc định của github web page, tạo kho lưu kinh repository mới từ menu chính hoặc thẻ repositories, kho lưu repository có 3 thuộc tính gồm public + readme + license, giá trị license là GNU General Public License v2.0</p>
+
 | <h3>ruby gem jekyll</h3> |
 |:-----|
 | tải và cài [rubyinstaller devkit 3.4.5 x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |

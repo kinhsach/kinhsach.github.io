@@ -1,6 +1,7 @@
 # kinhsach.github.io
 
 <p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
+<p font-size="18px">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 license.</p>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 
 <div align="center">
@@ -14,8 +15,6 @@
 </div>
 
 ## tính năng jekyll
-
-<p font-size="18px">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 license.</p>
 
 - Tùy chọn trang kinh sáng tối.
 - Giao diện người dùng Web UI.
@@ -31,3 +30,4 @@
 - Có tính năng gợi ý tìm kinh.
 - Nguồn dữ liệu atom liên kết.
 - Hiệu suất trang kinh rất cao.
+- Mã nguồn jekyll đa nền tảng.

@@ -34,4 +34,6 @@
 
 ## nhóm chép kinh
 
-| ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | [youtube](https://www.youtube.com/@thuongmaibrvt) |
+| quản lý | dự án |
+|:-----|:-----|
+| ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | Quảng bá kinh sách trên [youtube](https://www.youtube.com/@thuongmaibrvt) |

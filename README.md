@@ -8,6 +8,6 @@ Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu tr
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 <div align="center">
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
-  Thực tế => [Kinh Sách](https://kinhsach.github.io/)
+[![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+Thực tế => [Kinh Sách](https://kinhsach.github.io/)
 </div>

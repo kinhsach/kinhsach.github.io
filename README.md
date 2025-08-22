@@ -34,6 +34,4 @@
 
 ## nhóm chép kinh
 
-| ảnh | dự án |
-|:-----|:-----|
-| ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | [youtube](https://www.youtube.com/@thuongmaibrvt)
+| ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | [youtube](https://www.youtube.com/@thuongmaibrvt) |

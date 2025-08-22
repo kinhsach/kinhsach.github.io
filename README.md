@@ -46,7 +46,7 @@
 
 | <h3>ruby gem jekyll</h3> |
 |:-----|
-| tải và cài [rubyinstaller-devkit-3.4.5-1-x64.exe](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
+| tải và cài [rubyinstaller devkit x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
 | chọn SSH and GPG keys ở khung access |
 | nhấn new ssh key và nhập file PUB vào |
 | nếu có key cũ không xài thì xóa trước |

@@ -11,9 +11,12 @@
 ![phiên bản](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)&nbsp;&nbsp;
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
-<hr>
 </div>
 
 ## tính năng jekyll
 
 <p font-size="18px"><a href="https://kinhsach.github.io/">Kinh sách</a> miễn phí itvtbadboy phát triển từ mã nguồn chirpy chạy trên máy chủ jekyll, giấy phép truyền bá nội dung kinh sách <a href="https://github.com/kinhsach/kinhsach.github.io/tree/main?tab=GPL-2.0-1-ov-filefile">GPL v2.0</a>.</p>
+
+- Tùy chọn trang kinh sáng tối.
+- Giao diện người dùng Web UI.
+- Ghim kinh sách lên trang chủ.

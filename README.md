@@ -37,6 +37,8 @@
 | enter (hoặc nhập đường dẫn lưu keygen) |
 | nhập mật khẩu bảo mật ít nhất 4 ký tự |
 
+<p font-size="18px">Tập tin ssh-keygen có thể dùng notepad++ để mở định dạng .pub.</p>
+
 | <h3>github ssh key</h3> |
 |:-----|
 | trên github mở settings từ menu phải |

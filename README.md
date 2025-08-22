@@ -1,5 +1,5 @@
 # kinhsach.github.io
-Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.
+<p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
 
 ![Kinh Sách](https://chirpy-img.netlify.app/commons/devices-mockup.png)
 

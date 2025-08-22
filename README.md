@@ -19,16 +19,16 @@
 
 | tính năng | quảng bá |
 |:-----|:-----|
-| Giao diện người dùng Web UI. | Tự cập nhật kinh sách mới. |
+| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
 | Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
-| Thẻ kinh sách thịnh hành. | Nguồn dữ liệu atom liên kết. |
-| Mục lục lưu trữ kinh sách. | Hiệu suất trang kinh rất cao. |
-| Có tính năng gợi ý tìm kinh. | Mã nguồn jekyll đa nền tảng. |
+| Tự cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
+| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
+| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
 
 ## kinh sách github
 
-<p font-size="18px">Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ [ repository ].</p>
+<p font-size="18px">Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.</p>
 
 ## nhóm chép kinh
 

@@ -48,11 +48,11 @@
 |:-----|
 | tải và cài [rubyinstaller devkit 3.4.5 x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
 | cài ruby nhớ chọn tính năng all users |
-| trang component chọn MSYS2 toolchain |
+| mục component chọn MSYS2 toolchain |
 | cài xong devkit tự động chạy MSSYS2 |
 | chọn dòng cuối hay số 3 cài toolchain |
 | xong thoát exit và nhập ridk enable |
-| *lệnh cài toolchain => ridk install |
+| *** lệnh cài toolchain => ridk install |
 
 ## nhóm chép kinh
 

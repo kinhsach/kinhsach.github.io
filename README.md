@@ -1,7 +1,6 @@
 # kinhsach.github.io
 
-> Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.
-
+<p style="font-size: 18px;">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 
 <div align="center">
@@ -14,7 +13,7 @@
 
 </div>
 
-> Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.
+<p style="font-size: 18px;">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.</p>
 
 ## kinh sách jekyll
 
@@ -29,7 +28,7 @@
 
 ## kinh sách github
 
-> Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.
+<p style="font-size: 18px;">Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.</p>
 
 ## nhóm chép kinh
 

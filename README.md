@@ -32,4 +32,4 @@
 - Hiệu suất trang kinh rất cao.
 - Mã nguồn jekyll đa nền tảng.
 
-[contrib.rocks](https://contrib.rocks)
+![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)

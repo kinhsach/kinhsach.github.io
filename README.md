@@ -15,27 +15,20 @@
 
 <p font-size="18px">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.</p>
 
+## kinh sách jekyll
+
+| tính năng | quảng bá |
+|:-----|:-----|
+| Giao diện người dùng Web UI. | Tự cập nhật kinh sách mới. |
+| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
+| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
+| Thẻ kinh sách thịnh hành. | Nguồn dữ liệu atom liên kết. |
+| Mục lục lưu trữ kinh sách. | Hiệu suất trang kinh rất cao. |
+| Có tính năng gợi ý tìm kinh. | Mã nguồn jekyll đa nền tảng. |
+
 ## kinh sách github
 
 <p font-size="18px">Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ [ repository ].</p>
-
-## kinh sách jekyll
-
-- Tùy chọn trang kinh sáng tối.
-- Giao diện người dùng Web UI.
-- Ảnh nổi theo giao diện tối.
-- Ghim kinh sách lên trang chủ.
-- Danh mục tủ kinh phân cấp.
-- Thẻ kinh sách thịnh hành.
-- Mục lục lưu trữ kinh sách.
-- Tự cập nhật kinh sách mới.
-- SEO JSON-LD ghép với RDFa.
-- Mã nhúng video audio nhanh.
-- Hệ thống trao đổi bình luận.
-- Có tính năng gợi ý tìm kinh.
-- Nguồn dữ liệu atom liên kết.
-- Hiệu suất trang kinh rất cao.
-- Mã nguồn jekyll đa nền tảng.
 
 ## nhóm chép kinh
 

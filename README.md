@@ -59,10 +59,8 @@
 
 | <h3>remote github rep</h3> |
 |:-----|
-| tải ứng dụng [github desktop](https://desktop.github.com/download/) |
-| chọn SSH and GPG keys khung access |
-| nhấn new ssh key và nhập file PUB vào |
-| nếu có key cũ không xài thì xóa trước |
+| cài đặt ứng dụng [github desktop](https://desktop.github.com/download/) |
+| cấu hình theo hướng dẫn [github](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop?platform=windows) |
 
 </div>
 

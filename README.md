@@ -16,6 +16,7 @@
 
 </div>
 
+| tính năng | quảng bá |
 |:-----|:-----|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |

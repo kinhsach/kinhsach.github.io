@@ -34,11 +34,12 @@
 | [Github GUI](https://desktop.github.com/download) | [Github GUI](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 | [Ruby v3.4](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | Ruby Full |
 | Gem Jekyll | Gem Jekyll |
-| Firebase Tool | Firebase Tool |
+| Firebase Kit | Firebase Kit |
+| Termius | Termius |
 
 </div>
 
-**Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản.**
+**Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build url: https://kinhsach.github.io:80 --incremental`.**
 
 ## nhóm chép kinh
 

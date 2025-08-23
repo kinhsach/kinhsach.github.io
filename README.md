@@ -21,6 +21,8 @@
 </tr>
 </table>
 
+## tính năng kinh sách
+
 | tính năng | quảng bá |
 |:----------|:----------|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
@@ -29,5 +31,7 @@
 | Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
 | Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
 | Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
+
+<p><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung CMS nhưng không cần đến cơ sở dữ liệu SQL hay máy chủ Apache Nginx PHP.</b></p>
 
 </div>

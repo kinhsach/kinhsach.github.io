@@ -2,7 +2,7 @@
 
 ![kinh sách](https://chirpy-img.netlify.app/commons/devices-mockup.png "Kinh sách chirpy theme")
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center">
 
 | tính năng | quảng bá |
 |:-----|:-----|
@@ -25,7 +25,7 @@
 
 ## kinh sách github
 
-![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
+![kinh sách](https://www.itvtbadboy.io.vn/image/1280/kinh-sach-ruby-gem-jekyll.jpg "Kinh sách github page")
 
 **Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT license`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí itvtbadboy xây dựng `HTML` tiêu chuẩn nên bài viết chỉ nói về giải pháp thứ hai.**
 

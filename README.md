@@ -25,7 +25,7 @@
 
 ## kinh sách github
 
-![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
+[![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg)(https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "Kinh sách github page")]
 
 <div align="center">
 

@@ -23,17 +23,6 @@
 
 **Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [jekyll](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách gpl-2.0 license. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung cms nhưng không cần đến cơ sở dữ liệu mysql mariadb hay máy chủ apache nginx php.**
 
-## tính năng kinh sách
-
-| <div align="center">tính năng</div> | <div align="center">quảng bá</div> |
-|:-----|:-----|
-| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
-| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
-| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
-| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
-| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
-| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
-
 ## kinh sách github
 
 <p>Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.</p>

@@ -30,20 +30,24 @@
 </tr>
 <tr>
 <td>
+
 > Giao diện người dùng Web UI.
 > Ghim kinh sách lên trang chủ.
 > Danh mục tủ kinh phân cấp.
 > Luôn cập nhật kinh sách mới.
 > Có tính năng gợi ý tìm kinh.
 > Bảo mật không cơ sở dữ liệu.
+
 </td>
 <td>
+
 > Kinh sách podcast amazon.
 > SEO JSON-LD ghép với RDFa.
 > Mã nhúng video audio nhanh.
 > Nguồn dữ liệu atom liên kết.
 > Hiệu suất trang kinh rất cao.
 > Mã nguồn jekyll đa nền tảng.
+
 </td>
 </tr>
 </table>

@@ -1,4 +1,4 @@
-<div style="font-fanily: Roboto; font-size: 18px;">
+<div style="font-fanily: Roboto; font-size: 18px; width: 100%;">
 <h1>kinhsach.github.io</h1>
 <table style="width: 100%;">
 <tr><th>kinh sách jekyll chirpy theme</th></tr>

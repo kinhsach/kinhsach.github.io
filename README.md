@@ -36,6 +36,4 @@
 
 </div>
 
-| quản lý | dự án |
-|:--|:-----|
-| ![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | Quảng bá kinh sách trên [youtube](https://www.youtube.com/@thuongmaibrvt) |
+[![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "live chat")

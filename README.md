@@ -1,6 +1,6 @@
 # kinhsach.github.io
 
-<div "text-size: 18px">
+<div "font-size: 18px">
 <p><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
 </div>
 

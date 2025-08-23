@@ -25,7 +25,7 @@
 
 ## tính năng kinh sách
 
-| tính năng | quảng bá |
+| <p align="center">tính năng</p> | <p align="center">quảng bá</p> |
 |:-----|:-----|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |

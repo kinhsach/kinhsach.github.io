@@ -13,7 +13,8 @@
 </div>
 
 > Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.
-> Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn (https://github.com/cotes2020/jekyll-theme-chirpy "chirpychirpy") chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.
+
+> Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.
 
 ## tính năng kinh sách
 

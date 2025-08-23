@@ -18,9 +18,10 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
-
 </td>
-<td></td>
+<td>
+<p>Giao diện người dùng Web UI, Ghim kinh sách lên trang chủ, Danh mục tủ kinh phân cấp, Luôn cập nhật kinh sách mới, Có tính năng gợi ý tìm kinh, Bảo mật không cơ sở dữ liệu.</p>
+</td>
 </tr>
 </table>
 

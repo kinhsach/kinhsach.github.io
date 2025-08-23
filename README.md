@@ -24,7 +24,7 @@
 
 ## giải pháp kinh
 
-![kinh sách](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")
 
 <div align="center">
 
@@ -41,6 +41,8 @@
 
 **Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
+**Kinh sách miễn phí nhiều cách triển khai, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+
 ## nhóm chép kinh
 
-[![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "live chat")
+[![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "live chat")

@@ -32,15 +32,15 @@
 </tr>
 <tr>
 <td>
-  <p><b>Giao diện người dùng Web UIUI. Ghim kinh sách lên trang chủ. Danh mục tủ kinh phân cấp. Luôn cập nhật kinh sách mới. Có tính năng gợi ý tìm kinh. Bảo mật không cơ sở dữ liệu.</b></p>
+  <p><b>Giao diện người dùng web ui. Ghim kinh sách lên trang chủ. Danh mục tủ kinh phân cấp. Luôn cập nhật kinh sách mới. Có tính năng gợi ý tìm kinh. Bảo mật không cơ sở dữ liệu.</b></p>
 
 </td>
 <td>
-  <p><b>Kinh sách podcast amazon. SEO JSON-LD ghép với RDFaRDFa. Mã nhúng video audio nhanhnhanh. Nguồn dữ liệu atom liên kết. Hiệu suất trang kinh rất cao. Mã nguồn jekyll đa nền tảng.</b></p>
+  <p><b>Kinh sách podcast amazon. Seo json-ld ghép với rdfa. Mã nhúng video audio nhanhnhanh. Nguồn dữ liệu atom liên kết. Hiệu suất trang kinh rất cao. Mã nguồn jekyll đa nền tảng.</b></p>
 </td>
 </tr>
 </table>
 
-<p><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung CMS nhưng không cần đến cơ sở dữ liệu SQL hay máy chủ Apache Nginx PHP.</b></p>
+<p><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung cms nhưng không cần đến cơ sở dữ liệu sql hay máy chủ apache nginx php.</b></p>
 
 </div>

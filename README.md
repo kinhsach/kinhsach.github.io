@@ -64,6 +64,10 @@
 
 </div>
 
+## kinh sách jekyll
+
+<div align="center">
+
 | <h3>ruby gem jekyll</h3> |
 |:-----|
 | tải và cài [rubyinstaller devkit 3.4.5 x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
@@ -74,16 +78,7 @@
 | xong thoát exit và nhập ridk enable |
 | *** lệnh cài toolchain => ridk install |
 
-## kinh sách jekyll
-
-| tính năng | quảng bá |
-|:-----|:-----|
-| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
-| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
-| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
-| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
-| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
-| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
+</div>
 
 ## nhóm chép kinh
 

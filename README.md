@@ -27,28 +27,7 @@
 
 ![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
 
-<div align="center">
-
-[![itvtbadboy](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "Quản lý kinh sách")
-
-| tính năng | quảng bá |
-|:-----|:-----|
-| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
-| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
-| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
-| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
-| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
-| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
-
-![mã nguồn](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)&nbsp;&nbsp;
-![chất lượng](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)&nbsp;&nbsp;
-![giấy phép](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)&nbsp;&nbsp;
-![phiên bản](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)&nbsp;&nbsp;
-![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
-
-</div>
-
-**Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.**
+**Kinh sách miễn phí github có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của chirpy về phát triển với giấy phép mit lisence, hai là tải `download` chirpy template về phát triển và dùng nội dung _site tạo html tiêu chuẩn với giấy phép gpl-2.0 license. Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.**
 
 | <h3>ssh keygen cmd</h3> |
 |:-----|

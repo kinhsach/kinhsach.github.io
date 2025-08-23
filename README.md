@@ -27,7 +27,7 @@
 
 ![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
 
-**Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT Lisence`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí xây dựng trên `github` bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết `ssh key` và tạo kho lưu trữ `repository`.**
+**Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT Lisence`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí itvtbadboy xây dựng `HTML` tiêu chuẩn nên bài viết chỉ nói về giải pháp thứ hai.**
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 </div>
 
-**Tập tin `ssh-keygen` có thể dùng `Notepad++` để mở định dạng `.pub`, chép đoạn nội dung truy cập `github` tạo `ssh key`.**
+**Tập tin `ssh-keygen` có thể dùng `Notepad++` để mở định dạng `.pub`, chép đoạn nội dung truy cập `github` tạo `ssh key`. Lưu ý `ssh key` không dùng trong `settings` của kho lưu trữ `repository` mà dùng trong tài khoản để điều khiển `remote` tất cả các kho.**
 
 <div align="center">
 

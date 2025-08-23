@@ -41,7 +41,7 @@
 
 **Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
-**Kinh sách miễn phí nhiều giải pháp triển khai, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+**Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
 
 ## nhóm chép kinh
 

@@ -40,7 +40,7 @@
 
 </div>
 
-**Tập tin `ssh-keygen` có thể dùng `Notepad++` để mở định dạng `.pub`, chép đoạn nội dung truy cập `github` tạo `ssh key`. Lưu ý `ssh key` không dùng trong `settings` của kho lưu trữ `repository` mà dùng trong tài khoản để điều khiển `remote` tất cả các kho.**
+**Tập tin `ssh-keygen` có thể dùng `Notepad++` để mở định dạng `.pub`, chép đoạn nội dung truy cập `github` tạo `ssh key`. Lưu ý `ssh key` không dùng trong `settings` của kho lưu kinh `repository` mà dùng trong tài khoản để điều khiển `remote` tất cả các kho lưu trữ.**
 
 <div align="center">
 
@@ -53,7 +53,18 @@
 
 </div>
 
-**Kinh sách miễn phí `github.io` là định dạng mặc định của `github web page`, tạo kho lưu kinh `repository` mới từ `menu` chính hoặc thẻ `repositories`, kho lưu `repository` có 3 thuộc tính gồm `public + readme + license`, giá trị `license` là `GNU General Public License v2.0`.**
+**Kinh sách miễn phí `github.io` là định dạng mặc định của `github web page`, tạo kho lưu kinh `repository` mới từ `menu` chính hoặc thẻ `repositories`, kho lưu kinh `repository` có 3 thuộc tính gồm `public + readme + license`, giá trị `license` là `GNU General Public License v2.0`.**
+
+<div align="center">
+
+| <h3>remote github rep</h3> |
+|:-----|
+| tải ứng dụng [github desktop](https://desktop.github.com/download/) |
+| chọn SSH and GPG keys khung access |
+| nhấn new ssh key và nhập file PUB vào |
+| nếu có key cũ không xài thì xóa trước |
+
+</div>
 
 | <h3>ruby gem jekyll</h3> |
 |:-----|

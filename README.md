@@ -25,8 +25,8 @@
 
 <table style="width: 100%;">
 <tr>
-<th width="50%">tính năng</th>
-<th width="50%">quảng bá</th>
+<th style="width: 50%;">tính năng</th>
+<th style="width: 50%;">quảng bá</th>
 </tr>
 <tr>
 <td>Giao diện người dùng Web UI. <br>Ghim kinh sách lên trang chủ. <br>Danh mục tủ kinh phân cấp. <br>Luôn cập nhật kinh sách mới. <br>Có tính năng gợi ý tìm kinh. <br>Bảo mật không cơ sở dữ liệu.</td>

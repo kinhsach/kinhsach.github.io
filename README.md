@@ -1,3 +1,7 @@
+<style>
+    font-size: 18px;
+</style>
+
 # kinhsach.github.io
 
 <p><b "font-size: 18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>

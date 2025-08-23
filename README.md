@@ -21,7 +21,7 @@
 
 </div>
 
-**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [jekyll](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách gpl-2.0 license. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung cms nhưng không cần đến cơ sở dữ liệu mysql mariadb hay máy chủ apache nginx php.**
+**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn `[chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)` chạy trên máy chủ `[jekyll](https://jekyllrb.com/)`, giấy phép truyền bá nội dung kinh sách `gpl-2.0 license`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `cms` nhưng không cần đến cơ sở dữ liệu `mysql mariadb` hay máy chủ `apache nginx php`.**
 
 ## kinh sách github
 

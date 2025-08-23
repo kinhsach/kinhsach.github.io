@@ -25,7 +25,9 @@
 
 ## kinh sách github
 
-<p>Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.</p>
+![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
+
+**Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.**
 
 | <h3>ssh keygen cmd</h3> |
 |:-----|
@@ -54,6 +56,17 @@
 | chọn dòng cuối hay số 3 cài toolchain |
 | xong thoát exit và nhập ridk enable |
 | *** lệnh cài toolchain => ridk install |
+
+## kinh sách jekyll
+
+| tính năng | quảng bá |
+|:-----|:-----|
+| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
+| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
+| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
+| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
+| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
+| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
 
 ## nhóm chép kinh
 

@@ -21,13 +21,13 @@
 
 </div>
 
-**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn `[chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)` chạy trên máy chủ `[jekyll](https://jekyllrb.com/)`, giấy phép truyền bá nội dung kinh sách `gpl-2.0 license`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `cms` nhưng không cần đến cơ sở dữ liệu `mysql mariadb` hay máy chủ `apache nginx php`.**
+**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [jekyll](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `gpl-2.0 license`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `cms` nhưng không cần đến cơ sở dữ liệu `mysql mariadb` hay máy chủ `apache nginx php`.**
 
 ## kinh sách github
 
 ![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
 
-**Kinh sách miễn phí github có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của chirpy về phát triển với giấy phép mit lisence, hai là tải `download` chirpy template về phát triển và dùng nội dung _site tạo html tiêu chuẩn với giấy phép gpl-2.0 license. Kinh sách miễn phí xây dựng trên github bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết ssh key và tạo kho lưu trữ repository.**
+**Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `mit lisence`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `html` tiêu chuẩn với giấy phép `gpl-2.0 license`. Kinh sách miễn phí xây dựng trên `github` bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết `ssh key` và tạo kho lưu trữ `repository`.**
 
 | <h3>ssh keygen cmd</h3> |
 |:-----|

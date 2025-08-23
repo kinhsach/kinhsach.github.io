@@ -1,6 +1,6 @@
 # kinhsach.github.io
 
-<p text-size="30px"><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
+<p><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
 
 ![kinh sách](https://chirpy-img.netlify.app/commons/devices-mockup.png "Mã nguồn chirpy theme")
 
@@ -20,7 +20,7 @@
 
 <p><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung CMS nhưng không cần đến cơ sở dữ liệu SQL hay máy chủ Apache Nginx PHP.</b></p>
 
-| (align="center") tính năng | quảng bá |
+| tính năng | quảng bá |
 |:-----|:-----|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |

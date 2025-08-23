@@ -27,7 +27,7 @@
 
 ![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
 
-**Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT Lisence`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí itvtbadboy xây dựng `HTML` tiêu chuẩn nên bài viết chỉ nói về giải pháp thứ hai.**
+**Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT license`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí itvtbadboy xây dựng `HTML` tiêu chuẩn nên bài viết chỉ nói về giải pháp thứ hai.**
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 </div>
 
-**Sau khi hoàn tất cấu hình, kho lưu kinh được ánh xạ với tên `kinhsach.github.io`. Nếu không muốn `copy` trong suốt quá trình thiết kế, đồng đạo hãy cài khung `jekyll theme`, sau đó chép hết nội dung trong thư mục `_site` vào kho lưu kinh `kinhsach.github.io`, tiếp theo xóa `_site`, cuối cùng đổi tên kho lưu kinh `kinhsach.github.io` thành `_site` và đặt vào đúng vị trí yêu cầu của `jekyll theme`. Ứng dụng `github desktop` có tính năng `locate` cho phép tùy ý trỏ về thư mục do `jekyll theme` quản lý.**
+**Sau khi hoàn tất cấu hình, kho lưu kinh được ánh xạ với tên `kinhsach.github.io`. Nếu không muốn `copy` trong suốt quá trình thiết kế, đồng đạo hãy cài khung `jekyll theme`, sau đó chép thư mục ẩn `.git` của kho lưu kinh vào trong `_site` của `jekyll theme`, hai tập tin `readme.md` và `license` đưa ra ngoài sao lưu cẩn thận để sau này tải lên `github`. Ứng dụng `github desktop` có tính năng `locate` cho phép tùy ý trỏ về thư mục do `jekyll theme` quản lý.**
 
 ## kinh sách jekyll
 

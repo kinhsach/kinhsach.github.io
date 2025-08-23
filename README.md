@@ -1,5 +1,5 @@
 ---
-@import: ('css', 'https://www.w3schools.com/w3css/5/w3.css')
+@import "https://www.w3schools.com/w3css/5/w3.css"
 ---
 
 # kinhsach.github.io

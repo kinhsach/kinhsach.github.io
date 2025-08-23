@@ -20,7 +20,7 @@
 
 </div>
 
-**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [jekyll](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
+**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
 
 ## giải pháp kinh
 
@@ -32,10 +32,10 @@
 |:-----|:-----|
 | câu lệnh | Win: `PowerShell` <br>Linux: `Terminal` |
 | remote | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| [Ruby v3.4](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | Ruby Full |
-| Gem Jekyll | Gem Jekyll |
-| Firebase Kit | Firebase Kit |
-| [Termius](https://termi.us/win) | SSH Command |
+| ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
+| server | Win: `jekyll` <br>Linux: `Gem Jekyll` |
+| firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
+| ssh | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Command` |
 
 </div>
 

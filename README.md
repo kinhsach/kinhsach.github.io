@@ -30,9 +30,9 @@
 
 | <h3>windows</h3> | <h3>ubuntu</h3>
 |:-----|:-----|
-| powershell | terminal |
-| [github desktop](https://desktop.github.com/download) | [github desktop](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| [rubyinstaller](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | ruby-full
+| PowerShell | Terminal |
+| [Github GUi](https://desktop.github.com/download) | [Github GUi](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
+| [Ruby v3.4](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | Ruby Full |
 
 </div>
 

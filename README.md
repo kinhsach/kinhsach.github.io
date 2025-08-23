@@ -35,13 +35,17 @@
 | ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
 | server | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
 | firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
-| ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Command` |
+| ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>
 
 **Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
 **Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+
+> **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**
+> **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ w3cub.**
+> **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ jekyllrb.**
 
 ## nhóm chép kinh
 

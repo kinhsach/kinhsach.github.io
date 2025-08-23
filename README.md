@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| <h3>công dụng</h3> | <h3>ứng dụng</h3>
+| công dụng | ứng dụng |
 |:-----|:-----|
 | câu lệnh | Win: `PowerShell` <br>Linux: `Terminal` |
 | remote | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |

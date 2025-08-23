@@ -1,4 +1,6 @@
-@import "https://www.w3schools.com/w3css/5/w3.css"
+<style>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+</style>
 
 # kinhsach.github.io
 

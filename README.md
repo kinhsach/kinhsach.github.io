@@ -15,9 +15,10 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
+<hr>
 
 | tính năng | quảng bá |
-|:-----|:-----|
+|:----------|:----------|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
 | Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |

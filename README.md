@@ -2,7 +2,7 @@
 
 ![kinh sách](https://chirpy-img.netlify.app/commons/devices-mockup.png "Kinh sách chirpy theme")
 
-<div align="center" margin-bottom="30px">
+<div align="center" style="margin-bottom: 30px;">
 
 | tính năng | quảng bá |
 |:-----|:-----|

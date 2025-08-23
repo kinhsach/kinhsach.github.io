@@ -35,7 +35,7 @@
 | [Ruby v3.4](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | Ruby Full |
 | Gem Jekyll | Gem Jekyll |
 | Firebase Kit | Firebase Kit |
-| Termius | Termius |
+| [Termius](https://termi.us/win) | [Termius](https://www.termius.com/download/linux/Termius.deb?_gl=1*1gmevpa*_ga*MjA0NTM5Nzc4NC4xNzU1NjU2Mjk1*_ga_ZPQLW2Q816*czE3NTU5MzU2NzUkbzIkZzEkdDE3NTU5MzU2ODYkajQ5JGwwJGgxMzIyMjQ0MDgx) |
 
 </div>
 

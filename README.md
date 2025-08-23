@@ -25,11 +25,11 @@
 
 ## kinh sách github
 
-[![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "Kinh sách github page")
+![kinh sách](https://www.itvtbadboy.io.vn/image/1280/github-page-branch.jpg "Kinh sách github page")
 
 <div align="center">
 
-![kinh sách](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io) | Quảng bá kinh sách trên [youtube](https://www.youtube.com/@thuongmaibrvt)
+[![itvtbadboy](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "Quản lý kinh sách")
 
 | tính năng | quảng bá |
 |:-----|:-----|

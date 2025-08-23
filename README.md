@@ -1,6 +1,5 @@
----
-@import: https://www.w3schools.com/w3css/5/w3.css
----
+styles:
+  - https://www.w3schools.com/w3css/5/w3.css
 
 # kinhsach.github.io
 

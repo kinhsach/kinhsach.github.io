@@ -1,10 +1,7 @@
 <div style="font-fanily: Roboto; font-size: 18px;">
 <h1>kinhsach.github.io</h1>
 <table style="width: 100%;">
-<tr>
-<th style="width: 30%;">giao diện</th>
-<th style="width: 70%;">tính năng</th>
-</tr>
+<tr><th>kinh sách jekyll chirpy theme</th></tr>
 <tr>
 <td>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" width="100%" height="auto" />
@@ -18,9 +15,7 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
-</td>
-<td>
-<p>Giao diện người dùng Web UI, Ghim kinh sách lên trang chủ, Danh mục tủ kinh phân cấp, Luôn cập nhật kinh sách mới, Có tính năng gợi ý tìm kinh, Bảo mật không cơ sở dữ liệu.</p>
+<p>Giao diện người dùng Web UI, ghim kinh sách lên trang chủ, danh mục tủ kinh phân cấp, luôn cập nhật kinh sách mới, có tính năng gợi ý tìm kinh, bảo mật không cơ sở dữ liệu.</p>
 </td>
 </tr>
 </table>

@@ -30,7 +30,7 @@
 
 | <h3>công dụng</h3> | <h3>ứng dụng</h3>
 |:-----|:-----|
-| câu lệnh | > Terminal<br> > PowerShell |
+| câu lệnh | *Terminal <br>*PowerShell |
 | [Github GUI](https://desktop.github.com/download) | [Github GUI](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 | [Ruby v3.4](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) | Ruby Full |
 | Gem Jekyll | Gem Jekyll |

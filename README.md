@@ -64,11 +64,13 @@
 
 </div>
 
+**Sau khi hoàn tất cấu hình, kho lưu kinh được ánh xạ với tên `kinhsach.github.io`. Nếu không muốn `copy` trong suốt quá trình thiết kế, đồng đạo hãy cài khung `jekyll theme`, sau đó chép hết nội dung trong thư mục `_site` vào kho lưu kinh `kinhsach.github.io`, tiếp theo xóa `_site`, cuối cùng đổi tên kho lưu kinh `kinhsach.github.io` thành `_site` và đặt vào đúng vị trí yêu cầu của `jekyll theme`.**
+
 ## kinh sách jekyll
 
 <div align="center">
 
-| <h3>ruby gem jekyll</h3> |
+| <h3>ruby gem</h3> |
 |:-----|
 | tải và cài [rubyinstaller devkit 3.4.5 x64](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) |
 | cài ruby nhớ chọn tính năng all users |

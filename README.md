@@ -31,22 +31,22 @@
 <tr>
 <td>
 
-> Giao diện người dùng Web UI.<br>
-> Ghim kinh sách lên trang chủ.<br>
-> Danh mục tủ kinh phân cấp.<br>
-> Luôn cập nhật kinh sách mới.<br>
-> Có tính năng gợi ý tìm kinh.<br>
-> Bảo mật không cơ sở dữ liệu.
+**Giao diện người dùng Web UI.**<br>
+**Ghim kinh sách lên trang chủ.**<br>
+**Danh mục tủ kinh phân cấp.**<br>
+**Luôn cập nhật kinh sách mới.**<br>
+**Có tính năng gợi ý tìm kinh.**<br>
+**Bảo mật không cơ sở dữ liệu.**
 
 </td>
 <td>
 
-> Kinh sách podcast amazon.<br>
-> SEO JSON-LD ghép với RDFa.<br>
-> Mã nhúng video audio nhanh.<br>
-> Nguồn dữ liệu atom liên kết.<br>
-> Hiệu suất trang kinh rất cao.<br>
-> Mã nguồn jekyll đa nền tảng.
+**Kinh sách podcast amazon.**<br>
+**SEO JSON-LD ghép với RDFa.**<br>
+**Mã nhúng video audio nhanh.**<br>
+**Nguồn dữ liệu atom liên kết.**<br>
+**Hiệu suất trang kinh rất cao.**<br>
+**Mã nguồn jekyll đa nền tảng.**
 
 </td>
 </tr>

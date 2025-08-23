@@ -27,15 +27,11 @@
 
 <table style="width: 100%;">
 <tr>
-<th style="width: 50%;">tính năng</th>
-<th style="width: 50%;">quảng bá</th>
+<th style="width: 50%;">cms không csdl</th>
 </tr>
 <tr>
 <td>
   <p><b>Giao diện người dùng web ui. Ghim kinh sách lên trang chủ. Danh mục tủ kinh phân cấp. Luôn cập nhật kinh sách mới. Có tính năng gợi ý tìm kinh. Bảo mật không cơ sở dữ liệu.</b></p>
-
-</td>
-<td>
   <p><b>Kinh sách podcast amazon. Seo json-ld ghép với rdfa. Mã nhúng video audio nhanhnhanh. Nguồn dữ liệu atom liên kết. Hiệu suất trang kinh rất cao. Mã nguồn jekyll đa nền tảng.</b></p>
 </td>
 </tr>

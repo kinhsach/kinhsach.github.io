@@ -15,7 +15,6 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
-<hr>
 <p><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo. Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy" title="kinh sách" target="_blank">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/" title="kinh sách" target="_blank">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.</b></p>
 
 | tính năng | quảng bá |

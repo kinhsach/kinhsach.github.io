@@ -15,7 +15,15 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
-<p>Giao diện người dùng Web UI, ghim kinh sách lên trang chủ, danh mục tủ kinh phân cấp, luôn cập nhật kinh sách mới, có tính năng gợi ý tìm kinh, bảo mật không cơ sở dữ liệu.</p>
+
+|:-----|:-----|
+| Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
+| Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |
+| Danh mục tủ kinh phân cấp. | Mã nhúng video audio nhanh. |
+| Luôn cập nhật kinh sách mới. | Nguồn dữ liệu atom liên kết. |
+| Có tính năng gợi ý tìm kinh. | Hiệu suất trang kinh rất cao. |
+| Bảo mật không cơ sở dữ liệu. | Mã nguồn jekyll đa nền tảng. |
+
 </td>
 </tr>
 </table>

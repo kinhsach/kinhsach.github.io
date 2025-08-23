@@ -1,6 +1,6 @@
 # kinhsach.github.io
 
-<p><b font-size="30px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
+<p font-size="30px"><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
 
 ![kinh sách](https://chirpy-img.netlify.app/commons/devices-mockup.png "Mã nguồn chirpy theme")
 

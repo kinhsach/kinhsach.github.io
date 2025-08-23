@@ -29,6 +29,8 @@
 
 **Kinh sách miễn phí `github` có hai giải pháp xây dựng, một là nhân bản `clone` trực tiếp kho lưu trữ của `chirpy` về phát triển với giấy phép `MIT Lisence`, hai là tải `download chirpy template` về phát triển và dùng nội dung `_site` tạo `HTML` tiêu chuẩn với giấy phép `GPL-2.0 License`. Kinh sách miễn phí xây dựng trên `github` bước đầu tiên là đăng ký tài khoản, tạo khóa liên kết `ssh key` và tạo kho lưu trữ `repository`.**
 
+<div align="center">
+
 | <h3>ssh keygen cmd</h3> |
 |:-----|
 | trên windows mở cmd quyền quản trị |
@@ -36,7 +38,11 @@
 | enter (hoặc nhập đường dẫn lưu keygen) |
 | nhập mật khẩu bảo mật ít nhất 4 ký tự |
 
-<p>Tập tin ssh-keygen có thể dùng notepad++ để mở định dạng .pub, chép đoạn nội dung truy cập github tạo ssh key.</p>
+</div>
+
+**Tập tin `ssh-keygen` có thể dùng `Notepad++` để mở định dạng `.pub`, chép đoạn nội dung truy cập `github` tạo `ssh key`.**
+
+<div align="center">
 
 | <h3>github ssh key</h3> |
 |:-----|
@@ -45,7 +51,9 @@
 | nhấn new ssh key và nhập file PUB vào |
 | nếu có key cũ không xài thì xóa trước |
 
-<p>Kinh sách miễn phí github.io là định dạng mặc định của github web page, tạo kho lưu kinh repository mới từ menu chính hoặc thẻ repositories, kho lưu repository có 3 thuộc tính gồm public + readme + license, giá trị license là GNU General Public License v2.0.</p>
+</div>
+
+**Kinh sách miễn phí `github.io` là định dạng mặc định của `github web page`, tạo kho lưu kinh `repository` mới từ `menu` chính hoặc thẻ `repositories`, kho lưu `repository` có 3 thuộc tính gồm `public + readme + license`, giá trị `license` là `GNU General Public License v2.0`.**
 
 | <h3>ruby gem jekyll</h3> |
 |:-----|

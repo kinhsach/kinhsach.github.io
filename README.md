@@ -3,7 +3,7 @@
 <p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 
-[![kinh sach](https://chirpy-img.netlify.app/commons/devices-mockup.png)]
+![kinh sach](https://chirpy-img.netlify.app/commons/devices-mockup.png "Mã nguồn chirpy theme")
 
 <div align="center">
 

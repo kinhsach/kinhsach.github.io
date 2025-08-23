@@ -1,553 +1,940 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://kinhsach.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kinhsach.github.io/" rel="alternate" type="text/html" hreflang="vi-VN" /><updated>2025-08-21T03:34:58+07:00</updated><id>https://kinhsach.github.io/feed.xml</id><title type="html">Kinh Sách</title><subtitle>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</subtitle><entry><title type="html">Thiền Định Niệm Phật</title><link href="https://kinhsach.github.io/posts/thien-dinh-niem-phat/" rel="alternate" type="text/html" title="Thiền Định Niệm Phật" /><published>2025-08-21T02:51:00+07:00</published><updated>2025-08-21T02:51:00+07:00</updated><id>https://kinhsach.github.io/posts/thien-dinh-niem-phat</id><content type="html" xml:base="https://kinhsach.github.io/posts/thien-dinh-niem-phat/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost/" rel="alternate" type="text/html" hreflang="vi-VN" /><updated>2025-08-23T11:23:41+07:00</updated><id>http://localhost/feed.xml</id><title type="html">Kinh Sách</title><subtitle>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</subtitle><entry><title type="html">Ma Ni Ấn Pháp</title><link href="http://localhost/posts/ma-ni-an-phap/" rel="alternate" type="text/html" title="Ma Ni Ấn Pháp" /><published>2025-08-22T11:21:00+07:00</published><updated>2025-08-22T11:21:00+07:00</updated><id>http://localhost/posts/ma-ni-an-phap</id><content type="html" xml:base="http://localhost/posts/ma-ni-an-phap/"><![CDATA[<style>
+	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
+	div.thunhananphap img {width: 100%; height: auto;}
+	div.thunhananphap p {font-size: 18px;}
+	div.desc {padding: 15px; text-align: center;}
+
+	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
+	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+
+	.clearfix:after {content: ""; display: table; clear: both;}
+</style>
+
+<body vocab="https://schema.org/" typeof="FAQPage">
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Thiền Định Niệm Phật</h2>
+	<h2 property="name">Ma Ni Ấn Pháp</h2>
 	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Điển thanh chỉ có thể tích tụ vun bồi được do sự phấn đấu với tội lỗi lo tu tiến giữ trường chay giới cấm và giữ sự thanh tịnh nội tâm trong cơn loạn động khảo đảo bằng thiền định hoặc bằng niệm Phật kiên trì, điều đó mới có thể giúp cho các con giải quyết một cách sáng suốt mọi bài toán khó trong cơn khổ hiện tại bằng sự bình an của nội tâm như hoa sen vẫn tươi nở hồn nhiên trong biển nghiệp rực lửa khóc liệt của trần đời.
-		</span>
+		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.eppnttpg9id4" target="_blank" title="Ma Ni Ấn Pháp">Ma Ni</a> bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng, tám tay thuộc bộ này là như ý châu bảo kinh bảo cung bạch liên hoa thanh liên hoa bảo đạc tử liên hoa bồ đào minh họa cho Pháp tăng ích, là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh cho mình và cho người khác.</span>
 	</p>
+</div>
+<div style="margin-bottom: 30px;"></div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/nhu-y-chau-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#nhuychauthunhan">Như Ý Châu <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kinh-thu-nhan-an-phap.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#baokinhthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Kinh <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-cung-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#baocungthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Cung <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bach-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#bachlienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Bạch Liên Hoa <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/thanh-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#thanhlienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Thanh Liên Hoa <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-dac-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#baodacthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Đạc <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/tu-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#tulienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Tử Liên Hoa <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bo-dao-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+		<div class="desc"><a href="#bodaothunhan" target="_parent" title="Ma Ni Ấn Pháp">Bồ Đào <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="clearfix"></div>
+
+<hr>
+<div property="mainEntity" typeof="Question" id="nhuychauthunhan">
+	<h2 property="name">Như Ý Châu Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.pd1jww4bbpm0" target="_blank" title="Ma Ni Ấn Pháp">Như ý châu thủ nhãn</a> được giàu sang. Tay thứ nhất trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Ma ra ma ra</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra phạ đa ra hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
 </div>
 <hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Lánh Khổ Sợ Khổ</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Nếu cứ rầu buồn sầu khổ luyến tiếc hoặc hy vọng rồi tìm cách lánh khổ sợ khổ kiếm ghe kiếm tàu trốn đi thì đâu có giải quyết được gì các con !!! Vì nếu có chỗ trốn nghiệp hoặc tránh khổ được thì ắt từ lâu đã có sẵn một cảnh thiên đàng tại quả địa cầu này với cảnh sống trường sanh bất lão không chiến tranh không thiên tai địa ách sung sướng đời đời vĩnh cửu rồi.
-		</span>
-	</p>
+<div property="mainEntity" typeof="Question" id="baokinhthunhan">
+	<h2 property="name">Bảo Kinh Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.x0230s4pt3hy" target="_blank" title="Ma Ni Ấn Pháp">Bảo kinh thủ nhãn</a> học rộng nghe nhiều. Tay thứ ba trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Tất đà dạ ta bà ha, ma ha tất đà dạ ta bà ha</b>. Chơn ngôn: <b>Án !!! A hạ ra tát ra phạ ni nễ dã đà ra bố nễ đế tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
 </div>
 <hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Trốn Trong Phước Đức</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Cho nên Cha e rằng đi thì dễ nhưng tới lúc về thì không tiện được nữa đâu các con, đứa nào thức tỉnh giác ngộ hồi đầu lại thì không cần phải trốn đi đâu cả mà hãy trốn trong phước đức do chính mình cố gằng vun bồi bằng công quả bằng trường chay giới cấm và trốn trong nội tâm an tịnh nhờ biết thiền định biết niệm Phật kiên trì nghĩa là các con chỉ có thể trốn trong một nơi duy nhất an toàn là trốn trong phước đức và trong nội tâm tự tại của chính mình trước mọi nghịch cảnh khảo đảo mà thôi.
-		</span>
-	</p>
+<div property="mainEntity" typeof="Question" id="baocungthunhan">
+	<h2 property="name">Bảo Cung Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.1bw4m7yeo327" target="_blank" title="Ma Ni Ấn Pháp">Bảo cung thủ nhãn</a> thăng quan tiến chức. Tay thứ nhất trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Phạt sa phạt sâm</b>. Chơn ngôn: <b>Án !!! A tả vĩ lệ tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
 </div>
 <hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Chết Chóc Khắp Nơi</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Rồi đây chết chóc khắp mọi nơi không phải chỉ chết ngoài sa trường mà hậu phương cũng chết ở đâu cũng bị nghiệp sát hoành hành cả, các con khá biết rằng cơ này chỉ có thanh điển mới hóa giải và chở che được thôi nên phải cố gắng vun bồi và duy trì thanh điển bằng phước đức và nội tâm an tỉnh nghe các con, các con nào biết nghe lời nhắn nhủ ân cần tha thiết của Cha mà vun bồi và giữ gìn thanh điển thì sẽ qua cơn đại khảo kỳ cùng không khó đâu con.
-		</span>
-	</p>
+<div property="mainEntity" typeof="Question" id="bachlienhoathunhan">
+	<h2 property="name">Bạch Liên Hoa Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.1jeud3fpdd4a" target="_blank" title="Ma Ni Ấn Pháp">Bạch liên hoa thủ nhãn</a> được hương thơm. Tay thứ tư trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Kiết mông</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra vị ra dã tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
 </div>
 <hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Việt Nam Nhồi Quả</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Rồi thế giới cũng phải vậy mà còn khổ hơn Việt Nam nữa, Việt Nam chịu nhồi quả trước rồi tới toàn cầu thế giới không có chỗ nào khỏi đừng có tưởng qua đó rồi hưởng được sung sướng đâu vì nếu nghiệp nặng thì ở đâu cũng khổ thôi con, nên các con hãy mau mau thức tỉnh giác ngộ lo tu tiến đi hãy gấp rút ăn trường chay giữ giới và tham thiền hay niệm Phật ngày đêm và nếu dư tiền của rỗi thời giờ thì nên làm phước bố thí phóng sanh để tạo thanh điển và giữ thanh điển.
-		</span>
-	</p>
+<div property="mainEntity" typeof="Question" id="thanhlienhoathunhan">
+	<h2 property="name">Thanh Liên Hoa Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.n91cqlwbgcfz" target="_blank" title="Ma Ni Ấn Pháp">Thanh liên hoa thủ nhãn</a> được sanh về Tịnh Độ. Tay thứ năm trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Rị đà dựng</b>. Chơn ngôn: <b>Án !!! Chỉ rị chỉ rị phạ nhựt ra bồ ra bạn đà hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
 </div>
 <hr>
+<div property="mainEntity" typeof="Question" id="baodacthunhan">
+	<h2 property="name">Bảo Đạc Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.ygoifr6f660g" target="_blank" title="Ma Ni Ấn Pháp">Bảo đạc thủ nhãn</a> có phạm âm nhiệm mầu. Tay thứ sáu trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Dá ra dá ra</b>. Chơn ngôn: <b>Án !!! A mật lật đảm nhiễm bệ thất rị duệ thất rị chiếm rị nãnh tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="tulienhoathunhan">
+	<h2 property="name">Tử Liên Hoa Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.2eovxyqrwab" target="_blank" title="Ma Ni Ấn Pháp">Tử liên hoa thủ nhãn</a> được diện kiến chư Phật. Tay thứ bảy trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Phật ra xá da</b>. Chơn ngôn: <b>Án !!! Tát ra tát ra phạ nhựt ra ca ra hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="bodaothunhan">
+	<h2 property="name">Bồ Đào Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.xrn0uu2z887d" target="_blank" title="Ma Ni Ấn Pháp">Bồ đào thủ nhãn</a> được cây trái ngũ cốc. Tay thứ tám trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>A tất đà dạ</b>. Chơn ngôn: <b>Án !!! A ma lã kiếm đế nễ nãnh tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="ma ni" /><category term="ấn pháp" /><summary type="html"><![CDATA[Ma Ni bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Như Lai Ấn Pháp</title><link href="http://localhost/posts/nhu-lai-an-phap/" rel="alternate" type="text/html" title="Như Lai Ấn Pháp" /><published>2025-08-22T07:39:00+07:00</published><updated>2025-08-22T07:39:00+07:00</updated><id>http://localhost/posts/nhu-lai-an-phap</id><content type="html" xml:base="http://localhost/posts/nhu-lai-an-phap/"><![CDATA[<style>
+	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
+	div.thunhananphap img {width: 100%; height: auto;}
+	div.thunhananphap p {font-size: 18px;}
+	div.desc {padding: 15px; text-align: center;}
+
+	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
+	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+
+	.clearfix:after {content: ""; display: table; clear: both;}
+</style>
+
+<body vocab="https://schema.org/" typeof="FAQPage">
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Phóng Sanh Bố Thí</h2>
+	<h2 property="name">Như Lai Ấn Pháp</h2>
 	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Rồi thế giới cũng phải vậy mà còn khổ hơn Việt Nam nữa, Việt Nam chịu nhồi quả trước rồi tới toàn cầu thế giới không có chỗ nào khỏi đừng có tưởng qua đó rồi hưởng được sung sướng đâu vì nếu nghiệp nặng thì ở đâu cũng khổ thôi con, nên các con hãy mau mau thức tỉnh giác ngộ lo tu tiến đi hãy gấp rút ăn trường chay giữ giới và tham thiền hay niệm Phật ngày đêm và nếu dư tiền của rỗi thời giờ thì nên làm phước bố thí phóng sanh để tạo thanh điển và giữ thanh điển.
-		</span>
+		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.sgs3qbn5x33t" target="_blank" title="Như Lai Ấn Pháp">Như Lai</a> bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới, tám tay thuộc bộ này là dương chi bảo kích việt phủ bàng bài bạch phất thí vô úy quyết sách hóa Phật minh họa cho Pháp tích tay, là Pháp tiêu trừ các loại bệnh nạn diệt ác của thân mình hoặc người khác.</span>
 	</p>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="thiền định" /><category term="niệm phật" /><summary type="html"><![CDATA[Lo tu tiến giữ trường chay giới cấm và giữ sự thanh tịnh nội tâm trong cơn loạn động khảo đảo bằng thiền định hoặc bằng niệm Phật kiên trì.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Thiền Định Niệm Phật</title><link href="https://kinhsach.github.io/posts/youtube-thien-dinh-niem-phat/" rel="alternate" type="text/html" title="Youtube Thiền Định Niệm Phật" /><published>2025-08-21T00:00:00+07:00</published><updated>2025-08-21T00:00:00+07:00</updated><id>https://kinhsach.github.io/posts/youtube-thien-dinh-niem-phat</id><content type="html" xml:base="https://kinhsach.github.io/posts/youtube-thien-dinh-niem-phat/"><![CDATA[<body vocab="https://schema.org/" typeof="VideoObject">
-{% include embed/youtube.html id='xZxuG4kOZmc?si=80Yo7CMwveaB-y54&amp;clip=UgkxOubO7t87QwQssNifRjC_L3J6noPBu-q0&amp;clipt=ENjQngEY6JugAQ' %}
+<div style="margin-bottom: 30px;"></div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/hoa-phat-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#hoaphatthunhan">Hóa Phật <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kich-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#baokichthunhan" target="_parent" title="Như Lai Ấn Pháp">Bảo Kích <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/duong-chi-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#duongchithunhan" target="_parent" title="Như Lai Ấn Pháp">Dương Chi <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/viet-phu-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#vietphuthunhan" target="_parent" title="Như Lai Ấn Pháp">Việt Phủ <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bang-bai-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#bangbaithunhan" target="_parent" title="Như Lai Ấn Pháp">Bàng Bài <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/bach-phat-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#bachphatthunhan" target="_parent" title="Như Lai Ấn Pháp">Bạch Phất <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/thi-vo-uy-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#thivouythunhan" target="_parent" title="Như Lai Ấn Pháp">Thí Vô Úy <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="khunganh">
+	<div class="thunhananphap">
+		<img src="https://www.itvtbadboy.io.vn/image/kinh/quyet-sach-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+		<div class="desc"><a href="#quyetsachthunhan" target="_parent" title="Như Lai Ấn Pháp">Quyết Sách <br>Thủ Nhãn</a></div>
+	</div>
+</div>
+<div class="clearfix"></div>
+
+<hr>
+<div property="mainEntity" typeof="Question" id="duongchithunhan">
+	<h2 property="name">Dương Chi Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.6j7d2bxsngcf" target="_blank" title="Như Lai Ấn Pháp">Dương chi thủ nhãn</a> trị bệnh trên thân. Tay thứ tám trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Mục đế lệ</b>. Chơn ngôn: <b>Án !!! Tô tất địa ca rị phạ rị đa nẫm đa mục đa duệ phạ nhựt ra phạ nhựt ra bạn đà hạ nẵng hạ nẵng hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="baokichthunhan">
+	<h2 property="name">Bảo Kích Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.f8f7bch605ta" target="_blank" title="Như Lai Ấn Pháp">Bảo kích thủ nhãn</a> xua đuổi giặc xâm lăng. Tay thứ bảy trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Ma ha phạt xà da đế</b>. Chơn ngôn: <b>Án !!! Thảm muội dã chỉ nãnh hạ rị hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="vietphuthunhan">
+	<h2 property="name">Việt Phủ Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.md9lf3hcv0wj" target="_blank" title="Như Lai Ấn Pháp">Việt phủ thủ nhãn</a> lìa nạn quan quyền. Tay thứ sáu trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Tất ra tăng a mục khư da</b>. Chơn ngôn: <b>Án !!! Vị ri dã vị ri dã tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="bangbaithunhan">
+	<h2 property="name">Bàng Bài Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.m9f9vdtn6gqy" target="_blank" title="Như Lai Ấn Pháp">Bàng bài thủ nhãn</a> trừ ác thú độ sinh tử. Tay thứ năm trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Phạt xà da đế</b>. Chơn ngôn: <b>Án !!! Dược các sảm nẵng na dã chiến nại ra đạt nậu bá rị dã bạt xá bạt xá tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="bachphatthunhan">
+	<h2 property="name">Bạch Phất Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.gjxxjd26erbs" target="_blank" title="Như Lai Ấn Pháp">Bạch phất thủ nhãn</a> trừ chướng nạn. Tay thứ tư trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Mạ mạ</b>. Chơn ngôn: <b>Án !!! Bát na di nãnh bà nga phạ đế mô hạ dã nhá nga mô hạ nãnh tát phạ hạ</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="thivouythunhan">
+	<h2 property="name">Thí Vô Úy Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.ioydnmn8xw6e" target="_blank" title="Như Lai Ấn Pháp">Thí vô úy thủ nhãn</a> trừ tánh sợ hãi. Tay thứ ba trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Na ra cẩn trì bàn đà ra dạ</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra nẵng dã hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="quyetsachthunhan">
+	<h2 property="name">Quyết Sách Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.kqpewsv1mr97" target="_blank" title="Như Lai Ấn Pháp">Quyết sách thủ nhãn</a> được an ổn. Tay thứ hai trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>Ma ra na ra</b>. Chơn ngôn: <b>Án !!! Chỉ rị lã ra mô nại ra hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question" id="hoaphatthunhan">
+	<h2 property="name">Hóa Phật Thủ Nhãn</h2>
+	<div property="acceptedAnswer" typeof="Answer">
+		<p property="text">
+			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/nhu-lai-an-phap#h.anxs28oigbxc" target="_blank" title="Như Lai Ấn Pháp">Hóa Phật thủ nhãn</a> được ở bên đức Phật. Tay thứ nhất trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay.</span>
+			<blockquote style="font-size: 18px;">Thần chú: <b>A ra sâm</b>. Chơn ngôn: <b>Án !!! Chiến na ra ba hàm tra rị ca rị na chỉ rị na chỉ rị nỉ hồng phấn tra</b>.</blockquote>
+		</p>
+	</div>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="như lai" /><category term="ấn pháp" /><summary type="html"><![CDATA[Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới là Pháp tiêu trừ các loại bệnh nạn.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Ma Ni Ấn Pháp</title><link href="http://localhost/posts/youtube-ma-ni-an-phap/" rel="alternate" type="text/html" title="Youtube Ma Ni Ấn Pháp" /><published>2025-08-22T00:00:00+07:00</published><updated>2025-08-22T00:00:00+07:00</updated><id>http://localhost/posts/youtube-ma-ni-an-phap</id><content type="html" xml:base="http://localhost/posts/youtube-ma-ni-an-phap/"><![CDATA[<style>
+	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
+	div.thunhananphap img {width: 100%; height: auto;}
+	div.thunhananphap p {font-size: 18px;}
+	div.desc {padding: 15px; text-align: center;}
+
+	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
+	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+
+	.clearfix:after {content: ""; display: table; clear: both;}
+</style>
+
+<body vocab="https://schema.org/" typeof="VideoObject">
+<iframe
+  class="embed-video"
+  loading="lazy"
+  src="https://www.youtube.com/embed/2ItRhFRx1YM"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
 <div>
-	<h2 property="name">Thiền Định Niệm Phật</h2>
-	<p property="description">Điển thanh chỉ có thể tích tụ vun bồi được do sự phấn đấu với tội lỗi lo tu tiến giữ trường chay giới cấm và giữ sự thanh tịnh nội tâm trong cơn loạn động khảo đảo bằng thiền định hoặc bằng niệm <a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" target="_blank" title="Thiền Định Niệm Phật">Phật</a> kiên trì, điều đó mới có thể giúp cho các con giải quyết một cách sáng suốt mọi bài toán khó trong cơn khổ hiện tại bằng sự bình an của nội tâm như hoa sen vẫn tươi nở hồn nhiên trong biển nghiệp rực lửa khóc liệt của trần đời, <a property="embedUrl" href="https://youtube.com/clip/UgkxOubO7t87QwQssNifRjC_L3J6noPBu-q0" target="_blank" title="Thiền Định Niệm Phật">youtube video</a>.</p>
+	<h2 property="name">Ma Ni Ấn Pháp</h2>
+	<p property="description"><a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" target="_blank" title="Ma Ni Ấn Pháp">Ma Ni</a> bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng, tám tay thuộc bộ này là như ý châu bảo kinh bảo cung bạch liên hoa thanh liên hoa bảo đạc tử liên hoa bồ đào minh họa cho Pháp tăng ích, là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh cho mình và cho người khác, <a property="contentUrl" href="https://www.youtube.com/watch?v=2ItRhFRx1YM" target="_blank" title="Ma Ni Ấn Pháp">youtube video</a>.</p>
+
+	<div style="margin-bottom: 30px;"></div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/nhu-y-chau-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=125&end=219" target="_blank" title="Ma Ni Ấn Pháp">Như Ý Châu <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="125"></span> <span property="endOffset" content="219"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-kinh-thu-nhan-an-phap.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2560&end=2661" target="_blank" title="Ma Ni Ấn Pháp">Bảo Kinh <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="2560"></span> <span property="endOffset" content="2661"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-cung-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=802&end=883" target="_blank" title="Ma Ni Ấn Pháp">Bảo Cung <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="802"></span> <span property="endOffset" content="883"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bach-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1597&end=1663" target="_blank" title="Ma Ni Ấn Pháp">Bạch Liên Hoa <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1597"></span> <span property="endOffset" content="1663"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/thanh-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1663&end=1745" target="_blank" title="Ma Ni Ấn Pháp">Thanh Liên Hoa <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1663"></span> <span property="endOffset" content="1745"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-dac-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=4089&end=4147" target="_blank" title="Ma Ni Ấn Pháp">Bảo Đạc <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="4089"></span> <span property="endOffset" content="4147"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/tu-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3428&end=3523" target="_blank" title="Ma Ni Ấn Pháp">Tử Liên Hoa <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="3428"></span> <span property="endOffset" content="3523"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bo-dao-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2813&end=2874" target="_blank" title="Ma Ni Ấn Pháp">Bồ Đào <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="2813"></span> <span property="endOffset" content="2874"></span></div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+
 	<div style="display: none;">
-		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT26S</span>
+		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT01H10M</span>
 		<div property="interactionStatistic" typeof="InteractionCounter">
-			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">1</span>
+			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">100</span>
 		</div>
 	</div>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="youtube" /><category term="thiền định" /><category term="niệm phật" /><summary type="html"><![CDATA[Thiền Định Niệm Phật Điển thanh chỉ có thể tích tụ vun bồi được do sự phấn đấu với tội lỗi lo tu tiến giữ trường chay giới cấm và giữ sự thanh tịnh nội tâm trong cơn loạn động khảo đảo bằng thiền định hoặc bằng niệm Phật kiên trì, điều đó mới có thể giúp cho các con giải quyết một cách sáng suốt mọi bài toán khó trong cơn khổ hiện tại bằng sự bình an của nội tâm như hoa sen vẫn tươi nở hồn nhiên trong biển nghiệp rực lửa khóc liệt của trần đời, youtube video. 2025-06-20T08:00:00+07:00 PT26S 1]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chờ Bảy Ức Niên</title><link href="https://kinhsach.github.io/posts/cho-bay-uc-nien/" rel="alternate" type="text/html" title="Chờ Bảy Ức Niên" /><published>2025-08-20T14:51:00+07:00</published><updated>2025-08-20T14:51:00+07:00</updated><id>https://kinhsach.github.io/posts/cho-bay-uc-nien</id><content type="html" xml:base="https://kinhsach.github.io/posts/cho-bay-uc-nien/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="youtube" /><category term="ma ni" /><category term="ấn pháp" /><summary type="html"><![CDATA[.khunganh {padding: 0 6px; float: left; width: 24.99999%;} div.thunhananphap img {width: 100%; height: auto;} div.thunhananphap p {font-size: 18px;} div.desc {padding: 15px; text-align: center;}]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Như Lai Ấn Pháp</title><link href="http://localhost/posts/youtube-nhu-lai-an-phap/" rel="alternate" type="text/html" title="Youtube Như Lai Ấn Pháp" /><published>2025-08-22T00:00:00+07:00</published><updated>2025-08-22T00:00:00+07:00</updated><id>http://localhost/posts/youtube-nhu-lai-an-phap</id><content type="html" xml:base="http://localhost/posts/youtube-nhu-lai-an-phap/"><![CDATA[<style>
+	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
+	div.thunhananphap img {width: 100%; height: auto;}
+	div.thunhananphap p {font-size: 18px;}
+	div.desc {padding: 15px; text-align: center;}
+
+	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
+	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+
+	.clearfix:after {content: ""; display: table; clear: both;}
+</style>
+
+<body vocab="https://schema.org/" typeof="VideoObject">
+<iframe
+  class="embed-video"
+  loading="lazy"
+  src="https://www.youtube.com/embed/2ItRhFRx1YM"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+<div>
+	<h2 property="name">Như Lai Ấn Pháp</h2>
+	<p property="description"><a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" target="_blank" title="Như Lai Ấn Pháp">Như Lai</a> bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới, tám tay thuộc bộ này là dương chi bảo kích việt phủ bàng bài bạch phất thí vô úy quyết sách hóa Phật minh họa cho Pháp tích tay, là Pháp tiêu trừ các loại bệnh nạn diệt ác của thân mình hoặc người khác, <a property="contentUrl" href="https://www.youtube.com/watch?v=2ItRhFRx1YM" target="_blank" title="Như Lai Ấn Pháp">youtube video</a>.</p>
+
+	<div style="margin-bottom: 30px;"></div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/hoa-phat-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2390&end=2476" target="_blank" title="Như Lai Ấn Pháp">Hóa Phật <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="2390"></span> <span property="endOffset" content="2476"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-kich-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3843&end=3930" target="_blank" title="Như Lai Ấn Pháp">Bảo Kích <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="3843"></span> <span property="endOffset" content="3930"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/duong-chi-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1152&end=1229" target="_blank" title="Như Lai Ấn Pháp">Dương Chi <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1152"></span> <span property="endOffset" content="1229"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/viet-phu-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1460&end=1527" target="_blank" title="Như Lai Ấn Pháp">Việt Phủ <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1460"></span> <span property="endOffset" content="1527"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bang-bai-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1374&end=1460" target="_blank" title="Như Lai Ấn Pháp">Bàng Bài <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1374"></span> <span property="endOffset" content="1460"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bach-phat-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1229&end=1294" target="_blank" title="Như Lai Ấn Pháp">Bạch Phất <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="1229"></span> <span property="endOffset" content="1294"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/thi-vo-uy-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=623&end=683" target="_blank" title="Như Lai Ấn Pháp">Thí Vô Úy <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="623"></span> <span property="endOffset" content="683"></span></div>
+		</div>
+	</div>
+	<div class="khunganh" property="hasPart" typeof="Clip">
+		<div class="thunhananphap">
+			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/quyet-sach-thu-nhan.jpg" alt="nhu lai an phap" width="100%" height="auto">
+			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=219&end=330" target="_blank" title="Như Lai Ấn Pháp">Quyết Sách <br>Thủ Nhãn</a></div>
+			<div style="display: none;"><span property="startOffset" content="219"></span> <span property="endOffset" content="330"></span></div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+
+	<div style="display: none;">
+		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT01H10M</span>
+		<div property="interactionStatistic" typeof="InteractionCounter">
+			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">100</span>
+		</div>
+	</div>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="youtube" /><category term="như lai" /><category term="ấn pháp" /><summary type="html"><![CDATA[.khunganh {padding: 0 6px; float: left; width: 24.99999%;} div.thunhananphap img {width: 100%; height: auto;} div.thunhananphap p {font-size: 18px;} div.desc {padding: 15px; text-align: center;}]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Thủ Nhãn Ấn Pháp</title><link href="http://localhost/posts/thu-nhan-an-phap/" rel="alternate" type="text/html" title="Thủ Nhãn Ấn Pháp" /><published>2025-08-21T10:10:00+07:00</published><updated>2025-08-21T10:10:00+07:00</updated><id>http://localhost/posts/thu-nhan-an-phap</id><content type="html" xml:base="http://localhost/posts/thu-nhan-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Nghiệp Lực Trầm Luân</h2>
+	<h2 property="name">Xưng Tán Bồ Tát</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha giả ơn cho tất cả các con, Cha phải lâm trần chịu trăm cay ngàn đắng để thức giác cho chúng sinh quay về nguồn cội, nó từ đâu tới từ nguồn cội nó ra đi rồi phải có ngày trở lại nhưng nó mê trần nhiễm trần trải qua biết bao niên kỷ bao kiếp sống trong chu trình tiến hóa của nó, bị ô nhiễm nên quên nguồn cội rồi tạo nghiệp lực để nghiệp lực lôi cuốn dẫn dắt trong bể trầm luân.
+			Kệ <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.s3t76zlotkp6" target="_blank" title="Thủ Nhãn Ấn Pháp">xưng tán</a> Bồ Tát Quán Thế Âm.<br><br>
+			Thủ nhãn thông thiên đại tổng trì.<br>
+			Chấn động tam thiên thế giới thì.<br>
+			Hữu duyên vô duyên hàm nhiếp quá.<br>
+			Từ bi phổ độ diêm phù đề.<br><br>
+			Nam mô Thiên Thủ Thiên Nhãn Quán Thế Âm Bồ Tát Quảng Đại Viên Mãn Vô Ngại Đại Bi Tâm Đà La Ni.<br>
+			Nam mô bổn sư Thích Ca Mâu Ni Phật.<br>
+			Nam mô Thiên Thủ Thiên Nhãn Quán Thế Âm Bồ Tát.<br>
+			Nam mô Thí Vô Úy Quán Tự Tại Bồ Tát.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Mê Theo Tiếng Trần</h2>
+	<h2 property="name">Học Hiểu Ấn Pháp</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">Chú đại bi và 42 thủ nhãn công năng và diệu dụng không thể nghĩ bàn, Pháp năm ngàn muôn kiếp khó tìm gặp được, chúng ta <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.ijnhpnx25cjk" target="_blank" title="Thủ Nhãn Ấn Pháp">học hiểu</a> một ấn Pháp thì nên theo đó mà thực hành chắc thực, tu tập chú đại bi và thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, luôn hồi quang phản chiếu soi lại chính mình tuyệt đối không được khởi tâm niệm tham cầu thần thông, có thành tựu hay không hoàn toàn ở cách tu sửa nơi thân ý của quý vị. Nam mô A Di Đà Phật !!!</span>
+	</p>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">15 Xấu 15 Tốt</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">Theo kinh Thiên Thủ Thiên Nhãn Quán Thế Âm Bồ Tát Quảng Đại Viên Mãn Vô Ngại Đại Bi Tâm Đà La Ni, nếu các hàng Trời người trì tụng <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.1nnm2jypq86n" target="_blank" title="Thủ Nhãn Ấn Pháp">thần chú đại bi</a> thì không bị 15 việc chết xấu sẽ được 15 chỗ sanh tốt.</span>
+	</p>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Nghĩa Mười Một Mặt</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">Nhã quyết ghi nhận là: <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.82m7ub2wc9o1" target="_blank" title="Thủ Nhãn Ấn Pháp">11 mặt</a> là 11 địa tức là Hoan Hỉ Địa, Ly Cấu địa, Phát Quang địa, Diệu Tuệ địa, Nang Thắng địa, Hiện Tiền địa, Viễn Cảnh địa, Bất Động địa, Thiện Tuệ địa, Pháp Vân địa và Phật địa biểu thị cho 11 phẩm vô minh lại thêm mặt cốc biểu thị cho 12 phẩm vô minh hoặc nói là độ 12 nhân duyên.</span>
+	</p>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Tướng Đà La Ni</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">Người muốn tu trì chú đại bi trước tiên phải phát khởi tâm cảm ơn sự trong sạch của nguồn Pháp, quy mệnh bản Tôn đại bi thanh cảnh Quán Âm cùng với thần chú này. Tiếp theo khẩn cầu đức Quán Thế Âm Bồ Tát giúp đỡ chúng ta đến được cảnh giới viên mãn thanh tịnh đập nát tất cả chướng ác, ngoài ra chúng ta cần phải nhớ trì mười loại <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.dps72b21rmxo" target="_blank" title="Thủ Nhãn Ấn Pháp">tướng mạo đà la ni</a> này nhằm tăng cường thêm uy lực của chú đại bi.</span>
+	</p>
+</div>
+<hr>
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Vạn Đức Cứu Cánh</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">Theo Thiên Quang Nhãn Quán Tự Tại Bồ Tát bí mật Pháp kinh thì ngàn tay là tổng số tay làm lợi ích cho 25 hữu trong đó một hữu thường có 40 tay hóa độ 40 Pháp, 40 Pháp biểu thị cho năm trí tuệ của Như Lai nhằm minh họa cho <a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap#h.q026vam9moht" target="_blank" title="Thủ Nhãn Ấn Pháp">vạn đức cứu cánh</a> là...</span>
+	</p>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="thủ nhãn" /><category term="ấn pháp" /><summary type="html"><![CDATA[Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, tuyệt đối không được khởi tâm niệm tham cầu thần thông.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chú Đại Bi</title><link href="http://localhost/posts/chu-dai-bi/" rel="alternate" type="text/html" title="Chú Đại Bi" /><published>2025-08-21T09:55:00+07:00</published><updated>2025-08-21T09:55:00+07:00</updated><id>http://localhost/posts/chu-dai-bi</id><content type="html" xml:base="http://localhost/posts/chu-dai-bi/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Chú Đại Bi</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha kêu gọi biết bao nhiêu! Âm ba của đại hồn réo gọi các linh tử các tiểu hồn hãy quy nguyên nhưng các con của Cha cứ mải miết mê theo tiếng gọi của trần gian nên không nghe thấy tiếng gọi thiết tha của Cha mỏi mòn trông chờ, chúng mê muội không chịu xuống đò sang bến giác Cha xót xa nên không đành ngồi yên tọa vị phải lâm phàm để kêu gọi các con, bị âm thanh thiên điển réo gọi chúng vẫn không cảm nhận được nên bấy lâu Cha mượn cơ bút nay đành mượn kim thân tứ đại để ân cần nhắc nhở các con.
+			NAM MÔ ĐẠI BI HỘI THƯỢNG PHẬT BỒ TÁT.<br><br>
+			THIÊN THỦ THIÊN NHÃN VÔ NGẠI ĐẠI BI TÂM ĐÀ LA NI.<br><br>
+			Nam mô hắc ra đát na đá ra dạ da.<br><br>
+			Nam mô a rị da, bà lô kiết đế thước bát ra da, bồ đề tát đỏa bà da, ma ha tát đỏa bà da, ma ha ca lô ni ca da.<br><br>
+			Án !!! Tát bàn ra phạt duệ, số đát na đát tả.<br><br>
+			Nam mô tất kiết lật đỏa y mông a lị da, bà lô kiết đế thất Phật ra lăng đà bà.<br><br>
+			Nam mô na ra cẩn trì, hê rị ma ha bàn đà sa mế, tát bà a tha đậu du bằng, a thệ dựng, tát bà tát đá, na ma bà dà, ma phạt đạt đậu, đát điệt tha.<br><br>
+			Án !!! A bà lô hê, lô ca đế, ca ra đế, di hê lị ma ha bồ đề tát đỏa, tát bà tát bà, ma ra ma ra, ma hê ma hê rị đà dựng. Cu lô cu lô kiết mông, đồ lô đồ lô phạt xà da đế, ma ha phạt xà da đế, đà la đà la, địa rị ni thất Phật ra da, dá ra dá ra.<br><br>
+			Mạ mạ phạt ma ra, mục đế lệ, y hê y hê, thất na thất na, a ra sâm Phật ra xá lợi, phạt sa phạt sâm, Phật ra xá da, hô lô hô lô ma ra, hô lô hô lô hê rị, ta ra ta ra, tất rị tất rị, tô rô tô rô, bồ đề dạ bồ đề dạ, bồ đà dạ bồ đà dạ, di đế rị dạ, na ra cẩn trì, địa rị sắt ni na, ba dạ ma na, ta bà ha.<br><br>
+			Tất đà dạ, ta bà ha.<br>
+			Ma ha tất đà dạ, ta bà ha.<br>
+			Tất đà du nghệ thất bàn ra dạ, ta bà ha.<br>
+			Na ra cẩn trì, ta bà ha.<br>
+			Ma ra na ra, ta bà ha.<br>
+			Tất ra tăng a mục khư da, ta bà ha.<br>
+			Ta bà ma ha a tất đà dạ, ta bà ha.<br>
+			Giả kiết ra a tất đà dạ, ta bà ha.<br>
+			Ba đà ma kiết tất đà dạ, ta bà ha.<br>
+			Na ra cẩn trì bàn đà ra dạ, ta bà ha.<br>
+			Ma bà rị thắng kiết ra dạ, ta bà ha.<br><br>
+			Nam mô hắc ra đát na đá ra dạ da.<br>
+			Nam mô a rị da bà lô kiết đế thước bàn ra dạ, ta bà ha.<br>
+			Án !!! Tất điện đô, mạn đà ra bạt đà dạ, ta bà ha.
+		</span>
+	</p>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="chú đại bi" /><summary type="html"><![CDATA[Chú đại bi là thần chú giúp chúng sinh an lạc, nói cách khác cũng là hạnh nguyện của ngài Quán Thế Âm Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Địa Tạng Bồ Tát Bổn Nguyện</title><link href="http://localhost/posts/dia-tang-bo-tat-bon-nguyen/" rel="alternate" type="text/html" title="Địa Tạng Bồ Tát Bổn Nguyện" /><published>2025-08-21T09:19:00+07:00</published><updated>2025-08-21T09:19:00+07:00</updated><id>http://localhost/posts/dia-tang-bo-tat-bon-nguyen</id><content type="html" xml:base="http://localhost/posts/dia-tang-bo-tat-bon-nguyen/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Bát Nhã Tâm Kinh</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">
+			Ma ha bát nhã ba la mật đa tâm kinh !!!<br><br>
+			Quán tự tại Bồ Tát hành thâm bát nhã ba la mật đa thời chiếu kiến ngũ uẩn giai không độ nhất thiết khổ ách.<br><br>
+			Xá lợi tử! Sắc bất dị không không bất dị sắc, sắc tức thị không không tức thị sắc, thọ tưởng hành thức diệt phục như thị.<br><br>
+			Xá lợi tử! Thị chư Pháp không tướng, bất sanh bất diệt bất cấu bất tịnh bất tăng bất giảm.<br><br>
+			Thị cố không trung vô sắc, vô thọ tưởng hành thức, vô nhãn nhĩ tỷ thiệt thân ý, vô sắc thinh hương vị xúc pháp, vô nhãn giới nãi chí vô ý thức giới.<br><br>
+			Vô vô minh diệt vô vô minh tận, nãi chí vô lão tử, diệt vô lão tử tận, vô khổ tập diệt đạo, vô trí diệt vô đắc.<br><br>
+			Dĩ vô sở đắc cố, bồ đề tát đõa, y bát nhã ba la mật đa cố, tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố, viễn ly điên đảo mộng tưởng, cứu cánh Niết Bàn.<br><br>
+			Tam thế chư Phật y bát nhã ba la mật đa cố, đắc a nậu đà la tam miệu tam bồ đề.<br><br>
+			Cố tri bát nhã ba la mật đa, thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ chân thiệt bất hư.<br><br>
+			Cố thuyết bát nhã ba la mật đa chú tức thuyết chú viết:<br><br>
+			YẾT ĐẾ YẾT ĐẾ, BA LA YẾT ĐẾ, BA LA TĂNG YẾT ĐẾ, BỒ ĐỀ TÁT BÀ HA.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Chờ Bảy Ức Niên</h2>
+	<h2 property="name">Hồng Trần Như Mộng</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Vì nó thấy Cha quá xa xôi với nó, ý niệm về Cha thật quá vô cùng tận thật quá vĩ đại nên nó không thể nào hình dung ra Cha nó để nhớ Cha nó, siêu điển vô vi vẫn không giúp nó cảm nhận được Cha đành mượn thân xác hữu vi để kêu gọi nó về, Cha đã dùng biết bao nhiêu phương tiện để dẫn dắt nó. Cho đến hôm nay ngươn mạt kiếp đã đến rồi mà đứa mê còn quá nhiều đứa tỉnh quá ít, lần này không về kịp thì phải chờ đến bảy ức niên sau mới có cơ hội tiến hóa !!!
+			Cuộc hồng trần xoay dần quá ngắn, kiếp phù sanh tựu tán mấy lăm hồi.<br><br>
+			Người đời có biết chăng ôi, thân người tuy có có rồi hoàn không.<br><br>
+			Chiêm bao khéo khuấy lạ lùng, mơ màng trong một giấc nồng mà chi.<br><br>
+			Làm cho buồn bã thế ni, hôm qua còn đó bữa nay mất rồi.<br><br>
+			Khi nào đứng đứng ngồi ngồi, bây giờ thiêm thiếp như chồi cây khô.<br><br>
+			Khi nào du lịch giang hồ, bây giờ nhắm mắt mà vô quan tài.<br><br>
+			Khi nào lược dắt trâm cài, bây giờ gởi xác ra ngoài gò hoang.<br><br>
+			Khi nào trau ngọc chuốt vàng, bây giờ một nắm xương tàn lạnh tanh.<br><br>
+			Khi nào mắt đẹp mài thanh, bây giờ thấy dạng thấy hình là đâu.<br><br>
+			Khi nào lên gác xuống lầu, bây giờ một nắm cỏ sầu xanh xanh.<br><br>
+			Khi nào liệt liệt quanh quanh, bây giờ một trận tan tành gió mưa.<br><br>
+			Khi nào ngựa lộc xe lừa, bây giờ mây rước trăng đưa mơ màng.<br><br>
+			Khi nào ra trướng vào màng, bây giờ nhà cửa xóm làng cách xa.<br><br>
+			Khi nào mẹ mẹ cha cha, bây giờ bóng núi khuất xa muôn trùng.<br><br>
+			Khi nào vợ vợ chồng chồng, bây giờ trăng khuyết còn mong chi tròn.<br><br>
+			Khi nào cháu cháu con con, bây giờ hai ngã nước non xa vời.<br><br>
+			Khi nào cốt nhục vẹn mười, bây giờ lá héo nhành tươi vui gì.<br><br>
+			Khi nào bạn hữu sum vầy, bây giờ chén rượu cuộc kỳ vắng thiêu.<br><br>
+			Cái thân như tấc bóng chiều, như chùm bọt nước phập phiều ngoài khơi.<br><br>
+			Xưa ông Bành Tổ sống đời, tám trăm tuổi thọ nay thời còn đâu.<br><br>
+			Sang mà đến bực công hầu, giàu mà đến bực bấy lâu Thạch Sùng.<br><br>
+			Nghèo mà đói khát lạnh lùng, khổ mà tóc cháy da phồng trần ai.<br><br>
+			Phù du sớm tối một mai, giàu sang cũng thác xạc xài cũng vong.<br><br>
+			Thông minh tài trí anh hùng, ngu si dại dột cũng chung một gò.<br><br>
+			Biển trần nhiều nỗi gay go, mau mau nhẹ gót qua đò sông mê.<br><br>
+			Sự đời nên chán nên chê, tầm nơi giải thoát mà về mới khôn.<br><br>
+			Vong hồn ơi hỡi vong hồn, cuộc đời nay biển mai cồn tình chưa.<br><br>
+			Tỉnh rồi một giấc say sưa, sẽ xin niệm Phật mà đưa hồn về.<br><br>
+			Hồn về Cực Lạc nước kia, cho xa hang quỷ mà lìa kiếp ma.<br><br>
+			Nhờ ơn đức Phật Di Đà, phóng ra một ngọn chói lòa hào quang.<br><br>
+			Trong khi tiếp dẫn rõ ràng, dắt hồn ra khỏi sáu đàn nghiệp nhân.<br><br>
+			Quan Âm Bồ Tát vui mừng, tay cầm nhành liễu tay bưng kim đài.<br><br>
+			Với cùng Thế Chí các ngài, cũng đều khuyến thỉnh lên ngay sen vàng.<br><br>
+			Có bảo cái có tràng phan, có mùi hương lạ có đàn ngọc xoay.<br><br>
+			Có Trời các cõi truy tùy, có đờn có trống rước đi một đường.<br><br>
+			Rước về đến cảnh Tây phương, có ao thất bảo có hương ngũ phần.<br><br>
+			Lưu ly có đất sáng ngần, ma ni có nước trong tầng chảy quanh.<br><br>
+			Thất trần có bảy lớp thành, bảy hàng cây báu phải dành lưới châu.<br><br>
+			Có ngân các có kim lầu, có chim nói Pháp nhiệm mầu dễ nghe.<br><br>
+			Nghe rồi tỏ Đạo Bồ Đề, bao nhiêu nghiệp chướng hồn mê dứt liền.<br><br>
+			Đã sanh về chín phẩm sen, mấy tai cũng sẩy mấy duyên cũng tròn.<br><br>
+			Phật như thể Mẹ tìm con, con mà gặp Mẹ lại còn lo chi.<br><br>
+			Lầu vàng đài báu thiếu gì, ăn thì cơm ngọc mặc thì áo châu.<br><br>
+			Không ơn không oán không sầu, không già không chết có đâu luân hồi.<br><br>
+			Tánh xưa nay đã tỏ rồi, gương xưa nay đã lau chùi trần ô.<br><br>
+			Tu hành phải đợi kíp mô, nguồn tình biển ái đã khô bao giờ.<br><br>
+			Lựa mà phải ngộ thiền cơ, mà đèn trí huệ dễ lờ đi đâu.<br><br>
+			Mấy lời hộ niệm trước sau, nguyện cho thành Phật mau mau nữa mà.<br><br>
+			Phân thân ra khỏi ta bà, từ bi tiếp độ những là chúng sanh.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Thiết Tha Bám Víu</h2>
+	<h2 property="name">Nguyện Thành Phật Đạo</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cho nên Cha phải lâm phàm để vớt nó, kêu gọi con trở về với Cha thật của nó, trần gian dâu bể lắm đổi thay nhưng nhìn những dâu bể đổi thay này nó vẫn chưa thức giác khi làm tỷ phú lúc làm thằng khốn khổ tay không trần gian đó giả tạm là vậy đó, thế mà các con của Cha vẫn chưa thức giác các hạnh phúc của trần gian mà các con thiết tha bám víu đó chính là mầm móng của khổ đau là giả tạm thôi con. Vinh bao nhiêu là nhục bấy nhiêu, vinh của ông tướng là cái nhục của thằng tù vinh của ông tỷ phú là cái nhục của thằng trắng tay, tất cả những thứ đó là để dạy cho các con thức giác để thấy trần gian là giả tạm để lo tu mà trở về.
+			Nguyện sanh Tây phương tịnh độ trung.<br>
+			Cửu phẩn liên hoa di phụ mẫu.<br>
+			Hoa khai kiến Phật ngộ vô sanh.<br>
+			Bất thối Bồ Tát di bản lữ.<br><br>
+			Nguyện dĩ thử công đức phổ cập nhất thiết ngã đẳng dữ chúng sanh giai cộng thành Phật đạo.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Không Đủ Hùng Tâm</h2>
+	<h2 property="name">Quy Y Tam Bảo</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Nhưng có mấy đứa thức giác đâu con, nó vẫn sợ vàng nó mất nhà nó mất của nó mất mà không chịu lo tu, Cha bảo lo tu lo bòn phước đức đừng có bòn vàng bòn cái gì người ta không lấy được nói không nghe, chỉ lo bòn những thứ mà người ta lấy được thì có lúc vẫn phải phủi tay thôi con, tất cả hạnh phúc trần gian đều là mầm móng đau khổ hãy tìm về hạnh phúc thật tức là về siêu nhiên để vượt thoát cái bể trầm luân mà chúng sinh đang ngụp lặn. Trước đây các con mải mê cầu danh cầu lợi kêu xả phú cầu bần xả thân cầu Đạo thì mấy đứa chịu nghe, nó không đủ hùng tâm để làm việc đó nên màn này Cha xả dùm cho nó !!!
+			Tự quy y Phật, đương nguyện chúng sanh thể giải đại đạo phát vô thượng tâm.<br><br>
+			Tự quy y Pháp, đương nguyện chúng sanh thâm nhập kinh tạng trí huệ như hải.<br><br>
+			Tự quy y Tăng, đương nguyện chúng sanh thống lý đại chúng nhất thiết vô ngại.
 		</span>
 	</p>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="chờ" /><category term="bảy" /><category term="ức niên" /><summary type="html"><![CDATA[Cho đến hôm nay ngươn mạt kiếp đã đến rồi mà đứa mê còn quá nhiều đứa tỉnh quá ít, lần này không về kịp thì phải chờ đến bảy ức niên sau.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chia Bảy Xẻ Ba</title><link href="https://kinhsach.github.io/posts/chia-bay-xe-ba/" rel="alternate" type="text/html" title="Chia Bảy Xẻ Ba" /><published>2025-08-20T14:34:00+07:00</published><updated>2025-08-20T14:34:00+07:00</updated><id>https://kinhsach.github.io/posts/chia-bay-xe-ba</id><content type="html" xml:base="https://kinhsach.github.io/posts/chia-bay-xe-ba/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Địa Tạng" /><category term="địa tạng" /><category term="bồ tát" /><category term="bổn nguyện" /><summary type="html"><![CDATA[Bát nhã tâm kinh tên đầy đủ là ma ha bát nhã ba la mật đa tâm kinh, là hạnh nguyện của ngài Địa Tạng Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cha Giáng Trần Dạy Tu Đạo P3</title><link href="http://localhost/posts/cha-giang-tran-day-tu-dao-phan-3/" rel="alternate" type="text/html" title="Cha Giáng Trần Dạy Tu Đạo P3" /><published>2025-08-21T08:45:00+07:00</published><updated>2025-08-21T08:45:00+07:00</updated><id>http://localhost/posts/cha-giang-tran-day-tu-dao-phan-3</id><content type="html" xml:base="http://localhost/posts/cha-giang-tran-day-tu-dao-phan-3/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Vạn Pháp Quy Nhứt</h2>
+	<h2 property="name">Chúng Con Không Thể</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha giả ơn cho tất cả các con, hôm nay Cha đến đây để chứng đàn và đây là một đàn cơ mà Cha đặc biệt dành riêng hồng ân cho phái vô vi huyền bí. Từ trước tới nay các con chưa hiểu Cha về cơ bút, đây là một dịp cho các con biết thêm để thấy rằng vạn Pháp cũng quy nhứt mà thôi, bây giờ các con lo sửa soạn hầu đàn Thầy lai lâm chào mừng kim thân của ta đây chào các con nam nữ vô vi đại Pháp chào nam nữ Hiệp Thiên nguyên căn.
+			Bạch Cha, chúng con là tiểu hồn do Cha chiếc hồn Cha ra giống y như Cha, Cha bảo chúng con chính thật là Cha là tiểu Thượng Đế không khác gì Thượng Đế, Cha vừa nói Cha phải làm cả ma quỷ Cha mới được toàn thiện toàn mỹ toàn giác toàn năng, thế sao chúng con một tiểu Thượng Đế giống như Cha <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.a0mbu22xwj4s" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">chúng con lại không thể</a> làm ma quỷ, vì như vậy chúng con sẽ chìm đắm trong ngu muội ác trược xấu xa để rơi vào cõi địa ngục luôn chớ không thể giác thiện mỹ như Cha được, tại sao vậy hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Chia Bảy Xẻ Ba</h2>
+	<h2 property="name">Con Không Minh Triết</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Thầy ban ơn lành cho tất cả các con hãy an tọa! Này các con Thầy là chúa tể càn khôn vũ trụ ngự tứ đàn tiền, nơi trời âu danh hiệu của Thầy là đức Chúa Trời đó vậy, tam giáo tòa đóng ấn chiếu thế mấy chục niên nay rồi Thầy cho các chi phái xuống trần độ quần sanh nhưng các con chẳng làm tròn sứ mạng trở lại chia bảy xẻ ba, đến hôm nay Thầy chọn kim thân rất tốt để tiến vào cơ quy nhất.
+			Thưa Cha, Cha bảo tiểu hồn con giống y như Cha thế tại sao Cha có minh triết có sáng suốt vừa là ma quỷ để khảo đảo vừa sáng suốt chống lại ma quỷ và biết sử dụng ma quỷ cho sự tiến hóa, còn bản chất chúng con giống y như Cha tại sao chúng con lại <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.vuylefqmewb7" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">không có chỗ minh triết</a> của Cha để biết sử dụng phần ác trược như Cha để phải bị nó khống chế hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Thầy Là Chúa Cha</h2>
+	<h2 property="name">Tội Lỗi Đáng Trách</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Này các con ơi ngày Thầy khai Đạo tá nhiều danh xưng mỗi nơi mỗi khác nhau như Phước Đức Tiên Ông, Tiên Viết Cao Đài Quyền Khung Thượng Đế, Ngọc Hoàng Thượng Đế và đây đức tốt tài lành chọn sỉ nhu Chúa Cha thương trẻ lại còn ra Trời ông xuống thế vì con dại cứu cánh quần sanh thoát cảnh tù, hoán thủ đức Chúa Trời cứu thế! Hôm nay Thầy xưng danh ra đây để cho các con rõ Thầy là Chúa Cha.
+			Thưa Cha, nếu như vậy thì những sái quấy tội lỗi của con người <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.1jffvqooh6it" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">có đáng được trách móc</a> kết án trước sự phán xét của công lý của loài người cũng như trước công lý của Thượng Đế chăng, khi mà những sai lầm của nó đều nằm trong định luật tự nhiên và trong sự xếp đặt của ý chí Thượng Đế hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Không Chờ Được Nữa</h2>
+	<h2 property="name">Nhân Quả Dội Lại</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Công trình cực nhọc dùng quyền diệu cơ bút và tá điển kim thân để dìu dắt các con từ thành thị đến thôn quê và khắp mọi hang cùng ngõ hẻm, đã mấy chục niên nay rồi Thầy đã cho các chi phái xuống trần quyến hóa quần sanh đến nay đã đến ngươn cuối cùng không còn chần chờ được nữa, các con phải tu tâm sửa tánh để quy nhất tương đồng, các con khá biết rằng Đạo nào cũng của Thầy ban ra cho nên các con phải cố gằng cùng lo tu tâm sửa tánh không nên phân biệt thấp cao không nên rẽ chia chi phái.
+			Thưa Cha, Cha nói rằng khi cần trách cứ lên án thì phải làm nhưng có điều khi lên án kẻ sái quấy thì lòng mình phải yêu thương sáng suốt muốn giúp cho kẻ đó tiến, nhưng thưa Cha vấn đề ở đây là những trường hợp kẻ lên án nghĩ mình thương nghĩ mình lên án cá nhân sái quấy kia để giúp cá nhân tiến, trong tâm có ý tốt như vậy nhưng thật ra sự lên án lại sai lầm làm kẻ bị lên án chịu sự phê phán bất công, như vậy thì luật <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.7jjzqzaynhxi" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">nhân quả có tác động lại</a> điều xấu cho một kẻ đã hành động thiếu sáng suốt mà cứ tưởng mình có ý tốt hay không hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Hồi Tâm Quy Nhứt</h2>
+	<h2 property="name">Diệt Tham Sân Si</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Các con nghĩ xem ngoài chợ đời buôn bán vật dụng cần dùng còn phải làm nhiều thứ nhiều kiểu khác nhau tùy theo sở thích của người mua huống hồ gì Thầy đây vì muốn cho các con tu để quy nguyên trở lại nên Thầy dùng đủ mọi phương tiện với màu sắc tôn giáo chi phái phong phú đa dạng để quyến độ mấy ức linh căn, nếu nhân loại hôm nay dầu cho chưa được toàn thiện toàn mỹ nhưng các con biết hồi tâm quay về quy nhứt bổn thì Thầy rất vui mừng.
+			Thưa Cha, Cha đã giảng bản chất của Thượng Đế có cả trược thanh và ở mọi trạng thái, như vậy trong Thượng Đế có cả tánh tham sân si thế tại sao các tôn giáo lại khuyên chúng con phải <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.ho8xhw2kl6so" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">diệt tham sân si</a>, vậy chẳng quá ra là khuyên chúng con làm mất đi bản chất Thượng Đế của chúng con sao hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Tam Công Tứ Lượng</h2>
+	<h2 property="name">Cha Luôn Thanh Tịnh</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Đừng chia rẽ đừng tị hiềm đừng bao giờ chê rằng Đạo người thấp Đạo mình cao vì Đạo nào cũng của Thầy ban xuống tất cả đấy các con, tùy sở thích các con hữu duyên gặp tôn giáo hay chi phái nào phù hợp với trình độ tiến hóa thì nương vào đó mà tu tâm sửa tánh, nếu lòng các con chánh lỡ gặp đạo tà thì cũng vẫn chánh cho nhưng ngược lại lòng các con tà dù gặp đạo chánh thì cũng thành tà thôi con, các con hãy khá nhớ người tu hành phải hòa đồng tương thân tương ái tam công tứ lượng cho đầy đủ.
+			Bạch Cha, tính nào Cha cũng có trạng thái nào Cha cũng có, Cha luôn luôn sinh động như vậy Cha làm sao <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.9fv1925wnnky" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">được thanh tịnh</a> hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Chấp Mình Hơn Người</h2>
+	<h2 property="name">Cha Có Khổ Không</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Các con có biết tam công tứ lượng là gì không? Tam công là công phu công quả công trình và tứ lượng là tứ vô lượng tâm tức từ bi hỷ xã đấy các con, các con đừng ganh tị đố kỵ ngã mạn cống cao chấp rằng mình lúc nào cũng hơn người và người luôn luôn thua mình, các con phải hòa đồng lấy lẻ trung dung mà ở đời được như vậy dù các con chưa thành Tiên tác Phật nhưng cũng đáng gọi là hiền triết sỉ nhân gương nhu lại cho đời bia vạn sử.
+			Thưa Cha, Cha hưởng vô cùng tận vậy Cha có <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.cyg7o1360os3" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">cảm giác đau khổ không</a> hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Đạo Thầy Chỉ Một</h2>
+	<h2 property="name">Chúng Con Nghe Nói</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Đạo của Thầy chỉ có một mà thôi phân chia là bởi tại lòng chúng sinh cố chấp nên thấy có sai biệt thấp cao đấy thôi, vậy Thầy ban ơn lành giã từ nam nữ mỗi con ngòi son Thầy viết vẫn còn tuổi tên, thương con Thầy nhớ nào quên dù cho vạn dặm không quên con hiền !!!
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="chia" /><category term="bảy" /><category term="xẻ" /><category term="ba" /><summary type="html"><![CDATA[Đừng chia rẽ đừng tị hiềm đừng bao giờ chê rằng Đạo người thấp Đạo mình cao vì Đạo nào cũng của Thầy ban xuống tất cả đấy các con.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Đừng Lo Mê Muội</title><link href="https://kinhsach.github.io/posts/dung-lo-me-muoi/" rel="alternate" type="text/html" title="Đừng Lo Mê Muội" /><published>2025-08-20T13:58:00+07:00</published><updated>2025-08-20T13:58:00+07:00</updated><id>https://kinhsach.github.io/posts/dung-lo-me-muoi</id><content type="html" xml:base="https://kinhsach.github.io/posts/dung-lo-me-muoi/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Đừng Lo Mê Muội</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Lo mà phải biết lo !!! Lo mà sáng suốt đừng có lo mê muội, lo mê muội là sao? Là cứ lo rầu buồn sợ cái này còn sợ cái kia mất là lo mê muội đó các con, các con lo theo kiểu rầu buồn khiến cho tâm tán loạn khiến tâm tán loạn đã chẳng giải quyết được gì mà còn tạo rắc rối để cho các con khổ thêm, cho nên lo mê muội chính là sự rầu buồn sầu bi đó các con các con phải biết mỗi khi lo rầu thì thần phải tán khí phải hao điển bị mất chắc chắn, hễ điển thanh mà mất thì hút trược tới trược kéo tới thì coi như mình rướt khổ tới đó các con vì cái khổ là do khí trược hoành hành cho nên các con màn này tịnh được càng hay để giữ tâm bớt tán loạn.
+			Thưa Cha, <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.kjr5t7ez8vva" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">chúng con có nghe nói</a> Ngọc Hoàng Thượng Đế ở ngôi thứ hai còn vị nắm quyền chủ tể âm dương ở ngôi thứ nhất, điều này có đúng không xin Cha cho chúng con rõ?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Gấp Rút Chay Trường</h2>
+	<h2 property="name">Tiếng Việt Tốt Không</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Niệm Phật luôn luôn để trụ tư tưởng các con mới giữ được điển thanh và ngăn bớt trược điển xâm nhập, màn này khối trược hoành hành con người dễ động loạn vì ngoại cảnh nên rất dễ bị nhiễm trược thế nên các con phải ráng cố gắng rất nhiều phải gấp rút ăn chay trường để ngăn bớt trược điển xâm nhập và ráng cố gắng trụ được tâm ý có như vậy các con mới giữ được thanh điển đặng nhờ khi khổ nạn đấy các con.
+			Thưa Cha, trước đây chúng con có nghe nói niệm lục tự Di Đà là để mở sáu luân xa trong bản thể, dù là người ngoại quốc học thiền theo phái vô vi khi hành Pháp cũng phải niệm theo tiếng Việt thì hiệu quả mới tốt, điều này <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.w7ophngtrsla" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">có đúng không thưa Cha</a> xin Cha giảng rõ thêm cho chúng con hiểu?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Cuộc Thế Đảo Điên</h2>
+	<h2 property="name">Số Chữ Ảnh Hưởng</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Đầu niên những đứa đến đảnh lễ Cha chắc có dịp nghe Cha nói rồi, Cha cho biết màn này khổ dữ lắm ôm nhà thì khổ với nhà ôm tiền thì khổ với tiền ôm vàng thì khổ với vàng, Cha cho biết trước rồi con nào còn luyến tiếc của cải trần gian thì phải chịu khảo đảo dữ lắm trong niên này đừng thèm nhớ tới chúng nữa, cuộc thế đã đảo điên lo việc tu để cứu khổ cứu nạn đi cứ buồn rầu mãi chẳng những không thoát được khổ nạn mà con đem nạn tới thêm đấy các con.
+			Thưa Cha, chúng con niệm lục tự Di Đà để mở lục thông và được sáng suốt, vậy xin Cha cho biết việc niệm tên Cha hiệu quả thế nào so với danh hiệu đức A Di Đà, chúng con thấy những tên khác nhau của Cha không có <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.ln8yni6zfq8k" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">số chữ nhất định</a> như lục tự Di Đà, vậy xin Cha cho biết số chữ trong danh Cha có ảnh hưởng gì trong việc niệm không hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Bảy Ức Niên Nữa</h2>
+	<h2 property="name">Tâm Pháp Bí Pháp</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha cho biết vậy cho các con vài lời để ban ơn và bố điển lành đó, Cha giả ơn cho các con! Cha cho biết trễ đò con phải đọa sa từ nay đôi ngã con Cha đoạn lìa, bảy ức niên mất tánh linh kia thôi ngàn thu vĩnh biệt Cha đành mất con! Các con ơi trễ bận này là bảy ức niên nữa mới có cơ hội tiến hóa rồi mất hết linh tánh mà mất hết linh tánh là coi như vĩnh biệt luôn rồi con, thương Cha thương Mẹ thì hãy lo mà về Cha mỏi mòn trông chờ các con.
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="đừng lo" /><category term="mê muội" /><summary type="html"><![CDATA[Lo mà phải biết lo !!! Lo mà sáng suốt đừng có lo mê muội, lo mê muội là sao? Là cứ lo rầu buồn sợ cái này còn sợ cái kia mất là lo mê muội đó các con.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tin Ở Trời Phật</title><link href="https://kinhsach.github.io/posts/tin-o-troi-phat/" rel="alternate" type="text/html" title="Tin Ở Trời Phật" /><published>2025-08-20T13:34:00+07:00</published><updated>2025-08-20T13:34:00+07:00</updated><id>https://kinhsach.github.io/posts/tin-o-troi-phat</id><content type="html" xml:base="https://kinhsach.github.io/posts/tin-o-troi-phat/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Tin Ở Trời Phật</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Màn này đứa nào thiếu tu đứa nào mất đức tin ở Trời đứa nào không nhớ tới Trời Phật trong cơn hoạn nạn của nó nó sẽ phải chịu khảo đảo dữ lắm, đứa nào còn nhớ tới Trời Phật biết tu chân chánh chắc chắn phải có cứu khổ cứu nạn, nếu nó nhớ tới Trời Phật luôn luôn thì đến việc nạn khổ của nó Trời Phật sẽ gánh bớt nạn của nó cho nó bớt khổ. Màn này mượn cái nghiệp của con khảo đảo con là để giúp con tiến lên đấy là bài học cho các con đó, nếu không học bài học này làm sao tiến hóa và sạch nghiệp được mà trở về hở con, tụi con phải học bài cho thuần thục để tiến hóa mà về.
+			Bạch Cha, xin Cha cho chúng con biết Pháp môn vô vi huyền bí học mà chúng con đang hành có phải là tâm Pháp không, và xin Cha giảng rõ <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.4mgozy9kek5h" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">thế nào là tâm Pháp</a> thế nào là bí Pháp hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Quan Niệm Hưởng Thụ</h2>
+	<h2 property="name">Lại Giữ Bí Truyền</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Xuống đây là để học chứ không phải xuống đây là để hưởng thụ thú vui trần tục đâu các con, nếu các con cứ cố chấp những quan niệm hưởng thụ này thì chắc chắn các con không sao vừa ý được trong bể khổ của trần gian vì không vừa ý nên các con mới cảm thấy đau khổ đấy thôi, nếu các con ý thức được xuống đây là để học và mặc nhiên chấp nhận hết mọi cảnh khổ để tu học để trui rèn thì chắc chắn các con vững tâm hơn. Các con phải biết cục sắt mà không bỏ vô lửa nhờ thợ rèn trui luyện thì cục sắt đó cũng vô dụng mà thôi.
+			Bạch Cha, theo chúng con nghĩ nếu tâm Pháp có thể giúp con người mau sáng tiến hóa nhanh để tới nơi giải thoát tại sao lại không phổ truyền để giúp quần chúng tu luyện mà <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.x1niz2mod032" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">lại giữ bí truyền</a> hở Cha? Đây có phải chăng là vì các vị Thầy Tổ còn hẹp hòi ích kỷ, chẳng khác gì mấy ông thầy thuốc giỏi có thuốc hay lại chẳng muốn phổ truyền chỉ giữ lại mật truyền cho con cháu hay cho những người mình ưa thích không hở Cha?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Học Mọi Trạng Thái</h2>
+	<h2 property="name">Có Được Giải Thoát</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cho nên muốn cục sắt đó biến thành dụng cụ hữu dụng cho trần gian thì tự nhiên phải quăng nó vô lửa đốt cho nó cháy đỏ nhờ tay thợ rèn phải luyện phải trui phải rèn phải đập phải dũa phải mài nó mới trở thành cái dao cái kéo cái búa cái kềm, nó mới trở thành dụng cụ hữu dụng cho trần gian được cho nên muốn cho các con trở thành hữu dụng thành những dụng cụ tốt của Cha trở về xứng đáng hợp nhất với Cha thì tự nhiên phải có lò và dụng cụ trui rèn bằng việc học đủ cảnh đủ bài nếm đủ vị chua cay mặn đắng học mọi trạng thái để góp nhặt mọi kinh nghiệm ở trần gian để tiến hóa để trở về với Cha.
+			Bạch Cha, Cha có dạy muốn đi nhanh tới chỗ giải thoát phải hành tâm Pháp, vậy những người không biết thiền không hành tâm Pháp nhưng lại ăn ngay ở lành làm việc phước thiện, những người ấy <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-3#h.z5xl3umsjpd3" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">có được giải thoát</a> chăng hở Cha?
+		</span>
+	</p>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="cha" /><category term="giáng trần" /><category term="dạy tu" /><category term="đạo" /><summary type="html"><![CDATA[Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cha Giáng Trần Dạy Tu Đạo P2</title><link href="http://localhost/posts/cha-giang-tran-day-tu-dao-phan-2/" rel="alternate" type="text/html" title="Cha Giáng Trần Dạy Tu Đạo P2" /><published>2025-08-21T08:28:00+07:00</published><updated>2025-08-21T08:28:00+07:00</updated><id>http://localhost/posts/cha-giang-tran-day-tu-dao-phan-2</id><content type="html" xml:base="http://localhost/posts/cha-giang-tran-day-tu-dao-phan-2/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Cảm Nhận Dần Dần</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">
+			Phần kim thân hữu vi cụ thể tại trần gian tạm tượng trưng Thượng Đế để các con dễ hình dung ra Thượng Đế hơn để dạy dỗ các con biết hướng về Thượng Đế nơi nội tâm và luôn luôn tưởng nhớ về nguồn cội để phăng ra đường về bằng cách <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.muc7apn8jfcv" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">cảm nhận dần dần</a> nhận thức dần dần cái nguyên lai bổn tánh nơi nội tâm của chính các con để biết các con thực sự là ai từ đâu đến đây và rồi phải trở về đâu đó các con.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Bài Học Đau Khổ</h2>
+	<h2 property="name">Sẵn Trong Tâm Hồn</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Tới khi các con nhẹ rồi hồi tưởng lại những truân gian khổ trong chu trình tiến hóa qua nhiều kiếp sống các con mới biết cám ơn những bài học đau khổ quý báu ấy nhờ đó mà các con mới tiến, không có chúng thì bài đâu để các con học mà tiến hóa để trở về, linh hồn các con đâu có cơ hội để tiếp thu những kinh nghiệm phong phú khải không các con?
+			Phần hữu vi Cha vắng bóng đối với các con nhưng phần vô vi của Cha vẫn hiện diện ở bất cứ đâu, Cha vẫn ngự <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.4j1u9x4lbajh" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">sẵn trong tâm hồn</a> của các con nếu các con thật sự chịu quay vào trong sẽ nhận ra Cha không khó! Nếu các con luôn luôn tưởng nhớ đến Cha muốn rước Cha khao khát hồng ân Cha thì Cha vẫn đến thăm viếng tâm hồn và an ủi các con luôn đó thôi.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Tùy Sự Cố Gắng</h2>
+	<h2 property="name">Chắc Không Ai Biết</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cho nên hôm nay Cha ban ơn các con được rước Cha đến đây hầu được hưởng hồng ân thanh điển để các con phấn khởi hơn mà lo tu tiến, Trời Phật lúc nào cũng ở bên các con tại các con mê muội không biết nên giải đãi rồi bỏ cuộc đó thôi, các con hãy ráng lo tu màn này nhờ tu mà đỡ khổ đỡ nạn nhiều lắm, nạn các con mười phần nhờ biết niệm Phật luôn luôn phải có bớt đi tùy theo sự cố gắng của các con.
+			Cho nên nếu đứa con ngu muội nào cho rằng khi mình tưởng đến một ý nghĩ tối tăm hắc ám <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.xprub0wpcsu4" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">chắc không ai biết</a> được đó là một sự nhầm lẫn đáng tiếc đấy các con, vì chính lúc ấy tâm của các con đã theo dõi và biết rất rõ mọi diễn biến của tư tưởng mà tâm biết tức là Thượng Đế biết vì Thượng Đế tức là sự nhận biết sáng suốt hằng hữu đang ngự trị trong tâm của mỗi con đó, mà Thượng Đế thì ngự ở khắp mọi nơi bên trong cũng như bên ngoài thân tâm của các con nên dù cho các con hành động lén lút bất cứ nơi khuất lắc nào thì cũng đều bị Thượng Đế nhận ra cả vì lúc ấy chính tâm các con biết và thấy rất rõ mọi việc các con đã làm.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Thiệt Thòi Rất Lớn</h2>
+	<h2 property="name">Điều Kiện Thành Tựu</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Các con hãy ráng lên đứa nào không biết tu thì thật là một sự thiệt thòi rất lớn cho nó con nào không tu nàm này coi chừng đó con ơi, khổ sắp tới thôi sắp tới đây khổ lắm Cha cho các con biết trước đó là cơn đại khổ đó con, nên đứa nào giải đãi mê trần hoặc cứ buồn khổ lo chuyện trần gian lo sự nghiệp lo nhà cửa cứ ở đó mà lo rầu buồn lo sợ khổ nạn mà không lo tu thì còn khổ hơn nữa đó các con.
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="tin" /><category term="ở" /><category term="trời" /><category term="phật" /><summary type="html"><![CDATA[Nếu nó nhớ tới Trời Phật luôn luôn thì đến việc nạn khổ của nó Trời Phật sẽ gánh bớt nạn của nó cho nó bớt khổ.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Đời Là Vinh Nhục</title><link href="https://kinhsach.github.io/posts/doi-la-vinh-nhuc/" rel="alternate" type="text/html" title="Đời Là Vinh Nhục" /><published>2025-08-20T11:32:00+07:00</published><updated>2025-08-20T11:32:00+07:00</updated><id>https://kinhsach.github.io/posts/doi-la-vinh-nhuc</id><content type="html" xml:base="https://kinhsach.github.io/posts/doi-la-vinh-nhuc/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Đời Là Vinh Nhục</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Đời là bể khổ trầm luân ngụp lặn trong này thì ắt phải khổ chắc chắn cái mà các con tưởng vinh rồi phải có lúc nhục, cái vinh là mầm móng cho cái nhục đó thôi cho nên màn này Cha cho thấy rất rõ vinh bao nhiêu thì nhục bấy nhiêu, ngày nào làm ông thì bây giờ làm thằng để nếm vị khổ đó các con, vậy có phải cái vinh ngày xưa là mầm móng của cái nhục bây giờ hay không?
+			Vì sao vậy? Vì các linh tử rất cần sự hiện diện của cơ khảo đảo bao gồm nào trả quả nào nhồi quả nào khổ đau nào nghịch cảnh nào thuận cảnh để làm bạn chí thiết chiếu cố săn sóc giúp đỡ luôn luôn đó các con, vì nhờ đó các linh tử mới có bài để học để được tiến bộ để được thăng hoa để hiểu biết để được phong phú hơn thì mới có đủ <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.txu0aeauwl8s" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">điều kiện để thành tựu</a> công đức lực.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Trước Sướng Giờ Khổ</h2>
+	<h2 property="name">Lầm Lẫn Quan Niệm</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Trước kia càng sung sướng thì bây giờ càng đau khổ, Cha cho thấy rất rõ thằng tỷ phú thì phủi tay không thằng giàu bây giờ xuống làm thằng nghèo để cho các con thấy cảnh đời điên đảo giả tạm vậy con, không có gì trường tồn không có gì bền bỉ vĩnh cữu ở trần gian này, còn đó rồi mất đó có đó rồi không đó con ơi.
+			Cho nên màn này Cha khuyên các con nên trì niệm câu nam mô Ngọc Hoàng Thượng Đế Vô Cực Đại Thiên Tôn, niệm câu này để bảo hộ cho các con nhưng nếu các con <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.pv9762ojqrse" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">lầm lẫn quan niệm</a> rằng niệm câu này để được Thượng Đế hộ trì là các con chưa thông suốt được ý nghĩa của việc tiến tu đâu con !!! Nếu các con còn quan niệm như thế thì trí tuệ của các con sẽ không thể nào phát triển lên cao được! Nhưng các con có biết niệm tên Cha như thế nào mới được lợi lạc hơn hết hay không?
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Tưởng Trần Là Thật</h2>
+	<h2 property="name">Không Thể Tha Thứ</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha cho các con biết có rồi không còn rồi mất đó là luật bất di bất dịch của càn khôn vũ trụ này thôi, các con cứ tưởng lầm rằng giả là chân cho nên các con khổ tưởng cảnh trần này là vĩnh cữu xuống đây để cũng cố địa vị tiền bạc nhà cửa móc nối đủ thứ nghiệp quanh mình rồi tưởng cảnh ấy là thật cho nên các con ôm nó rồi khổ với nó rồi quên cả đường về con ơi, các con ở trên kia chứ đâu phải ở dưới này.
+			Cho nên các con phải sáng suốt phân biệt rõ điểm tế nhị này để đừng bao giờ cố tình nhầm lẫn tự xưng danh mình là Thượng Đế với bất cứ ai và ở bất cứ nơi nào, các con phải nhớ và chớ phạm phải lỗi lầm tối quan trọng và <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.so27keougozl" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">không thể tha thứ</a> được này nghe các con !!!
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Mãi Miết Bám Víu</h2>
+	<h2 property="name">Hãy Ráng Ăn Chay</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Xuống đây để mượn cảnh trần học hỏi rồi về, xuống đây diễn tuồng đóng vai làm vợ làm chồng làm anh làm em làm cha làm mẹ làm con cái của nhau để học hỏi đó thôi, học để tiến bộ rồi trở về cho nên đứa làm vợ thì học cái tình huống của mình thằng làm con thì học cái hoàn cảnh của mình mà không biết cho nên mãi mê các vai đó các tuồng đó tưởng chứng là thật rồi khổ với chúng, khổ mà vẫn cứ mê cứ mãi miết bám víu vào các vai tuồng ấy mà quên mất cả đường về.
+			Và các con có biết phải giữ thể xác cho thanh sạch bằng cách nào không? Bằng cách trường chay và bớt dục đó các con, các con <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.8cb1l39xahk4" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">hãy ráng ăn chay</a> trường đi con nào chưa ăn thì hãy ráng mà ăn con nào ăn rồi thì phải ráng giữ hạnh trường chay, điều này rất cần thiết và cấp bách lắm Cha mới nhắn nhủ các con đó và phải cố gắng hành Pháp Luân Thường Chuyển nhiều gấp bội trong ngày để giải bớt trược điển, nay mai các con sẽ thấy tràn lan những cảnh bị xâm nhập nếu các con không biết giữ thể xác thanh sạch nhờ trường chay tiết dục và giữ tâm hồn an tịnh mà nếu cứ để cho tâm tán loạn thì điển sẽ mất thanh, khi đó trược điển sẽ tích tụ dày đặc trong tâm hồn nên sẽ có nhiều đứa trong chính các con bị xâm nhập bởi các điển trược tương xứng của các vong linh hay hồn thú xâm nhập khảo đảo bản thân con.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Xác Thân Cũng Giả</h2>
+	<h2 property="name">Không Ai Tránh Khỏi</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Đó nhà cửa tiền bạc địa vị cảnh sống và các vai trò mình đang đóng cứ tưởng là thật và còn hoài nên khi chúng đổi thay mới cảm thấy khốn khổ vô cùng thế mà vẫn cứ cố bám víu níu lại các ảo ảnh hư dối ấy, ngay cả bản thân của các con cũng giả tạm nếu không giả tạm tại sao nó không bền nếu nó thật thì nó phải còn đó hoài tại sao mới trăm năm là thấy cằn cỗi hư hoại rồi, xác thân ngũ uẩn của các con giỏi lắm là trăm năm thì cũng phải tan rã.
+			Nhưng nếu chỉ ăn chay trường thôi thì không ích lợi gì bao nhiêu đâu các con, ăn chay nhưng đồng thời phải tu tâm sửa tánh tham thiền niệm Phật nữa mới thật sự hữu ích cho việc thăng hoa tâm linh và trở về hợp nhất với Thượng Đế đó con, cho nên bằng mọi giá các con phải ráng giữ sự ổn định nội tâm phải ráng giữ điển thanh đừng cho tâm mình hoang mang giao động vì cảnh khổ nhất định phải có và chắc chắn <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.8foi0na0opje" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">không ai tránh khỏi</a> được !!!
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Hợp Rồi Phải Tan</h2>
+	<h2 property="name">Không Nên Phê Phán</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Ngũ uẩn con đang mang còn không giữ được huống gì nhà cửa tiền bạc địa vị của các con làm sao mà giữ cho được nên đứa nào ngu muội cố ý tìm cách giữ chúng thì sẽ khổ với chúng thôi, tưởng chúng là thật rồi sợ mất cái này cái kia cái nọ cho nên rốt cuộc rồi mất hết. Các con phải biết rằng tất cả phải mất không có cái gì tồn tại, chúng phải mất theo đúng định luật đến rồi phải đi hội ngộ rồi thì phải chia ly tan rồi phải hợp hợp rồi phải tan, đó là định luật vô thường của vũ trụ càn khôn đấy các con.
+			Cha cho các con rõ Cha không cần gì uy danh của Cha nhưng đối với Cha sự ổn định nội tâm của các con mới là điều tối hậu và cần thiết trong lúc này, vì hiện nay các con chưa đủ trình độ để hiểu được Thượng Đế và phê phán Thượng Đế đâu con! Nên Cha khuyên các con đừng hoang mang giao động làm gì. Các con ơi các con <a href="https://site.itvtbadboy.io.vn/home/cha-giang-tran-day-tu-phan-2#h.jv6ilk5ueyn4" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">không nên phê phán</a> ai ngay cả giữa các con với nhau giữa con người với con người, Cha không nói giữa chúng con với Cha mà Cha nói ví dụ giữa con người với con người giữa một người với một người thôi thì sự sái quấy của người khác mình còn không nên phê phán làm gì mà mình hãy nên quay lại lo phê phán mình trước đã.
+		</span>
+	</p>
+</div>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="cha" /><category term="giáng trần" /><category term="dạy tu" /><category term="đạo" /><summary type="html"><![CDATA[Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nguyên Lai Bổn Tánh</title><link href="http://localhost/posts/nguyen-lai-bon-tanh/" rel="alternate" type="text/html" title="Nguyên Lai Bổn Tánh" /><published>2025-08-21T08:10:00+07:00</published><updated>2025-08-21T08:10:00+07:00</updated><id>http://localhost/posts/nguyen-lai-bon-tanh</id><content type="html" xml:base="http://localhost/posts/nguyen-lai-bon-tanh/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
+<div property="mainEntity" typeof="Question">
+	<h2 property="name">Hướng Tâm Đến Cha</h2>
+	<p property="acceptedAnswer" typeof="Answer">
+		<span property="text">
+			Này các con mấy hôm nay Cha cũng cảm kích vì thấy việc Cha ra đi việc Cha sắp sửa lui vào cơ quy ẩn khiến cho các con hướng tâm nghĩ đến Cha rồi tìm mọi cách lên đến đây để gặp Cha để hiến dâng một chút tâm thành thiện ý trước ngày Cha ra đi quy ẩn, đó là điều khiến cho Cha cảm xúc khi thấy các con gửi đến Cha tất cả tấm lòng kính trọng và sự luyến lưu trước khi Cha lên đường.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Quan Niệm Ngu Muội</h2>
+	<h2 property="name">Mở Trí Khai Tâm</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Khi các con mang thân ngũ uẩn vật chất thì không thể thoát được định luật vô thường này đâu các con, cho nên các con muốn cái gì nó phải còn hoài muốn cái nhà của mình nó còn hoài của mình muốn đồng tiền vàng bạc này mình giữ được hoài. Cha cho các con biết nếu từ nay các con còn cứ cố giữ cái quan niệm ngu muội như thế thì các con sẽ phải khổ với chúng thôi vì chắc chắn không thể giữ được, có vô thì phải có ra có tới thì phải có đi có rồi thì phải mất cho nên đứa con nào còn cố giữ chúng mãi rồi sẽ bị chúng khảo rồi khổ với chúng mà thôi vì chúng sẽ có lúc mất chắc chắn.
+			Thật tình rằng con ơi Cha yêu thương các con vô vàng! Cha vẫn muốn các con có những cơ hội những giây phút đến với Cha quay quần bên Cha để nghe đôi lời dạy dỗ chân chánh để mở thêm trí khai thêm tâm để được tiến bộ, có cơ hội phong phú thêm để rồi phấn khởi dấng bước trên đường hành hương về quê xưa chốn cũ.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Màn Này Bòn Phước</h2>
+	<h2 property="name">Cha Là Thượng Đế</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Vì vậy hiểu được chỗ này rồi các con phải thanh thản tâm trí, chúng có đến thì đến chúng đi thì đi không đắm chấp không đuổi xua không lấy đó làm khổ thì đỡ bị khảo thôi, Cha cho các con biết mất rồi sẽ có có rồi mất là sự thường chỉ sợ mình không có phước thôi con, màn này các con lo bòn phước thôi đừng có lo tiền bạc nhà cửa mọi thứ danh lợi hão huyền, những thứ này sẽ không còn đâu các con ơi màn này sẽ hao đi bảy còn lại ba thôi không phải riêng ở đất nước này mà rồi sẽ cùng khắp thế giới.
+			Cha cũng khát khao được các con yêu thương Cha cũng khát khao những cảnh đông đúc quay quần bên Cha để thể hiện cái tình Cha con thể hiện sự thân mật ưu ái giữa Cha với các con dưới hồng trần hầu nhắc nhở các con nhớ về nguồn cội, vì Cha ở trên kia từ trung tâm vũ trụ Cha là khối hào quang chói lòa vô cực vô biên không hình không tướng, là khối đại linh quang tỏa sáng khắp càn khôn vũ trụ, là Cha thật của các con đó là Thượng Đế đó con!
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Giá Trị Vàng Thau</h2>
+	<h2 property="name">Nguyên Lai Bổn Tánh</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha cho biết tất cả đều phải trải qua giai đoạn này mà Cha coi như là thử lửa để biết vàng thau hầu khẳng định giá trị của các con để cho rõ đứa nào là con hiếu đứa nào là tôi trung, để coi nó trung tới mức nào nó trung có tới cuộc hay không hay nữa chừng nó bỏ, đoạn đường này nó còn trung chứ qua đoạn đường khác khó khăn hơn nó lại bỏ đi, đó để khẳng định giá trị vàng thau coi đứa nào là vàng thiệt đứa nào là vàng pha thau vàng nhiều mà thau ít rồi đứa nào thau nhiều mà vàng ít hay đứa nào rặt ròng thau không hở con, nhờ đó mới khẳng định được vàng thau phân minh.
+			Thượng đế vốn vô hình vô tướng nhưng ở khắp mọi nơi đó chính là đại hồn bàn bạc khắp càn khôn bao la và rồi một phần đại hồn tách ra thành các tiểu hồn một phần đại ngã tách ra thành các tiểu ngã để xuống thế học hỏi, tiểu hồn Cha ra đi xuống thế học hỏi bước đầu tiên tiểu hồn Cha học trược nhiễm trược rồi mê trược, trải qua bao kiếp sống nó trở nên quên căn quên cội quên nguồn quên nguyên lai bổn tánh nó quên điều cơ bản tối quan trọng này là quên rằng nó vốn dĩ không khác gì đại hồn của vũ trụ, nó chính là đại hồn của vũ trụ là bản thể của vũ trụ nó chính là Thượng Đế đó thôi.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Mê Trần Tiêu Luôn</h2>
+	<h2 property="name">Mãi Miết Đắm Chìm</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cha cho sự kiện đủ thứ biến động cho nhồi quả cho đảo lộn cho cuộc thế đảo điên rồi coi tâm các con vững tới đâu, đứa nào vững nhiều được điểm nhiều đứa nào vững ít thì được điểm ít hoặc nó ngã luôn thì thôi. Cha đã dự trù trước rồi Cha hao đi bảy phần Cha cũng đã dự trù trước những cảnh đảo điên rồi Cha cũng dự trù trước phải có rớt rơi hao hớt chắc chắn rồi đó con, cho nên đứa nào mê trần nhiều trược nhiều bị đảo điên với trần mà mất hết linh tánh thì màn này tiêu luôn, Cha cho biết trước như vậy đó các con.
+			Thế mà nó không hề trực nhận ra nó không hề tự nhận ra rằng bản chất Thượng Đế chính là nó nó quên đi bản chất Thượng Đế của nó nên đối với Cha đây là điều đáng tiếc và thật đáng xót xa đấy các con. Xuống cõi hồng trần tiểu hồn Cha ngụp lặn trong bể trầm luân, xuống dưới nặng học nặng rồi mãi miết đắm chìm trong cái nặng nên nó không tự nhận ra bản chất Thượng Đế nơi nó, không nhận ra chính nó là Thượng Đế nữa mà đối với nó Thượng Đế là cái gì quá xa xôi quá mơ hồ quá vĩ đại xa cách linh hồn nó quá đi thôi.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Vững Tâm Tu Tiến</h2>
+	<h2 property="name">Nhận Ra Bản Chất</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cho nên màn này phải có khổ, có khổ để mượn cái đó dạy con cho lên voi thì phải có xuống chó có vinh thì phải có nhục có sướng thì phải có khổ có trị thì ắt có loạn, loạn rồi thì phải có lúc trị hưng rồi thì phải có lúc vong hưng thịnh rồi thì phải có lúc suy bại nhưng suy bại rồi sẽ tới lúc hưng thịnh đó thôi cho nên các con hiểu được định luật vô thường hư ảo của vũ trụ này rồi thì hãy an lòng vững tâm lo tu tiến.
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="đời" /><category term="là" /><category term="vinh nhục" /><summary type="html"><![CDATA[Đời là bể khổ trầm luân ngụp lặn trong này thì ắt phải khổ chắc chắn cái mà các con tưởng vinh rồi phải có lúc nhục.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Trở Về Phải Sạch</title><link href="https://kinhsach.github.io/posts/tro-ve-phai-sach/" rel="alternate" type="text/html" title="Trở Về Phải Sạch" /><published>2025-08-20T11:16:00+07:00</published><updated>2025-08-20T11:16:00+07:00</updated><id>https://kinhsach.github.io/posts/tro-ve-phai-sach</id><content type="html" xml:base="https://kinhsach.github.io/posts/tro-ve-phai-sach/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Vay Nhiều Trả Nhiều</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Màn này là màn tẩy rửa đó con nên đứa nào dơ nhiều thì tự nhiên bị khảo đảo vậy thôi, các con đừng có hoang mang phân bì rằng tại sao tôi cũng tu thật mà tôi bị khảo dữ còn thằng không tu lại thấy nó nhởn nhơ ăn trên ngồi trước! Chưa chắc đâu con! Cái thằng thức giác biết lo tu niệm thì nhờ chuyện chánh tu chánh niệm này mà nó bớt nghiệp ác, tâm nó thay vì nghĩ những điều không lành nó nhớ niệm Phật luôn thì ngay giờ phút đó nó bớt vay thêm chút nữa, bớt vay thì khỏi sẽ phải trả nhưng rồi cái gì nó đã vay từ nhiều kiếp thì nó phải trả chứ con, con hiểu vậy chưa?
+			Cho nên các con ơi Cha cảm thấy cô đơn vô cùng tận vì các tiểu hồn Cha không trực nhận ra bản chất của nó, tức không nhận ra Cha nó nên không thể hiểu rằng nó chính là Cha nó và cũng không thể chấp nhận được rằng Cha nó chính là nó. Vì thế cái tình yêu thiêng liêng của nó đối với Cha nó bổng hóa ra xa cách lạc lẽo khiến cho Cha nó cô đơn mỏi mòn trông đợi, vì cho chúng nó ra đi rồi lại không thấy chúng trở về bởi cho đến bao giờ các linh tử còn quên cội quên nguồn quên bản chất thì ngày trở về vẫn còn vô hẹn đấy các con.
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Thanh Toán Nợ Nần</h2>
+	<h2 property="name">Trực Nhận Chơn Lý</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Cho nên các con tu mà còn nghiệp tiền kiên thì cũng phải khổ vì phải chịu thanh toán nợ nần quá khứ vì vậy có sự việc thấy rằng thằng chí tâm tu mà lại bị khảo đảo điêu đứng nhưng nó còn nghiệp thì đương nhiên nó phải bị khảo vậy thôi, nó còn nợ bao nhiêu thì Trời phải chuyển cho no trả quả tẩy rửa cho nó sạch sẽ mà về.
+			Việc này khiến cho Cha sầu tủi và xót xa vô vàng nên các con ơi Cha khao khát các con tưởng nhớ đến Cha biết chừng nào, Cha khao khát các con nghĩ đến Thượng Đế biết bao nhiêu, Cha khao khát các con hướng về Thượng Đế ở trong nội tâm của các con tức nhớ về nguồn cội phăng dần dần ra nguồn cội, để thấy lại nguyên lai bản tánh của mình để trực nhận ra bản chất của mình hầu hợp nhất với Thượng Đế và thấy được sự thật bất ngờ hi hữu rằng các con chính là Thượng Đế vốn vô hình vô tướng rực rỡ khắp càn khôn, đó gọi là trực nhận chơn lý đấy các con!
 		</span>
 	</p>
 </div>
 <hr>
 <div property="mainEntity" typeof="Question">
-	<h2 property="name">Trở Về Phải Sạch</h2>
+	<h2 property="name">Kẹt Trong Vô Minh</h2>
 	<p property="acceptedAnswer" typeof="Answer">
 		<span property="text">
-			Không thằng nào trở về mà dơ được đâu con, trở về phải sạch phải sáng phải nhẹ tánh trần gian phải dứt còn bợn trần dù một chút xíu thì cũng vẫn bị tẩy rửa mà thôi, phải cho nó trả quả để nó nhẹ cái gánh của nó nợ của nó phải để cho nó trả để nó nhẹ nó mới về được chứ con.
+			Cha tha thiết mong sao các con tỏ thấu được sự thật này nhưng các con ơi phần đông các con đều kẹt trong vô minh nên lúc nào cũng lầm lẫn quan niệm rằng có sự xa cách vạn dặm giữa các con và Thượng Đế, có sự sai biệt giữa hữu hình và hữu hạn của kiếp sống con người với chân lý vô hình hằng hữu bao la, điều này làm cho Cha xót xa buồn tủi và thật cô đơn nên Cha hằng khao khát tình yêu của con với Cha khôn xiết nhưng quan niệm về Cha đối với các con thật quá cách biệt cách biệt muôn trùng cách biệt vô cùng tận. Cũng vì vậy nếu ở thể điển quang vô vi các con không thể nhận ra Cha nên khó hình dung để tưởng nhớ Cha vì thế Cha đã mượn ... [ đọc <a href="/posts/cha-giang-tran-day-tu-dao-phan-2/" target="_parent" title="Nguyên Lai Bổn Tánh">phần hai</a> ]
 		</span>
 	</p>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Hoang Mang Bỏ Tu</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Cho nên tu là gì là vun bồi là sửa, vun bồi cái tốt và sửa cái xấu khi tụi con sửa cái xấu vun bồi cái tốt thì tụi con được hưởng phước đỡ phải chịu khổ vì đỡ phải trả nợ nần, không vay thì khỏi trả nhưng ngược lại những nợ nần mình đã gieo từ nhiều kiếp trước thì phải chấp nhận trả hết chứ con cho nên những người tu thấy khổ rồi hoang mang bỏ tu điều đó sai con, tại các con chưa hiểu đó thôi cho nên màn này bị chính cái nghiệp của các con khảo rồi nhiều đứa tu cũng rớt nhiều đứa tu không vững tinh thần bị cảnh khổ khảo mà rớt màn này Cha thương các con đó dữ lắm.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Không Xuống Để Hưởng</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Vì nó chưa hiểu nên chưa vững rồi rớt lên rớt xuống, mà thằng đó rớt là Cha khổ với thằng đó đứa nào rớt là Cha khổ với nó vì linh quang của Cha phóng ra để xuống thế xuống thế để làm gì? Không phải xuống trần chỉ để hưởng thụ đâu các con, xuống trần là để học hỏi để hiểu để thâu góp kinh nghiệm đạo đức cao cả rồi trở về không phải xuống để mà hưởng trần đâu các con, hưởng trần ở mãi đây rồi biết chừng nào mới về hở con? Thế nên Cha cho các con xuống đây là để học hỏi để tiến hóa rồi trở về vì đời là bể khổ luôn luôn, xuống đây là phải khổ và phải khổ mới có dịp để học hỏi tiến hóa cho nên các con đừng mong xuống đây để sướng.
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="trở về" /><category term="phải" /><category term="sạch" /><summary type="html"><![CDATA[Không thằng nào trở về mà dơ được đâu con, trở về phải sạch phải sáng phải nhẹ tánh trần gian phải dứt còn bợn trần dù một chút xíu thì cũng vẫn bị tẩy rửa mà thôi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chấp Các Phương Tiện</title><link href="https://kinhsach.github.io/posts/chap-cac-phuong-tien/" rel="alternate" type="text/html" title="Chấp Các Phương Tiện" /><published>2025-08-20T11:01:00+07:00</published><updated>2025-08-20T11:01:00+07:00</updated><id>https://kinhsach.github.io/posts/chap-cac-phuong-tien</id><content type="html" xml:base="https://kinhsach.github.io/posts/chap-cac-phuong-tien/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Hình Thức Tôn Giáo</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Này các con Cha xuống thế để làm gì? Để cứu khổ cho chúng sinh để giúp cho chúng con quy hiệp trở về, tất cả những phương tiện cứu khổ của Cha đều cho xuống thế để làm việc để độ trần, mà các con có biết những phương tiện cứu thế độ trần là gì không? Đó là các tông phái chi phái các hình thức tôn giáo trên toàn cầu đấy các con, tất cả đều từ một gốc mà ra, mượn phương tiện độ trần màu sắc tông chi phái khác nhau là để cho các con nương theo đó mà tu, đứa nào hợp với màu sắc nào thì nương theo đó mà tiến tu để trở về, Cha cho nhiều phương tiện nhiều điều kiện để các con nương tựa mà về.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Chấp Các Phương Tiện</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Không tôn giáo nào là chân lý cả mà tôn giáo nào cũng chỉ là phương tiện của chân lý mà thôi, nếu các con chấp các phương tiện coi các tôn giáo là chân lý thì chính các con sai lầm đấy !!! Thằng đạo Phật nói đạo Phật là chân lý thằng đạo Khổng nói đạo Khổng là chân lý thằng đạo Lão nói đạo Lão là chân lý thằng đạo Thiên Chúa nói Thiên Chúa là chân lý thằng đạo Cao Đài nói Cao Đài là chân lý và đạo Cao Đài do Ngọc Hoàng Thượng Đế lập ra cái đó mới đúng là chân lý.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Quan Niệm Lầm Lẫn</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Đã từ lâu các mối Đạo và người đời đã quan niệm lầm lẫn như thế đấy các con, Cha nói cho các con rõ tất cả mọi quan niệm cố chấp lầm lẫn như thế đều sai hết các con bởi tất cả đều không phải là chân lý mà các tôn giáo các chi phái chỉ là phương tiện để độ nhân là màu sắc của chân lý là chiếc thuyền để các con mượn đó mà về đấy thôi, các con vì chấp ngã vì ganh tỵ vì tranh đua Đạo này Đạo nọ Đạo kia Đạo người Đạo ta, Đạo này cao Đạo kia thấp cho nên rốt cuộc rồi chia rẽ rồi ghét bỏ rồi hận thù rồi giết chóc rồi tranh đoạt đủ thứ hơn thiệt rồi làm sao mà về hở con.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Đừng Nghĩ Thấp Cao</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Các con cứ cố chấp cái quan niệm ngu muội như thế rồi làm sao mà về cho nên Cha xuất hiện để lo cái gì? Lo sự hòa hợp để quy về một mối tức quy nguyên về một gốc mà thôi, cũng của Cha cho xuống thế Nho Thích Lão hay các chi phái rồi cũng phải quy về một mà thôi, các con đừng tranh hơn thiệt đừng nghĩ thấp cao, chấp như vậy thì có chỗ tâm không hòa mà không hòa thì phải loạn động, không hòa thì tâm tán loạn mà tán loạn là rước trược tới, cái tâm thanh tịnh thì rước cái thanh cái nhẹ mà thanh nhẹ thì mới được về chứ các con !!!
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Chấp Cho Mình Giỏi</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Các con tán loạn lo ganh đua đem cái ta vĩ đại án trước mắt, thằng nào cũng chấp cho mình là giỏi là hay lo tranh hơn thiệt thế nọ thế kia rồi chia rẽ rối bất hòa vậy mới sinh ra đủ mọi chuyện khổ đấy các con. Thế gian hiện tại bị nhồi quả đau khổ đủ thứ loạn cảnh là vì đâu, là vì tâm con người bất hòa loạn động đấy các con, do vậy mới sanh mọi việc khốn khổ trong trần gian.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Tâm Trong Cảnh Ngoài</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Các con muốn bên ngoài yên mà tâm trong này động thì làm sao yên được các con, cảnh ở ngoài yên vì tâm các con yên các con phải yên trước mới tạo cảnh yên sau, các con không yên không hòa không đồng bảo sao đừng có chiến tranh giết chóc loạn lạc hở con, khi tâm các con tán loạn nghĩa là nội tâm muốn hơn thiệt thấp cao tranh chấp thì bảo sao đừng có cảnh hơn thiệt loạn động chiến tranh bên ngoài xảy ra, tâm các con còn dẫy đầy ích kỷ nhỏ nhen tham vọng rồi bảo sao ngoài này đừng có khổ vì có tham vọng ích kỷ nhỏ nhen từ trong này mới thoát ra tạo cảnh ở bên ngoài, tất cả hoàn toàn do nghiệp lực của chính chúng sinh tạo ra thôi con.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Khối Trược Hoành Hành</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Cha cho các con biết khối trược đang hoành hành cho nên các con khổ cho nên trần gian khổ nhưng các con có biết khối trược do đâu mà có hay không? Đó là do hình tư tưởng của các con đó thôi, nghĩ một điều xấu xa nghĩ một sự kiện không lành những tư tưởng này thoát ra rồi tổng hợp lại thành khối trược mà càng nhiều tư tưởng xấu thì khối trược càng lớn mà càng lớn thì nó càng hoành hành dữ mà càng hoành hành dữ thì đương nhiên các con phải khổ đó thôi.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Nghiệp Quả Chúng Sinh</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Tất cả đều do nghiệp quả của chúng sinh phóng xuất ra rồi dội ngược lại cho nên màn này khối trược hoành hành là do nghiệp quả của chúng sinh thôi con, rồi đứa nào nợ nần bao nhiêu màn này Cha cho các con có dịp trả nghiệp quả đã vay bao nhiêu thì trả lúc này để nhẹ bớt để bước sang một giai đoạn khác có phước hơn.
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="chấp" /><category term="các" /><category term="phương tiện" /><summary type="html"><![CDATA[Không tôn giáo nào là chân lý cả mà tôn giáo nào cũng chỉ là phương tiện của chân lý mà thôi, nếu các con chấp các phương tiện coi các tôn giáo là chân lý thì chính các con sai lầm đấy.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Không Tu Là Khổ</title><link href="https://kinhsach.github.io/posts/khong-tu-la-kho/" rel="alternate" type="text/html" title="Không Tu Là Khổ" /><published>2025-08-20T10:46:00+07:00</published><updated>2025-08-20T10:46:00+07:00</updated><id>https://kinhsach.github.io/posts/khong-tu-la-kho</id><content type="html" xml:base="https://kinhsach.github.io/posts/khong-tu-la-kho/"><![CDATA[<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Tu Áo Tu Tâm</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Này các con, lúc này lẽ ra Cha chưa xuất hiện nhưng khi thấy cần Cha mượn bộ áo trần gian để đến với các con, các con nên biết áo Đạo nhưng tâm không biết Đạo thì thật không ích gì !!! Mặc bộ áo Đạo thì phải hành động cho đúng, các con tu áo nhiều rồi nhưng tu tâm chưa được mấy đứa cho nên lần này Cha sẽ mượn bộ áo trần gian để hóa độ các con, Cha sẽ sống như một người trần gian để dẫn dắt các con, Cha sẽ trần mà thoát trần để dạy các con phá mê phá chấp trực tiến vào nội tâm hầu lo trao dồi sửa chữa cho nó luôn sáng đẹp.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Tu Kiểu Hình Thức</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Các con phần đông tu kiểu hình thức tu bề ngoài không mà thôi, các con chỉ lo dọn bàn thờ bên ngoài cho thật trang nghiêm mà quên lo chăm sóc cái bàn thờ bên trong các con, đã bao lâu rồi các con để nó hương tàn khói lạnh! Các con ơi uy nghi bên ngoài nhưng phải lo dọn bàn thờ bên trong, bàn thờ bên ngoài không xứng bằng bàn thờ bên trong đâu các con !!!
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Không Tu Là Khổ</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Trong mỗi các con đều có ngọn đèn lư hương phải lo cho đèn nến bên trong sáng choong luôn thì các con mới mong tiến hóa tới chỗ giải thoát mới mong có ngày phản bổn qườn nguyên. Màn này không tu là đại khổ đại nạn đó các con, Cha cho các con biết đại khái như vậy, đứa nào biết lo tu thì đỡ khổ mà đứa nào mê đời chắc chắn sẽ bị khảo đảo ghê gớm.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Ngoại Cảnh Đảo Điên</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Màn này tiêu bảy con ơi ráng mà lo tu, hành Đạo chơn chánh lo tu niệm đừng có nghĩ trần nhiều đảo điên với cuộc thế rồi các con sẽ phải bị khảo đảo dữ lắm, màn này đứa nào có tâm vọng ngoại thì phải khổ vì ngoại cảnh đảo điên tâm vọng đảo điên thì phải chịu điên đảo, màn này quay vô trong đi tìm nguồn an lạc của nội tâm tìm cái sáng của phần hồn lo cho phần hồn xót thương cho trong này quay lại bên trong này lo hương đăng cho trong này đi. Cha ngự ở trong này chứ không có ở bên ngoài đâu !!!
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Mượn Khổ Tiến Hóa</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Cha ngự ở khắp mọi nơi nhưng sở dĩ Cha nói không có bên ngoài là vì các con không biết ở trong này thì chưa có thể biết được bên ngoài các con hiểu chưa, lo cho trong này dọn cho sạch bàn thờ uy nghi sáng luôn luôn trong này thì Cha ngự trong này luôn luôn đó con. Ráng lo tu trao dồi hạnh kiểm mượn cái khổ để tiến hóa, màn này Cha cho nhồi quả để cho các con thức giác để biết trần gian là giả tạm là bể khổ nên không thể hy vọng có hạnh phúc thật sự vĩnh cửu dưới trần này đâu, mượn cảnh khổ để dạy cho các con đó thôi.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Bình Tĩnh Chịu Đựng</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Nếu các con giác ngộ được sự thật này thì khi các con bị nhồi bị khảo các con sẽ bình tĩnh hơn có nhiều can đảm hơn để chịu đựng, vì các con phải hiểu rằng nghiệp khảo đảo cũng do tội của mình đã vay tạo nợ nần của mình phải trả cho sòng phẳng vậy thôi, ráng tu màn này là màn nhồi quả để chuyển sang giai đoạn khác nên các con hãy vững tin rằng các con không hề trả quá số nợ mình đã vay từ nhiều kiếp vậy các con hãy an lòng ráng lo tu.
-		</span>
-	</p>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Chấp Nhận Trả Quả</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text">
-			Trời lúc nào cũng ở đây ở bên các con nếu các con biết tin Trời tin có Trời là Trời ở với các con luôn luôn sẵn sàng cứu khổ cứu nạn, nếu nó chịu biết có Trời và lo tu vừa chấp nhận trả quả tiền kiên đồng thời vừa trao dồi phước đức hạnh kiểm, màn này đứa nào không chân chánh bị mê trần nghiệp quá nặng và không đủ phước đức sẽ phải chịu khảo đảo rồi có khi tiêu luôn tiêu bảy nghen con, ráng lên !!!
-		</span>
-	</p>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="không" /><category term="tu" /><category term="là" /><category term="khổ" /><summary type="html"><![CDATA[Ráng tu màn này là màn nhồi quả để chuyển sang giai đoạn khác nên các con hãy vững tin rằng các con không hề trả quá số nợ mình đã vay từ nhiều kiếp vậy các con hãy an lòng ráng lo tu.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="nguyên lai" /><category term="bổn tánh" /><summary type="html"><![CDATA[Quên căn quên cội quên nguồn quên nguyên lai bổn tánh nó quên điều cơ bản tối quan trọng này là quên rằng nó vốn dĩ không khác gì đại hồn của vũ trụ.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

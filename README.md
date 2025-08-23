@@ -1,7 +1,5 @@
 # kinhsach.github.io
 
-<p><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
-
 ![kinh sách](https://chirpy-img.netlify.app/commons/devices-mockup.png "Mã nguồn chirpy theme")
 
 <div align="center">
@@ -13,7 +11,7 @@
 ![phiên bản](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)
 
 </div>
-
+<p><b>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</b></p>
 <p><b>Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.</b></p>
 
 ## tính năng kinh sách

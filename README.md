@@ -15,7 +15,9 @@
 
 <p font-size="18px">Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn <a href="https://github.com/cotes2020/jekyll-theme-chirpy">chirpy</a> chạy trên máy chủ <a href="https://jekyllrb.com/">jekyll</a>, giấy phép truyền bá nội dung kinh sách GPL-2.0 License.</p>
 
-## kinh sách jekyll
+## tính năng kinh sách
+
+<p font-size="18px"><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung CMS nhưng không cần đến cơ sở dữ liệu SQL</b>.</p>
 
 | tính năng | quảng bá |
 |:-----|:-----|
@@ -37,7 +39,7 @@
 | enter (hoặc nhập đường dẫn lưu keygen) |
 | nhập mật khẩu bảo mật ít nhất 4 ký tự |
 
-<p font-size="18px">Tập tin ssh-keygen có thể dùng notepad++ để mở định dạng .pub.</p>
+<p font-size="18px">Tập tin ssh-keygen có thể dùng notepad++ để mở định dạng .pub, chép đoạn nội dung truy cập github tạo ssh key.</p>
 
 | <h3>github ssh key</h3> |
 |:-----|
@@ -46,7 +48,7 @@
 | nhấn new ssh key và nhập file PUB vào |
 | nếu có key cũ không xài thì xóa trước |
 
-<p font-size="18px">Kinh sách miễn phí github.io là định dạng mặc định của github web page, tạo kho lưu kinh repository mới từ menu chính hoặc thẻ repositories, kho lưu repository có 3 thuộc tính gồm public + readme + license, giá trị license là GNU General Public License v2.0</p>
+<p font-size="18px">Kinh sách miễn phí github.io là định dạng mặc định của github web page, tạo kho lưu kinh repository mới từ menu chính hoặc thẻ repositories, kho lưu repository có 3 thuộc tính gồm public + readme + license, giá trị license là GNU General Public License v2.0.</p>
 
 | <h3>ruby gem jekyll</h3> |
 |:-----|

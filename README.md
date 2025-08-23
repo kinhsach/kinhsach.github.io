@@ -82,6 +82,8 @@
 
 </div>
 
+**Kinh sách miễn phí chạy trên mã nguồn `jekyll` cần có nền tảng `ruby gem` nên bước đầu tiên là cài đặt ứng dụng `ruby gem`, sau đó mới dùng `gem` cài các gói hỗ trợ `plugin` cần thiết cho dự án.**
+
 ## nhóm chép kinh
 
 | quản lý | dự án |

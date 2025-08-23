@@ -64,7 +64,7 @@
 
 </div>
 
-**Sau khi hoàn tất cấu hình, kho lưu kinh được ánh xạ với tên `kinhsach.github.io`. Nếu không muốn `copy` trong suốt quá trình thiết kế, đồng đạo hãy cài khung `jekyll theme`, sau đó chép thư mục ẩn `.git` của kho lưu kinh vào trong `_site` của `jekyll theme`, hai tập tin `readme.md` và `license` đưa ra ngoài sao lưu cẩn thận để sau này tải lên `github`. Ứng dụng `github desktop` có tính năng `locate` cho phép tùy ý trỏ về thư mục do `jekyll theme` quản lý.**
+**Sau khi hoàn tất cấu hình, kho lưu kinh được ánh xạ với tên `kinhsach.github.io`. Nếu không muốn `copy` trong suốt quá trình thiết kế, đồng đạo hãy cài khung `jekyll theme`, sau đó chép thư mục ẩn `.git` của kho lưu kinh vào trong `_site` của `jekyll theme`, hai tập tin `readme.md` và `license` đưa ra ngoài sao lưu cẩn thận để sau này tải lên `github`, cuối cùng xóa kho lưu kinh `kinhsach.github.io`. Ứng dụng `github desktop` có tính năng `locate` cho phép tùy ý trỏ về thư mục do `jekyll theme` quản lý.**
 
 ## kinh sách jekyll
 

@@ -3,6 +3,8 @@
 <p font-size="18px">Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</p>
 <img src="https://chirpy-img.netlify.app/commons/devices-mockup.png" alt="kinh sach" width="100%" height="auto" />
 
+[![kinh sach](https://chirpy-img.netlify.app/commons/devices-mockup.png)]
+
 <div align="center">
 
 ![mã nguồn](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)&nbsp;&nbsp;
@@ -19,7 +21,7 @@
 
 <p font-size="18px"><b>Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung CMS nhưng không cần đến cơ sở dữ liệu SQL hay máy chủ Apache Nginx PHP</b>.</p>
 
-| {align="center"} tính năng | quảng bá |
+| (align="center") tính năng | quảng bá |
 |:-----|:-----|
 | Giao diện người dùng Web UI. | Kinh sách podcast amazon. |
 | Ghim kinh sách lên trang chủ. | SEO JSON-LD ghép với RDFa. |

@@ -43,9 +43,9 @@
 
 **Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
 
-> **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.** \n\n
-> **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**
-> **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**
+> **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
+> **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>
+> **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br>
 > **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.**
 
 ## nhóm chép kinh

@@ -1,1169 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://kinhsach.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kinhsach.github.io/" rel="alternate" type="text/html" hreflang="vi-VN" /><updated>2025-08-26T10:42:48+07:00</updated><id>https://kinhsach.github.io/feed.xml</id><title type="html">Kinh Sách</title><subtitle>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</subtitle><entry><title type="html">Audio Chú Đại Bi</title><link href="https://kinhsach.github.io/posts/audio-chu-dai-bi/" rel="alternate" type="text/html" title="Audio Chú Đại Bi" /><published>2025-08-26T10:16:00+07:00</published><updated>2025-08-26T10:16:00+07:00</updated><id>https://kinhsach.github.io/posts/audio-chu-dai-bi</id><content type="html" xml:base="https://kinhsach.github.io/posts/audio-chu-dai-bi/"><![CDATA[<style>
-.ttw-music-player {width: 370px; margin: 60px auto; font-family: 'Roboto', arial, sans-serif;}
-.ttw-music-player .player {width: 100%;}
-/** Album Cover **/
-.ttw-music-player .album-cover {position: relative; float: left; box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);}
-.ttw-music-player .album-cover .img {box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -moz-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -webkit-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); background-position:center center; background-repeat:no-repeat; background-color:transparent;}
-.ttw-music-player .album-cover .highlight {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/album-cover-highlight.png) no-repeat 0 0 scroll; opacity: 1;}
-.ttw-music-player .album-cover:hover .highlight {opacity: 1;}
-.ttw-music-player .album-cover, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {display: block; height: 125px; width: 125px;}
-.ttw-music-player .album-cover img, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {position: absolute; top: 0; left: 0; height:125px; width:125px;}
-/** Track Info **/
-.ttw-music-player .track-info {width: 215px; margin: 8px 0 0 30px; float: left; font-size: 15px;}
-.ttw-music-player .track-info p {margin: 0 0 8px 0;}
-.ttw-music-player .player .title {color: #efefef; text-shadow: 0 1px 1px rgba(0, 0, 0, .8); font-family: 'Roboto BoldCondensedItalic', arial, sans-serif; font-weight: bold; font-size: 20px;}
-.ttw-music-player .artist-outer {color: #727272; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic;}
-.ttw-music-player .artist {color: #999; font-family: 'Roboto', arial, sans-serif; margin-left: 4px;}
-.ttw-music-player .rating {width: 75px; height: 16px;}
-.ttw-music-player .rating-star {width: 15px; height: 16px; display: block; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-off.png) no-repeat center center scroll; cursor: pointer;}
-.ttw-music-player .rating-star:hover, .ttw-music-player .rating-star.on, .ttw-music-player .rating-star.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-on.png) no-repeat center center scroll;}
-/** Player **/
-.ttw-music-player .player-controls {width: 215px; height: 30px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-bg.png) repeat 0 0 scroll; float: left; margin: 12px 0 0 30px;}
-.ttw-music-player .player-controls .main {width: 52px; height: 12px; margin: 9px 9px; float: left;}
-.ttw-music-player .player-controls div {float: left; cursor: pointer;}
-.ttw-music-player .previous, .ttw-music-player .next {height: 10px; width: 15px; margin: 1px 0;}
-.ttw-music-player .play, .ttw-music-player .pause {width: 8px; height: 12px; margin: 0 7px;}
-.ttw-music-player .previous {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-previous.png) no-repeat center center scroll;}
-.ttw-music-player .next {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-next.png) no-repeat center center scroll;}
-.ttw-music-player .play {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-play.png) no-repeat center center scroll;}
-.ttw-music-player .pause {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-pause.png) no-repeat center center scroll;}
-.ttw-music-player .progress-wrapper {height: 9px; width: 135px; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-progress.png) repeat-x 0 0 scroll; margin: 11px 10px 10px 0; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
-.ttw-music-player .progress {height: 9px; width: 135px; cursor: pointer;}
-.ttw-music-player .elapsed {height: 6px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; margin: 1px; width: 60%; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-elapsed.png) repeat-x 0 0 scroll;}
-.ttw-music-player .unused-controls {display: none !important;}
-/** Description **/
-.ttw-music-player .description {clear: both; margin: 30px 0 0 0; font-size: 17px; color: #999; text-shadow: 0 1px 1px rgba(0, 0, 0, .6);}
-.ttw-music-player .description.showing{margin:30px 0;}
-/** Track List **/
-.ttw-music-player .tracklist {padding: 10px 20px; box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-bg.png) repeat 0 0 scroll; color: #999; font-size: 15px;}
-.ttw-music-player .tracklist ol {margin: 0; padding: 0; overflow:hidden;}
-.ttw-music-player .tracklist li {text-shadow: 0 1px 1px rgba(0, 0, 0, .6); background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll; padding: 10px 0 10px 0; list-style-position: inside; position: relative;}
-.ttw-music-player .tracklist li:hover {color: #eee;}
-.ttw-music-player li:last-child{background: none;}
-.ttw-music-player .show-more-button li:last-child{background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll;}
-.ttw-music-player .tracklist .title {width: 164px; display: inline-block; padding: 0 0 0 14px; cursor: pointer;}
-.ttw-music-player li:nth-child(1n + 10) .title{padding-left:7px;}
-.ttw-music-player li.playing {color:#fff !important;}
-.ttw-music-player .tracklist .rating {margin-left: 10px; width: 30px; display: block; position: absolute; right: 72px; top: 12.5px;}
-.ttw-music-player .rating-bar {height: 10px; width: 3px; display: block; float: left; cursor: pointer; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar.png) no-repeat 0 0 scroll;}
-.ttw-music-player .rating-bar.on, .ttw-music-player .rating-bar:hover, .ttw-music-player .rating-bar.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar-on.png) no-repeat 0 0 scroll;}
-.ttw-music-player .buy {width: 62px; height: 16px; display: inline-block; position: absolute; top: 9px; right: 0; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/buy-bg.png) repeat 0 0 scroll; margin: 0 0 0 10px; font-size: 10px; text-align: center; line-height: 16px; text-shadow: none; color: #999; text-decoration: none;}
-.ttw-music-player .buy:hover {color: #eee;}
-.ttw-music-player .buy.not-active{display:none;}
-.ttw-music-player .more {display:none; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic; font-size: 11px; text-shadow: 0 1px 1px rgba(0, 0, 0, .6); padding: 10px 0; margin: 10px 0; cursor: pointer; text-align: center; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-more.png) repeat 0 0 scroll;}
-.ttw-music-player .more:hover {color: #eee; box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -moz-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -webkit-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2);}
-.ttw-music-player .show-more-button .more{display:block;}
-/** Transitions **/
-.ttw-music-player .more, .ttw-music-player .album-cover .highlight, .ttw-music-player .tracklist li, .ttw-music-player .buy {-webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; transition: all 0.5s ease;}
-/* http://perishablepress.com/press/2009/12/06/new-clearfix-hack */
-.ttw-music-player .player:after {clear: both; content: ' '; display: block; font-size: 0; line-height: 0; visibility: hidden; width: 0; height: 0;}
-</style>
-
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/jquery-1.6.1.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer/jquery.jplayer.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/ttw-music-player-min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/chu-dai-bi.js" charset="UTF-8"></script>
-
-<script type="text/javascript" charset="UTF-8">
-$(document).ready(function(){
-    var description = 'Chú đại bi là thần chú giúp chúng sinh an lạc, nói cách khác cũng là hạnh nguyện của ngài Quán Thế Âm Bồ Tát.';
-        $('body').ttwMusicPlayer(myPlaylist, {
-            autoPlay:false, description:description, jPlayer:{swfPath:'https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer'
-        }
-    });
-});
-</script>
-
-<body vocab="https://schema.org/" typeof="AggregateRating">
-<div property="itemReviewed" typeof="PodcastEpisode">
-	<h2 property="name">Chú Đại Bi</h2>
-	<p property="description">Thần chú <span property="associatedMedia" typeof="MediaObject"><a property="contentUrl" href="https://www.itvtbadboy.io.vn/audio/chu-dai-bi.mp3" target="_blank" title="Chú Đại Bi">đại bi</a></span> của Quán Thế Âm Bồ Tát được itvtbadboy phát triển và chia sẽ bằng định dạng âm thanh audio ở phía dưới cùng, ngoài ra đồng đạo cũng có thể nghe thần chú đại bi trên trang <a property="url" href="https://music.amazon.com/podcasts/f6687c9a-ddf1-4e37-adac-b3d1efe85b4b/episodes/5d82a9a7-cb7d-40a8-ae5e-6432e8a640f0/kinh-s%C3%A1ch-ch%C3%BA-%C4%91%E1%BA%A1i-bi" target="_blank" title="Chú Đại Bi">music amazon</a>.</p>
-	<div style="display: none;">
-        <span property="datePublished">2025-08-26T10:16:00+07:00</span> <span property="timeRequired">PT3M12S</span>
-        <div property="partOfSeries" typeof="PodcastSeries">
-            <a property="url" href="https://kinhsach.github.io/categories/quan-%C3%A2m/"><span property="name">Quan Âm</span></a>
-        </div>
-	</div>
-</div>
-<div style="display: none;">
-	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="audio" /><category term="chú đại bi" /><summary type="html"><![CDATA[Chú đại bi là thần chú giúp chúng sinh an lạc, nói cách khác cũng là hạnh nguyện của ngài Quán Thế Âm Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Audio Địa Tạng Bồ Tát Bổn Nguyện</title><link href="https://kinhsach.github.io/posts/audio-dia-tang-bo-tat-bon-nguyen/" rel="alternate" type="text/html" title="Audio Địa Tạng Bồ Tát Bổn Nguyện" /><published>2025-08-26T08:46:00+07:00</published><updated>2025-08-26T08:46:00+07:00</updated><id>https://kinhsach.github.io/posts/audio-dia-tang-bo-tat-bon-nguyen</id><content type="html" xml:base="https://kinhsach.github.io/posts/audio-dia-tang-bo-tat-bon-nguyen/"><![CDATA[<style>
-.ttw-music-player {width: 370px; margin: 60px auto; font-family: 'Roboto', arial, sans-serif;}
-.ttw-music-player .player {width: 100%;}
-/** Album Cover **/
-.ttw-music-player .album-cover {position: relative; float: left; box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);}
-.ttw-music-player .album-cover .img {box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -moz-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -webkit-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); background-position:center center; background-repeat:no-repeat; background-color:transparent;}
-.ttw-music-player .album-cover .highlight {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/album-cover-highlight.png) no-repeat 0 0 scroll; opacity: 1;}
-.ttw-music-player .album-cover:hover .highlight {opacity: 1;}
-.ttw-music-player .album-cover, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {display: block; height: 125px; width: 125px;}
-.ttw-music-player .album-cover img, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {position: absolute; top: 0; left: 0; height:125px; width:125px;}
-/** Track Info **/
-.ttw-music-player .track-info {width: 215px; margin: 8px 0 0 30px; float: left; font-size: 15px;}
-.ttw-music-player .track-info p {margin: 0 0 8px 0;}
-.ttw-music-player .player .title {color: #efefef; text-shadow: 0 1px 1px rgba(0, 0, 0, .8); font-family: 'Roboto BoldCondensedItalic', arial, sans-serif; font-weight: bold; font-size: 20px;}
-.ttw-music-player .artist-outer {color: #727272; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic;}
-.ttw-music-player .artist {color: #999; font-family: 'Roboto', arial, sans-serif; margin-left: 4px;}
-.ttw-music-player .rating {width: 75px; height: 16px;}
-.ttw-music-player .rating-star {width: 15px; height: 16px; display: block; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-off.png) no-repeat center center scroll; cursor: pointer;}
-.ttw-music-player .rating-star:hover, .ttw-music-player .rating-star.on, .ttw-music-player .rating-star.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-on.png) no-repeat center center scroll;}
-/** Player **/
-.ttw-music-player .player-controls {width: 215px; height: 30px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-bg.png) repeat 0 0 scroll; float: left; margin: 12px 0 0 30px;}
-.ttw-music-player .player-controls .main {width: 52px; height: 12px; margin: 9px 9px; float: left;}
-.ttw-music-player .player-controls div {float: left; cursor: pointer;}
-.ttw-music-player .previous, .ttw-music-player .next {height: 10px; width: 15px; margin: 1px 0;}
-.ttw-music-player .play, .ttw-music-player .pause {width: 8px; height: 12px; margin: 0 7px;}
-.ttw-music-player .previous {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-previous.png) no-repeat center center scroll;}
-.ttw-music-player .next {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-next.png) no-repeat center center scroll;}
-.ttw-music-player .play {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-play.png) no-repeat center center scroll;}
-.ttw-music-player .pause {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-pause.png) no-repeat center center scroll;}
-.ttw-music-player .progress-wrapper {height: 9px; width: 135px; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-progress.png) repeat-x 0 0 scroll; margin: 11px 10px 10px 0; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
-.ttw-music-player .progress {height: 9px; width: 135px; cursor: pointer;}
-.ttw-music-player .elapsed {height: 6px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; margin: 1px; width: 60%; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-elapsed.png) repeat-x 0 0 scroll;}
-.ttw-music-player .unused-controls {display: none !important;}
-/** Description **/
-.ttw-music-player .description {clear: both; margin: 30px 0 0 0; font-size: 17px; color: #999; text-shadow: 0 1px 1px rgba(0, 0, 0, .6);}
-.ttw-music-player .description.showing{margin:30px 0;}
-/** Track List **/
-.ttw-music-player .tracklist {padding: 10px 20px; box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-bg.png) repeat 0 0 scroll; color: #999; font-size: 15px;}
-.ttw-music-player .tracklist ol {margin: 0; padding: 0; overflow:hidden;}
-.ttw-music-player .tracklist li {text-shadow: 0 1px 1px rgba(0, 0, 0, .6); background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll; padding: 10px 0 10px 0; list-style-position: inside; position: relative;}
-.ttw-music-player .tracklist li:hover {color: #eee;}
-.ttw-music-player li:last-child{background: none;}
-.ttw-music-player .show-more-button li:last-child{background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll;}
-.ttw-music-player .tracklist .title {width: 164px; display: inline-block; padding: 0 0 0 14px; cursor: pointer;}
-.ttw-music-player li:nth-child(1n + 10) .title{padding-left:7px;}
-.ttw-music-player li.playing {color:#fff !important;}
-.ttw-music-player .tracklist .rating {margin-left: 10px; width: 30px; display: block; position: absolute; right: 72px; top: 12.5px;}
-.ttw-music-player .rating-bar {height: 10px; width: 3px; display: block; float: left; cursor: pointer; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar.png) no-repeat 0 0 scroll;}
-.ttw-music-player .rating-bar.on, .ttw-music-player .rating-bar:hover, .ttw-music-player .rating-bar.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar-on.png) no-repeat 0 0 scroll;}
-.ttw-music-player .buy {width: 62px; height: 16px; display: inline-block; position: absolute; top: 9px; right: 0; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/buy-bg.png) repeat 0 0 scroll; margin: 0 0 0 10px; font-size: 10px; text-align: center; line-height: 16px; text-shadow: none; color: #999; text-decoration: none;}
-.ttw-music-player .buy:hover {color: #eee;}
-.ttw-music-player .buy.not-active{display:none;}
-.ttw-music-player .more {display:none; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic; font-size: 11px; text-shadow: 0 1px 1px rgba(0, 0, 0, .6); padding: 10px 0; margin: 10px 0; cursor: pointer; text-align: center; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-more.png) repeat 0 0 scroll;}
-.ttw-music-player .more:hover {color: #eee; box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -moz-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -webkit-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2);}
-.ttw-music-player .show-more-button .more{display:block;}
-/** Transitions **/
-.ttw-music-player .more, .ttw-music-player .album-cover .highlight, .ttw-music-player .tracklist li, .ttw-music-player .buy {-webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; transition: all 0.5s ease;}
-/* http://perishablepress.com/press/2009/12/06/new-clearfix-hack */
-.ttw-music-player .player:after {clear: both; content: ' '; display: block; font-size: 0; line-height: 0; visibility: hidden; width: 0; height: 0;}
-</style>
-
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/jquery-1.6.1.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer/jquery.jplayer.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/ttw-music-player-min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/dia-tang-bo-tat-bon-nguyen.js" charset="UTF-8"></script>
-
-<script type="text/javascript" charset="UTF-8">
-$(document).ready(function(){
-    var description = 'Bát nhã tâm kinh tên đầy đủ là ma ha bát nhã ba la mật đa tâm kinh, là hạnh nguyện của ngài Địa Tạng Bồ Tát.';
-        $('body').ttwMusicPlayer(myPlaylist, {
-            autoPlay:false, description:description, jPlayer:{swfPath:'https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer'
-        }
-    });
-});
-</script>
-
-<body vocab="https://schema.org/" typeof="AggregateRating">
-<div property="itemReviewed" typeof="PodcastEpisode">
-	<h2 property="name">Địa Tạng Bồ Tát Bổn Nguyện</h2>
-	<p property="description">Thần chú Địa Tạng Bồ Tát <span property="associatedMedia" typeof="MediaObject"><a property="contentUrl" href="https://www.itvtbadboy.io.vn/audio/dia-tang-bo-tat-bon-nguyen.mp3" target="_blank" title="Địa Tạng Bồ Tát Bổn Nguyện">bổn nguyện</a></span> được itvtbadboy phát triển và chia sẽ bằng định dạng âm thanh audio ở phía dưới cùng, ngoài ra đồng đạo cũng có thể nghe thần chú Địa Tạng Bồ Tát bổn nguyện trên trang <a property="url" href="https://music.amazon.com/podcasts/f6687c9a-ddf1-4e37-adac-b3d1efe85b4b/episodes/d3332e99-7b6a-46c7-b7f7-2f96aa2818ff/kinh-s%C3%A1ch-%C4%91%E1%BB%8Ba-t%E1%BA%A1ng-b%E1%BB%93-t%C3%A1t-b%E1%BB%95n-nguy%E1%BB%87n" target="_blank" title="Địa Tạng Bồ Tát Bổn Nguyện">music amazon</a>.</p>
-	<div style="display: none;">
-        <span property="datePublished">2025-08-26T08:46:00+07:00</span> <span property="timeRequired">PT13M19S</span>
-        <div property="partOfSeries" typeof="PodcastSeries">
-            <a property="url" href="https://kinhsach.github.io/categories/%C4%91%E1%BB%8Ba-t%E1%BA%A1ng/"><span property="name">Địa Tạng</span></a>
-        </div>
-	</div>
-</div>
-<div style="display: none;">
-	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Địa Tạng" /><category term="audio" /><category term="địa tạng" /><category term="bồ tát" /><category term="bổn nguyện" /><summary type="html"><![CDATA[Bát nhã tâm kinh tên đầy đủ là ma ha bát nhã ba la mật đa tâm kinh, là hạnh nguyện của ngài Địa Tạng Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Audio Thủ Nhãn Ấn Pháp</title><link href="https://kinhsach.github.io/posts/audio-thu-nhan-an-phap/" rel="alternate" type="text/html" title="Audio Thủ Nhãn Ấn Pháp" /><published>2025-08-25T09:12:00+07:00</published><updated>2025-08-25T09:12:00+07:00</updated><id>https://kinhsach.github.io/posts/audio-thu-nhan-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/audio-thu-nhan-an-phap/"><![CDATA[<style>
-.ttw-music-player {width: 370px; margin: 60px auto; font-family: 'Roboto', arial, sans-serif;}
-.ttw-music-player .player {width: 100%;}
-/** Album Cover **/
-.ttw-music-player .album-cover {position: relative; float: left; box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75); -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);}
-.ttw-music-player .album-cover .img {box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -moz-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); -webkit-box-shadow: inset 0 0 1px rgba(255, 255, 255, .6); background-position:center center; background-repeat:no-repeat; background-color:transparent;}
-.ttw-music-player .album-cover .highlight {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/album-cover-highlight.png) no-repeat 0 0 scroll; opacity: 1;}
-.ttw-music-player .album-cover:hover .highlight {opacity: 1;}
-.ttw-music-player .album-cover, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {display: block; height: 125px; width: 125px;}
-.ttw-music-player .album-cover img, .ttw-music-player .album-cover .img, .ttw-music-player .album-cover .highlight {position: absolute; top: 0; left: 0; height:125px; width:125px;}
-/** Track Info **/
-.ttw-music-player .track-info {width: 215px; margin: 8px 0 0 30px; float: left; font-size: 15px;}
-.ttw-music-player .track-info p {margin: 0 0 8px 0;}
-.ttw-music-player .player .title {color: #efefef; text-shadow: 0 1px 1px rgba(0, 0, 0, .8); font-family: 'Roboto BoldCondensedItalic', arial, sans-serif; font-weight: bold; font-size: 20px;}
-.ttw-music-player .artist-outer {color: #727272; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic;}
-.ttw-music-player .artist {color: #999; font-family: 'Roboto', arial, sans-serif; margin-left: 4px;}
-.ttw-music-player .rating {width: 75px; height: 16px;}
-.ttw-music-player .rating-star {width: 15px; height: 16px; display: block; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-off.png) no-repeat center center scroll; cursor: pointer;}
-.ttw-music-player .rating-star:hover, .ttw-music-player .rating-star.on, .ttw-music-player .rating-star.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-on.png) no-repeat center center scroll;}
-/** Player **/
-.ttw-music-player .player-controls {width: 215px; height: 30px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-bg.png) repeat 0 0 scroll; float: left; margin: 12px 0 0 30px;}
-.ttw-music-player .player-controls .main {width: 52px; height: 12px; margin: 9px 9px; float: left;}
-.ttw-music-player .player-controls div {float: left; cursor: pointer;}
-.ttw-music-player .previous, .ttw-music-player .next {height: 10px; width: 15px; margin: 1px 0;}
-.ttw-music-player .play, .ttw-music-player .pause {width: 8px; height: 12px; margin: 0 7px;}
-.ttw-music-player .previous {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-previous.png) no-repeat center center scroll;}
-.ttw-music-player .next {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-next.png) no-repeat center center scroll;}
-.ttw-music-player .play {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-play.png) no-repeat center center scroll;}
-.ttw-music-player .pause {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-pause.png) no-repeat center center scroll;}
-.ttw-music-player .progress-wrapper {height: 9px; width: 135px; float: left; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-progress.png) repeat-x 0 0 scroll; margin: 11px 10px 10px 0; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
-.ttw-music-player .progress {height: 9px; width: 135px; cursor: pointer;}
-.ttw-music-player .elapsed {height: 6px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; margin: 1px; width: 60%; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/player-elapsed.png) repeat-x 0 0 scroll;}
-.ttw-music-player .unused-controls {display: none !important;}
-/** Description **/
-.ttw-music-player .description {clear: both; margin: 30px 0 0 0; font-size: 17px; color: #999; text-shadow: 0 1px 1px rgba(0, 0, 0, .6);}
-.ttw-music-player .description.showing{margin:30px 0;}
-/** Track List **/
-.ttw-music-player .tracklist {padding: 10px 20px; box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .15), 0 1px 0 rgba(255, 255, 255, .04); border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-bg.png) repeat 0 0 scroll; color: #999; font-size: 15px;}
-.ttw-music-player .tracklist ol {margin: 0; padding: 0; overflow:hidden;}
-.ttw-music-player .tracklist li {text-shadow: 0 1px 1px rgba(0, 0, 0, .6); background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll; padding: 10px 0 10px 0; list-style-position: inside; position: relative;}
-.ttw-music-player .tracklist li:hover {color: #eee;}
-.ttw-music-player li:last-child{background: none;}
-.ttw-music-player .show-more-button li:last-child{background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-item-bg.png) repeat-x bottom left scroll;}
-.ttw-music-player .tracklist .title {width: 164px; display: inline-block; padding: 0 0 0 14px; cursor: pointer;}
-.ttw-music-player li:nth-child(1n + 10) .title{padding-left:7px;}
-.ttw-music-player li.playing {color:#fff !important;}
-.ttw-music-player .tracklist .rating {margin-left: 10px; width: 30px; display: block; position: absolute; right: 72px; top: 12.5px;}
-.ttw-music-player .rating-bar {height: 10px; width: 3px; display: block; float: left; cursor: pointer; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar.png) no-repeat 0 0 scroll;}
-.ttw-music-player .rating-bar.on, .ttw-music-player .rating-bar:hover, .ttw-music-player .rating-bar.hover {background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/rating-bar-on.png) no-repeat 0 0 scroll;}
-.ttw-music-player .buy {width: 62px; height: 16px; display: inline-block; position: absolute; top: 9px; right: 0; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/buy-bg.png) repeat 0 0 scroll; margin: 0 0 0 10px; font-size: 10px; text-align: center; line-height: 16px; text-shadow: none; color: #999; text-decoration: none;}
-.ttw-music-player .buy:hover {color: #eee;}
-.ttw-music-player .buy.not-active{display:none;}
-.ttw-music-player .more {display:none; font-family: 'Roboto Italic', arial, sans-serif; font-style: italic; font-size: 11px; text-shadow: 0 1px 1px rgba(0, 0, 0, .6); padding: 10px 0; margin: 10px 0; cursor: pointer; text-align: center; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background: transparent url(https://www.itvtbadboy.io.vn/music-player/plugin/images/tracklist-more.png) repeat 0 0 scroll;}
-.ttw-music-player .more:hover {color: #eee; box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -moz-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2); -webkit-box-shadow: inset 0px 0px 20px rgba(0, 0, 0, .2);}
-.ttw-music-player .show-more-button .more{display:block;}
-/** Transitions **/
-.ttw-music-player .more, .ttw-music-player .album-cover .highlight, .ttw-music-player .tracklist li, .ttw-music-player .buy {-webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; transition: all 0.5s ease;}
-/* http://perishablepress.com/press/2009/12/06/new-clearfix-hack */
-.ttw-music-player .player:after {clear: both; content: ' '; display: block; font-size: 0; line-height: 0; visibility: hidden; width: 0; height: 0;}
-</style>
-
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/jquery-1.6.1.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer/jquery.jplayer.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/plugin/ttw-music-player-min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="https://www.itvtbadboy.io.vn/music-player/js/thu-nhan-an-phap.js" charset="UTF-8"></script>
-
-<script type="text/javascript" charset="UTF-8">
-$(document).ready(function(){
-    var description = 'Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, tuyệt đối không được khởi tâm niệm tham cầu thần thông.';
-        $('body').ttwMusicPlayer(myPlaylist, {
-            autoPlay:false, description:description, jPlayer:{swfPath:'https://www.itvtbadboy.io.vn/music-player/plugin/jquery-jplayer'
-        }
-    });
-});
-</script>
-
-<body vocab="https://schema.org/" typeof="AggregateRating">
-<div property="itemReviewed" typeof="PodcastEpisode">
-	<h2 property="name">Thủ Nhãn Ấn Pháp</h2>
-	<p property="description">Chú đại bi và 42 <span property="associatedMedia" typeof="MediaObject"><a property="contentUrl" href="https://www.itvtbadboy.io.vn/audio/thu-nhan-an-phap.mp3" target="_blank" title="Thủ Nhãn Ấn Pháp">thủ nhãn</a></span> được itvtbadboy phát triển và chia sẽ bằng định dạng âm thanh audio ở phía dưới cùng, ngoài ra đồng đạo cũng có thể nghe giảng 42 thủ nhãn ấn pháp trên trang <a property="url" href="https://music.amazon.com/podcasts/f6687c9a-ddf1-4e37-adac-b3d1efe85b4b/episodes/95d0e4cc-6cc0-41dc-aa58-5c535fa3b9fb/kinh-s%C3%A1ch-th%E1%BB%A7-nh%C3%A3n-%E1%BA%A5n-ph%C3%A1p" target="_blank" title="Thủ Nhãn Ấn Pháp">music amazon</a>.</p>
-	<div style="display: none;">
-		<span property="datePublished">2025-08-25T17:19:00+07:00</span> <span property="timeRequired">PT01H10M</span>
-        <div property="partOfSeries" typeof="PodcastSeries">
-            <a property="url" href="https://kinhsach.github.io/categories/quan-%C3%A2m/"><span property="name">Quan Âm</span></a>
-        </div>
-	</div>
-</div>
-<div style="display: none;">
-	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="audio" /><category term="thủ nhãn" /><category term="ấn pháp" /><summary type="html"><![CDATA[Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, tuyệt đối không được khởi tâm niệm tham cầu thần thông.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Liên Hoa Ấn Pháp</title><link href="https://kinhsach.github.io/posts/lien-hoa-an-phap/" rel="alternate" type="text/html" title="Liên Hoa Ấn Pháp" /><published>2025-08-24T10:12:00+07:00</published><updated>2025-08-24T10:12:00+07:00</updated><id>https://kinhsach.github.io/posts/lien-hoa-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/lien-hoa-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
-
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
-
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Liên Hoa Ấn Pháp</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.ce5l3l1zvcf6" target="_blank" title="Liên Hoa Ấn Pháp">Liên Hoa</a> bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng chung tướng riêng của các Pháp mà không hề bị ngăn ngại, tám tay thuộc bộ này là bảo kính hiệp chưởng bảo ấn ngọc hoàn bảo bình quân trì tích trượng hồng liên hoa minh họa cho Pháp kính ái, là Pháp tu cho mình và người khác được chư Phật Bồ Tát gia hộ hoặc muốn được quân vương và người yêu thương giúp đỡ.</span>
-	</p>
-</div>
-<div style="margin-bottom: 30px;"></div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kinh-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baokinhthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Bảo Kính <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/hiep-chuong-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#hiepchuongthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Hiệp Chưởng <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-an-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baoanthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Bảo Ấn <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/ngoc-hoan-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#ngochoanthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Ngọc Hoàn <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-binh-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baobinhthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Bảo Bình <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/quan-tri-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#quantrithunhan" target="_parent" title="Liên Hoa Ấn Pháp">Quân Trì <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/tich-truong-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#tichtruongthunhan" target="_parent" title="Liên Hoa Ấn Pháp">Tích Trượng <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/hong-lien-hoa-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#honglienhoathunhan" target="_parent" title="Liên Hoa Ấn Pháp">Hồng Hoa <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="clearfix"></div>
-
-<hr>
-<div property="mainEntity" typeof="Question" id="baokinhthunhan">
-	<h2 property="name">Bảo Kính Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.mh5o8vet29fl" target="_blank" title="Liên Hoa Ấn Pháp">Bảo kính thủ nhãn</a> được trí tuệ lớn. Tay thứ hai trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Thất na thất na</b>. Chơn ngôn: <b>Án !!! Vĩ tát phổ ra na ra các xoa phạ nhựt ra mạn trà lã hồng phấn tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="hiepchuongthunhan">
-	<h2 property="name">Hiệp Chưởng Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.32x1xq2if939" target="_blank" title="Liên Hoa Ấn Pháp">Hiệp chưởng thủ nhãn</a> được người kính yêu. Tay thứ nhất trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Tất rị tất rị</b>. Chơn ngôn: <b>Án !!! Bát nạp mạng nhá lăng hất rị</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baoanthunhan">
-	<h2 property="name">Bảo Ấn Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.pgbd9fz38ox" target="_blank" title="Liên Hoa Ấn Pháp">Bảo ấn thủ nhãn</a> thành tựu biện tài. Tay thứ ba trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Tát bà tát bà</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra nãnh đảm nhá duệ tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="ngochoanthunhan">
-	<h2 property="name">Ngọc Hoàn Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.y92lv1ixjqqb" target="_blank" title="Liên Hoa Ấn Pháp">Ngọc hoàn thủ nhãn</a> có tôi tớ để sai khiến. Tay thứ tư trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Hô lô hô lô ma ra</b>. Chơn ngôn: <b>Án !!! Bát na hàm vị ra dã tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baobinhthunhan">
-	<h2 property="name">Bảo Bình Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.us85f9kf5zxt" target="_blank" title="Liên Hoa Ấn Pháp">Bảo bình thủ nhãn</a> quyến thuộc hòa thuận. Tay thứ năm trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Na ra cẩn trì</b>. Chơn ngôn: <b>Án !!! Yết lệ thảm mãn diệm tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="quantrithunhan">
-	<h2 property="name">Quân Trì Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.prd27yjzs8r4" target="_blank" title="Liên Hoa Ấn Pháp">Quân trì thủ nhãn</a> được sinh lên cõi Phạm Thiên. Tay thứ sáu trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Đà la đà la</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra thế khê ra rô tra hàm tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="tichtruongthunhan">
-	<h2 property="name">Tích Trượng Trượng Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.vvyn6kza0njs" target="_blank" title="Liên Hoa Ấn Pháp">Tích trượng thủ nhãn</a> cầu tâm từ bi. Tay thứ tám trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Di đế rị dạ</b>. Chơn ngôn: <b>Án !!! Na lật thế na lật thế na lật tra bát để na lật đế na dạ bát nãnh hồng phấn tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="honglienhoathunhan">
-	<h2 property="name">Hồng Liên Hoa Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/lien-hoa-an-phap#h.fg573zw3bet6" target="_blank" title="Liên Hoa Ấn Pháp">Hồng liên hoa thủ nhãn</a> được sinh ở cung điện chư Thiên. Tay thứ bảy trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ba đà ma kiết tất đà dạ</b>. Chơn ngôn: <b>Án !!! Thương yết lệ tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="liên hoa" /><category term="ấn pháp" /><summary type="html"><![CDATA[Liên Hoa bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng của các Pháp mà không hề bị ngăn ngại là Pháp tu được chư Phật Bồ Tát gia hộ.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yết Ma Ấn Pháp</title><link href="https://kinhsach.github.io/posts/yet-ma-an-phap/" rel="alternate" type="text/html" title="Yết Ma Ấn Pháp" /><published>2025-08-24T09:04:00+07:00</published><updated>2025-08-24T09:04:00+07:00</updated><id>https://kinhsach.github.io/posts/yet-ma-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/yet-ma-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
-
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
-
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://kinhsach.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kinhsach.github.io/" rel="alternate" type="text/html" hreflang="vi-VN" /><updated>2025-08-27T13:42:30+07:00</updated><id>https://kinhsach.github.io/feed.xml</id><title type="html">Kinh Sách</title><subtitle>Kinh sách miễn phí giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo.</subtitle><entry><title type="html">Pdf Yết Ma Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-yet-ma-an-phap/" rel="alternate" type="text/html" title="Pdf Yết Ma Ấn Pháp" /><published>2025-08-27T08:53:00+07:00</published><updated>2025-08-27T08:53:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-yet-ma-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-yet-ma-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
 	<h2 property="name">Yết Ma Ấn Pháp</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.tpd6xze3g1sp" target="_blank" title="Yết Ma Ấn Pháp">Yết Ma</a> bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian chuyển chúng sinh thành phương tiện giải thoát, mười tay thuộc bộ này là câu thi thiết câu đảnh thượng hóa Phật sổ châu bảo loa bảo tiễn bảo khiếp độc lâu trượng ngũ sắc vân cam lộ tổng nhiếp thiên tý minh họa cho Pháp câu triệu là Pháp triệu thỉnh bản Tôn chư Thần, thông thường thì Pháp này thường được nhiếp trong kính ái.</span>
-	</p>
-</div>
-<div style="margin-bottom: 30px;"></div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/cau-thi-thiet-cau-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#cauthithietcauthunhan" target="_parent" title="Yết Ma Ấn Pháp">Thiết Câu <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/danh-thuong-hoa-phat-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#danhthuonghoaphatthunhan" target="_parent" title="Yết Ma Ấn Pháp">Hóa Phật <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/so-chau-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#sochauthunhan" target="_parent" title="Yết Ma Ấn Pháp">Sổ Châu <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-loa-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baoloathunhan" target="_parent" title="Yết Ma Ấn Pháp">Bảo Loa <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-tien-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baotienthunhan" target="_parent" title="Yết Ma Ấn Pháp">Bảo Tiễn <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kip-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baokhiepthunhan" target="_parent" title="Yết Ma Ấn Pháp">Bảo Khiếp <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/doc-lau-truong-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#doclautruongthunhan" target="_parent" title="Yết Ma Ấn Pháp">Độc Lâu <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/ngu-sac-van-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#ngusacvanthunhan" target="_parent" title="Yết Ma Ấn Pháp">Ngũ Sắc Vân <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/cam-lo-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#camlothunhan" target="_parent" title="Yết Ma Ấn Pháp">Cam Lộ <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/tong-nhiep-thien-ty-thu-nhan.jpg" alt="yet ma an phap" width="100%" height="auto">
-		<div class="desc"><a href="#tongnhiepthientythunhan" target="_parent" title="Yết Ma Ấn Pháp">Tổng Nhiếp <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="clearfix"></div>
-
-<hr>
-<div property="mainEntity" typeof="Question" id="cauthithietcauthunhan">
-	<h2 property="name">Câu Thi Thiết Câu Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.h5valglzy0so" target="_blank" title="Yết Ma Ấn Pháp">Câu thi thiết câu thủ nhãn</a> được Thiên Thần ủng hộ. Tay thứ nhất trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Địa rị ni</b>. Chơn ngôn: <b>Án !!! A rô rô đa ra ca ra vĩ sa duệ nẵng mồ tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="danhthuonghoaphatthunhan">
-	<h2 property="name">Hóa Phật Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.xl95itiywg96" target="_blank" title="Yết Ma Ấn Pháp">Đảnh thượng hóa Phật thủ nhãn</a> được chư Phật xoa đầu thọ ký. Tay thứ hai trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Bồ đà dạ</b>. Chơn ngôn: <b>Án !!! Phạ nhựt rị ni phạ nhựt lẵm nghệ tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="sochauthunhan">
-	<h2 property="name">Sổ Châu Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.u68r9gppz45h" target="_blank" title="Yết Ma Ấn Pháp">Sổ châu thủ nhãn</a> được chư Phật tiếp dẫn. Tay thứ ba trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Phật ra xá lợi</b>. Chơn ngôn: <b>Nẵng mồ ra đá nẵng đát ra phạ dã. Án !!! A na bà đế vĩ nhã duệ tất địa tất đà lật đế tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baoloathunhan">
-	<h2 property="name">Bảo Loa Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.eg6ocneebcqj" target="_blank" title="Yết Ma Ấn Pháp">Bảo loa thủ nhãn</a> triệu chư Thiện Thần. Tay thứ tư trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Cu lô cu lô</b>. Chơn ngôn: <b>Án !!! Thương yết lệ mạ hạ thảm mãnh diệm tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baotienthunhan">
-	<h2 property="name">Bảo Tiễn Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.alv0axgfyj1g" target="_blank" title="Yết Ma Ấn Pháp">Bảo tiễn thủ nhãn</a> được gặp bạn lành. Tay thứ năm trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ba dạ ma na</b>. Chơn ngôn: <b>Án !!! Ca mạ lã tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baokhiepthunhan">
-	<h2 property="name">Bảo Khiếp Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.g5zvo6evo96h" target="_blank" title="Yết Ma Ấn Pháp">Bảo khiếp thủ nhãn</a> lấy kho báu trong lòng đất. Tay thứ sáu trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Tất đà du nghệ thất bàn ra dạ</b>. Chơn ngôn: <b>Án !!! Nhựt ra bát thiết ca rị yết nẵng hàm ra hồng</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="doclautruongthunhan">
-	<h2 property="name">Độc Lâu Trượng Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.ew2848sf6mh7" target="_blank" title="Yết Ma Ấn Pháp">Độc lâu trượng thủ nhãn</a> sai khiến quỷ thần. Tay thứ bảy trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Y hê y hê</b>. Chơn ngôn: <b>Án !!! Độ nẵng phạ nhựt ra xá</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="ngusacvanthunhan">
-	<h2 property="name">Ngũ Sắc Vân Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.8kz34cghdbdn" target="_blank" title="Yết Ma Ấn Pháp">Ngũ sắc vân thủ nhãn</a> được thành tựu đạo Tiên. Tay thứ tám trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ma hê ma hê</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra ca rị ra tra hàm tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="camlothunhan">
-	<h2 property="name">Cam Lộ Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.cmurlmbbawmr" target="_blank" title="Yết Ma Ấn Pháp">Cam lộ thủ nhãn</a> tất cả loài hữu tình đói khát no đủ. Tay thứ bảy trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Tô rô tô rô</b>. Chơn ngôn: <b>Án !!! Tố rô tố rô bác ra tố rô bác ra tố rô tố rô tố rô dã tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="tongnhiepthientythunhan">
-	<h2 property="name">Tổng Nhiếp Thiên Tý Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/yet-ma-an-phap#h.mldf246jgqu6" target="_blank" title="Yết Ma Ấn Pháp">Tổng nhiếp thiên tý thủ nhãn</a> hàng phục ma oán cõi Đại Thiên. Tay thứ hai trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ma bà rị thắng kiết ra dạ</b>. Chơn ngôn: <b>Án !!! Đát nễ dã thá phạ lồ chỉ đế thấp phạ ra dã tát bà đốt sắc ca ô hạ di dã sá phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="yết ma" /><category term="ấn pháp" /><summary type="html"><![CDATA[Yết Ma bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian là Pháp triệu thỉnh bản Tôn chư Thần.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kim Cương Ấn Pháp</title><link href="https://kinhsach.github.io/posts/kim-cuong-an-phap/" rel="alternate" type="text/html" title="Kim Cương Ấn Pháp" /><published>2025-08-24T07:48:00+07:00</published><updated>2025-08-24T07:48:00+07:00</updated><id>https://kinhsach.github.io/posts/kim-cuong-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/kim-cuong-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
-
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
-
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
-	<h2 property="name">Kim Cương Ấn Pháp</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.4ivzssaz3dcv" target="_blank" title="Kim Cương Ấn Pháp">Kim Cương</a> bộ biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc vào sự vật nào cũng không bị sự vật ấy động chạm hay lay động được, có tám tay thuộc bộ này là bạt chiết la kim cang xử bảo kiếm hóa cung điện bất thoái kim luân bảo bát nhật tinh ma ni nguyệt tinh ma ni minh họa cho Pháp điều phục, là Pháp tu chiết phục các nhóm ác hoặc điều phục các người ác.</span>
-	</p>
-</div>
-<div style="margin-bottom: 30px;"></div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bat-chiet-la-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#batchietlathunhan" target="_parent" title="Kim Cương Ấn Pháp">Bạt Chiết La <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/kim-cang-xu-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#kimcangxuthunhan" target="_parent" title="Kim Cương Ấn Pháp">Kim Cang Xử <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kiem-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baokiemthunhan" target="_parent" title="Kim Cương Ấn Pháp">Bảo Kiếm <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/hoa-cung-dien-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#hoacungdienthunhan" target="_parent" title="Kim Cương Ấn Pháp">Hóa Cung Điện <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bat-thoai-kim-luan-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#batthoaikimluanthunhan" target="_parent" title="Kim Cương Ấn Pháp">Kim Luân <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-bat-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baobatthunhan" target="_parent" title="Kim Cương Ấn Pháp">Bảo Bát <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/nhat-tinh-ma-ni-thu-nhan.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#nhattinhmanithunhan" target="_parent" title="Kim Cương Ấn Pháp">Nhật Tinh <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/nguyet-tinh-ma-ni.jpg" alt="kim cuong an phap" width="100%" height="auto">
-		<div class="desc"><a href="#nguyettinhmanithunhan" target="_parent" title="Kim Cương Ấn Pháp">Nguyệt Tinh <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="clearfix"></div>
-
-<hr>
-<div property="mainEntity" typeof="Question" id="batchietlathunhan">
-	<h2 property="name">Bạt Chiết La Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.lnvgel188v6i" target="_blank" title="Kim Cương Ấn Pháp">Bạt chiết la thủ nhãn</a> hàng phục đại ma thần. Tay thứ nhất trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Giả kiết ra a tất đà dạ</b>. Chơn ngôn: <b>Án !!! Nễ bệ nễ bệ nễ bà dã ma ha thất rị duệ tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="kimcangxuthunhan">
-	<h2 property="name">Kim Cang Xử Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.pdv62yszuk1n" target="_blank" title="Kim Cương Ấn Pháp">Kim cang xử thủ nhãn</a> hàng phục oán địch. Tay thứ hai trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ta ra ta ra</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra chỉ nãnh bát ra nễ bát đa dã tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baokiemthunhan">
-	<h2 property="name">Bảo Kiếm Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.4j69pzs6je2a" target="_blank" title="Kim Cương Ấn Pháp">Bảo kiếm thủ nhãn</a> hàng phục quỷ thần vọng lượng. Tay thứ ba trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Địa rị sắt ni na</b>. Chơn ngôn: <b>Án !!! Đế thế đế nhá đổ vĩ nãnh đổ đề bà đà dã hồng phấn tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="hoacungdienthunhan">
-	<h2 property="name">Hóa Cung Điện Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.ux8r9frzhqa1" target="_blank" title="Kim Cương Ấn Pháp">Hóa cung điện thủ nhãn</a> chẳng thọ thân bào thai. Tay thứ tư trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Phạt ma ra</b>. Chơn ngôn: <b>Án !!! Vi tát ra vi tát ra hồng phấn tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="batthoaikimluanthunhan">
-	<h2 property="name">Bất Thoái Kim Luân Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.dkj0afn32dt5" target="_blank" title="Kim Cương Ấn Pháp">Bất thoái kim luân thủ nhãn</a> tâm không thoái lui. Tay thứ năm trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Bồ đề dạ</b>. Chơn ngôn: <b>Án !!! Thiết na di tả tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baobatthunhan">
-	<h2 property="name">Bảo Bát Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.29tforiidllx" target="_blank" title="Kim Cương Ấn Pháp">Bảo bát thủ nhãn</a> trị bệnh trong bụng. Tay thứ sáu trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Hô Lô Hô Lô Hê Rị</b>. Chơn ngôn: <b>Án !!! Chỉ rị chỉ rị phạ nhựt ra hồng phấn tra</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="nhattinhmanithunhan">
-	<h2 property="name">Nhật Tinh Ma Ni Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.8rs3ake9ootf" target="_blank" title="Kim Cương Ấn Pháp">Nhật tinh ma ni thủ nhãn</a> trị bệnh mắt mờ. Tay thứ bảy trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Thất Phật ra da</b>. Chơn ngôn: <b>Án !!! Độ tỉ ca giả độ tỉ bát ra phạ rị nãnh tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-<hr>
-<div property="mainEntity" typeof="Question" id="nguyettinhmanithunhan">
-	<h2 property="name">Nguyệt Tinh Ma Ni Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/kim-cuong-an-phap#h.3hcp0zu3fp66" target="_blank" title="Kim Cương Ấn Pháp">Nguyệt tinh ma ni thủ nhãn</a> trị bệnh nhiệt độc. Tay thứ bảy trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Đồ lô đồ lô</b>. Chơn ngôn: <b>Án !!! Tô tất địa yết rị tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
-</div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="kim cương" /><category term="ấn pháp" /><summary type="html"><![CDATA[Kim Cương bộ biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc vào sự vật nào là Pháp tu chiết phục các nhóm ác hoặc các người ác.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Kim Cương Ấn Pháp</title><link href="https://kinhsach.github.io/posts/youtube-kim-cuong-an-phap/" rel="alternate" type="text/html" title="Youtube Kim Cương Ấn Pháp" /><published>2025-08-24T00:00:00+07:00</published><updated>2025-08-24T00:00:00+07:00</updated><id>https://kinhsach.github.io/posts/youtube-kim-cuong-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/youtube-kim-cuong-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
-
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
-
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="VideoObject">
-{% include embed/youtube.html id='2ItRhFRx1YM' %}
-<div>
-	<h2 property="name">Kim Cương Ấn Pháp</h2>
-	<p property="description"><a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" target="_blank" title="Kim Cương Ấn Pháp">Kim Cương</a> bộ biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc vào sự vật nào cũng không bị sự vật ấy động chạm hay lay động được, có tám tay thuộc bộ này là bạt chiết la kim cang xử bảo kiếm hóa cung điện bất thoái kim luân bảo bát nhật tinh ma ni nguyệt tinh ma ni minh họa cho Pháp điều phục, là Pháp tu chiết phục các nhóm ác hoặc điều phục các người ác, <a property="contentUrl" href="https://www.youtube.com/watch?v=2ItRhFRx1YM" target="_blank" title="Kim Cương Ấn Pháp">youtube video</a>.</p>
-
-	<div style="margin-bottom: 30px;"></div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bat-chiet-la-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=467&end=551" target="_blank" title="Kim Cương Ấn Pháp">Bạt Chiết La <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="467"></span> <span property="endOffset" content="551"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/kim-cang-xu-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=551&end=623" target="_blank" title="Kim Cương Ấn Pháp">Kim Cang Xử <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="551"></span> <span property="endOffset" content="623"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-kiem-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=390&end=467" target="_blank" title="Kim Cương Ấn Pháp">Bảo Kiếm <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="390"></span> <span property="endOffset" content="467"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/hoa-cung-dien-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2476&end=2560" target="_blank" title="Kim Cương Ấn Pháp">Hóa Cung Điện <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2476"></span> <span property="endOffset" content="2560"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bat-thoai-kim-luan-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2661&end=2750" target="_blank" title="Kim Cương Ấn Pháp">Kim Luân <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2661"></span> <span property="endOffset" content="2750"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-bat-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=331&end=390" target="_blank" title="Kim Cương Ấn Pháp">Bảo Bát <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="331"></span> <span property="endOffset" content="390"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/nhat-tinh-ma-ni-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=683&end=744" target="_blank" title="Kim Cương Ấn Pháp">Nhật Tinh <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="683"></span> <span property="endOffset" content="744"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/nguyet-tinh-ma-ni.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=744&end=802" target="_blank" title="Kim Cương Ấn Pháp">Nguyệt Tinh <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="744"></span> <span property="endOffset" content="802"></span></div>
-		</div>
-	</div>
-	<div class="clearfix"></div>
-
+	<p property="abstract">Yết ma ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải yết ma ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/yet-ma-an-phap.pdf" target="_blank" title="Yết Ma Ấn Pháp">google bucket</a>.</p>
 	<div style="display: none;">
-		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT01H10M</span>
-		<div property="interactionStatistic" typeof="InteractionCounter">
-			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">100</span>
-		</div>
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="youtube" /><category term="kim cương" /><category term="ấn pháp" /><summary type="html"><![CDATA[.khunganh {padding: 0 6px; float: left; width: 24.99999%;} div.thunhananphap img {width: 100%; height: auto;} div.thunhananphap p {font-size: 18px;} div.desc {padding: 15px; text-align: center;}]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Yết Ma Ấn Pháp</title><link href="https://kinhsach.github.io/posts/youtube-yet-ma-an-phap/" rel="alternate" type="text/html" title="Youtube Yết Ma Ấn Pháp" /><published>2025-08-24T00:00:00+07:00</published><updated>2025-08-24T00:00:00+07:00</updated><id>https://kinhsach.github.io/posts/youtube-yet-ma-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/youtube-yet-ma-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
 
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+<div style="padding: 30px;"><hr></div>
 
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="VideoObject">
-{% include embed/youtube.html id='2ItRhFRx1YM' %}
-<div>
-	<h2 property="name">Yết Ma Ấn Pháp</h2>
-	<p property="description"><a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" target="_blank" title="Yết Ma Ấn Pháp">Yết Ma</a> bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian chuyển chúng sinh thành phương tiện giải thoát, mười tay thuộc bộ này là câu thi thiết câu đảnh thượng hóa Phật sổ châu bảo loa bảo tiễn bảo khiếp độc lâu trượng ngũ sắc vân cam lộ tổng nhiếp thiên tý minh họa cho Pháp câu triệu là Pháp triệu thỉnh bản Tôn chư Thần, thông thường thì Pháp này thường được nhiếp trong kính ái, <a property="contentUrl" href="https://www.youtube.com/watch?v=2ItRhFRx1YM" target="_blank" title="Yết Ma Ấn Pháp">youtube video</a>.</p>
-
-	<div style="margin-bottom: 30px;"></div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/cau-thi-thiet-cau-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2184&end=2255" target="_blank" title="Yết Ma Ấn Pháp">Thiết Câu <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2184"></span> <span property="endOffset" content="2255"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/danh-thuong-hoa-phat-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2750&end=2813" target="_blank" title="Yết Ma Ấn Pháp">Hóa Phật <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2750"></span> <span property="endOffset" content="2813"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/so-chau-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=390&end=467" target="_blank" title="Yết Ma Ấn Pháp">Sổ Châu <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="390"></span> <span property="endOffset" content="467"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-loa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2932&end=3025" target="_blank" title="Yết Ma Ấn Pháp">Bảo Loa <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2932"></span> <span property="endOffset" content="3025"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-tien-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3930&end=4014" target="_blank" title="Yết Ma Ấn Pháp">Bảo Tiễn <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="3930"></span> <span property="endOffset" content="4014"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-kip-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1067&end=1151" target="_blank" title="Yết Ma Ấn Pháp">Bảo Khiếp <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="1067"></span> <span property="endOffset" content="1151"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/doc-lau-truong-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3523&end=3614" target="_blank" title="Yết Ma Ấn Pháp">Độc Lâu <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="3523"></span> <span property="endOffset" content="3614"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/ngu-sac-van-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=4014&end=4089" target="_blank" title="Yết Ma Ấn Pháp">Ngũ Sắc Vân <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="4014"></span> <span property="endOffset" content="4089"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/cam-lo-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3614&end=3688" target="_blank" title="Yết Ma Ấn Pháp">Cam Lộ <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="3614"></span> <span property="endOffset" content="3688"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/tong-nhiep-thien-ty-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2874&end=2932" target="_blank" title="Yết Ma Ấn Pháp">Tổng Nhiếp <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2874"></span> <span property="endOffset" content="2932"></span></div>
-		</div>
-	</div>
-	<div class="clearfix"></div>
-
+<embed src="https://www.itvtbadboy.io.vn/pdf/yet-ma-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="yết ma" /><category term="ấn pháp" /><summary type="html"><![CDATA[Yết Ma bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian là Pháp triệu thỉnh bản Tôn chư Thần.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Như Lai Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-nhu-lai-an-phap/" rel="alternate" type="text/html" title="Pdf Như Lai Ấn Pháp" /><published>2025-08-27T08:50:00+07:00</published><updated>2025-08-27T08:50:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-nhu-lai-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-nhu-lai-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Như Lai Ấn Pháp</h2>
+	<p property="abstract">Như lai ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải như lai ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/nhu-lai-an-phap.pdf" target="_blank" title="Như Lai Ấn Pháp">google bucket</a>.</p>
 	<div style="display: none;">
-		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT01H10M</span>
-		<div property="interactionStatistic" typeof="InteractionCounter">
-			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">100</span>
-		</div>
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="youtube" /><category term="yết ma" /><category term="ấn pháp" /><summary type="html"><![CDATA[.khunganh {padding: 0 6px; float: left; width: 24.99999%;} div.thunhananphap img {width: 100%; height: auto;} div.thunhananphap p {font-size: 18px;} div.desc {padding: 15px; text-align: center;}]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Youtube Liên Hoa Ấn Pháp</title><link href="https://kinhsach.github.io/posts/youtube-lien-hoa-an-phap/" rel="alternate" type="text/html" title="Youtube Liên Hoa Ấn Pháp" /><published>2025-08-24T00:00:00+07:00</published><updated>2025-08-24T00:00:00+07:00</updated><id>https://kinhsach.github.io/posts/youtube-lien-hoa-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/youtube-lien-hoa-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
-
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
-
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="VideoObject">
-{% include embed/youtube.html id='2ItRhFRx1YM' %}
-<div>
-	<h2 property="name">Liên Hoa Ấn Pháp</h2>
-	<p property="description"><a property="thumbnailUrl" href="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" target="_blank" title="Liên Hoa Ấn Pháp">Liên Hoa</a> bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng chung tướng riêng của các Pháp mà không hề bị ngăn ngại, tám tay thuộc bộ này là bảo kính hiệp chưởng bảo ấn ngọc hoàn bảo bình quân trì tích trượng hồng liên hoa minh họa cho Pháp kính ái, là Pháp tu cho mình và người khác được chư Phật Bồ Tát gia hộ hoặc muốn được quân vương và người yêu thương giúp đỡ, <a property="contentUrl" href="https://www.youtube.com/watch?v=2ItRhFRx1YM" target="_blank" title="Liên Hoa Ấn Pháp">youtube video</a>.</p>
-
-	<div style="margin-bottom: 30px;"></div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-kinh-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1745&end=1825" target="_blank" title="Liên Hoa Ấn Pháp">Bảo Kính <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="1745"></span> <span property="endOffset" content="1825"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/hiep-chuong-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2331&end=2390" target="_blank" title="Liên Hoa Ấn Pháp">Hiệp Chưởng <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2331"></span> <span property="endOffset" content="2390"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-an-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2115&end=2185" target="_blank" title="Liên Hoa Ấn Pháp">Bảo Ấn <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2115"></span> <span property="endOffset" content="2185"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/ngoc-hoan-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1527&end=1597" target="_blank" title="Liên Hoa Ấn Pháp">Ngọc Hoàn <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="1527"></span> <span property="endOffset" content="1597"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/bao-binh-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=1294&end=1374" target="_blank" title="Liên Hoa Ấn Pháp">Bảo Bình <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="1294"></span> <span property="endOffset" content="1374"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/quan-tri-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3688&end=3760" target="_blank" title="Liên Hoa Ấn Pháp">Quân Trì <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="3688"></span> <span property="endOffset" content="3760"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/tich-truong-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=2255&end=2331" target="_blank" title="Liên Hoa Ấn Pháp">Tích Trượng <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="2255"></span> <span property="endOffset" content="2331"></span></div>
-		</div>
-	</div>
-	<div class="khunganh" property="hasPart" typeof="Clip">
-		<div class="thunhananphap">
-			<img property="image" src="https://www.itvtbadboy.io.vn/image/kinh/hong-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-			<div class="desc" property="name"><a property="url" href="https://www.youtube.com/embed/2ItRhFRx1YM?start=3760&end=3843" target="_blank" title="Liên Hoa Ấn Pháp">Hồng Hoa <br>Thủ Nhãn</a></div>
-			<div style="display: none;"><span property="startOffset" content="3760"></span> <span property="endOffset" content="3843"></span></div>
-		</div>
-	</div>
-	<div class="clearfix"></div>
-
-	<div style="display: none;">
-		<span property="uploadDate">2025-06-20T08:00:00+07:00</span> <span property="duration">PT01H10M</span>
-		<div property="interactionStatistic" typeof="InteractionCounter">
-			<span property="interactionType" typeof="WatchAction"></span> <span property="userInteractionCount">100</span>
-		</div>
-	</div>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="youtube" /><category term="liên hoa" /><category term="ấn pháp" /><summary type="html"><![CDATA[.khunganh {padding: 0 6px; float: left; width: 24.99999%;} div.thunhananphap img {width: 100%; height: auto;} div.thunhananphap p {font-size: 18px;} div.desc {padding: 15px; text-align: center;}]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ma Ni Ấn Pháp</title><link href="https://kinhsach.github.io/posts/ma-ni-an-phap/" rel="alternate" type="text/html" title="Ma Ni Ấn Pháp" /><published>2025-08-22T11:21:00+07:00</published><updated>2025-08-22T11:21:00+07:00</updated><id>https://kinhsach.github.io/posts/ma-ni-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/ma-ni-an-phap/"><![CDATA[<style>
-	.khunganh {padding: 0 6px; float: left; width: 24.99999%;}
-	div.thunhananphap img {width: 100%; height: auto;}
-	div.thunhananphap p {font-size: 18px;}
-	div.desc {padding: 15px; text-align: center;}
 
-	@media only screen and (max-width: 500px) {.khunganh {width: 100%;}}
-	@media only screen and (max-width: 700px) {.khunganh {width: 49.99999%; margin: 6px 0;}}
+<div style="padding: 30px;"><hr></div>
 
-	.clearfix:after {content: ""; display: table; clear: both;}
-</style>
-
-<body vocab="https://schema.org/" typeof="FAQPage">
-<div property="mainEntity" typeof="Question">
+<embed src="https://www.itvtbadboy.io.vn/pdf/nhu-lai-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="như lai" /><category term="ấn pháp" /><summary type="html"><![CDATA[Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới là Pháp tiêu trừ các loại bệnh nạn.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Ma Ni Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-ma-ni-an-phap/" rel="alternate" type="text/html" title="Pdf Ma Ni Ấn Pháp" /><published>2025-08-27T08:43:00+07:00</published><updated>2025-08-27T08:43:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-ma-ni-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-ma-ni-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
 	<h2 property="name">Ma Ni Ấn Pháp</h2>
-	<p property="acceptedAnswer" typeof="Answer">
-		<span property="text"><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.eppnttpg9id4" target="_blank" title="Ma Ni Ấn Pháp">Ma Ni</a> bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng, tám tay thuộc bộ này là như ý châu bảo kinh bảo cung bạch liên hoa thanh liên hoa bảo đạc tử liên hoa bồ đào minh họa cho Pháp tăng ích, là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh cho mình và cho người khác.</span>
-	</p>
-</div>
-<div style="margin-bottom: 30px;"></div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/nhu-y-chau-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#nhuychauthunhan" target="_parent" title="Ma Ni Ấn Pháp">Như Ý Châu <br>Thủ Nhãn</a></div>
+	<p property="abstract">Ma ni ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải ma ni ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/ma-ni-an-phap.pdf" target="_blank" title="Ma Ni Ấn Pháp">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-kinh-thu-nhan-an-phap.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baokinhthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Kinh <br>Thủ Nhãn</a></div>
-	</div>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
 </div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-cung-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baocungthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Cung <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bach-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#bachlienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Bạch Hoa <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/thanh-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#thanhlienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Thanh Hoa <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bao-dac-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#baodacthunhan" target="_parent" title="Ma Ni Ấn Pháp">Bảo Đạc <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/tu-lien-hoa-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#tulienhoathunhan" target="_parent" title="Ma Ni Ấn Pháp">Tử Liên Hoa <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="khunganh">
-	<div class="thunhananphap">
-		<img src="https://www.itvtbadboy.io.vn/image/kinh/bo-dao-thu-nhan.jpg" alt="ma ni an phap" width="100%" height="auto">
-		<div class="desc"><a href="#bodaothunhan" target="_parent" title="Ma Ni Ấn Pháp">Bồ Đào <br>Thủ Nhãn</a></div>
-	</div>
-</div>
-<div class="clearfix"></div>
 
-<hr>
-<div property="mainEntity" typeof="Question" id="nhuychauthunhan">
-	<h2 property="name">Như Ý Châu Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.pd1jww4bbpm0" target="_blank" title="Ma Ni Ấn Pháp">Như ý châu thủ nhãn</a> được giàu sang. Tay thứ nhất trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Ma ra ma ra</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra phạ đa ra hồng phấn tra</b>.</blockquote>
-		</p>
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/ma-ni-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="ma ni" /><category term="ấn pháp" /><summary type="html"><![CDATA[Ma Ni bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Địa Tạng Bồ Tát Bổn Nguyện</title><link href="https://kinhsach.github.io/posts/pdf-dia-tang-bo-tat-bon-nguyen/" rel="alternate" type="text/html" title="Pdf Địa Tạng Bồ Tát Bổn Nguyện" /><published>2025-08-27T08:39:00+07:00</published><updated>2025-08-27T08:39:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-dia-tang-bo-tat-bon-nguyen</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-dia-tang-bo-tat-bon-nguyen/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Địa Tạng Bồ Tát Bổn Nguyện</h2>
+	<p property="abstract"><span property="genre">Địa Tạng</span> Bồ Tát bổn nguyện được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải Địa Tạng Bồ Tát bổn nguyện từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/ma-ha-bat-nha-ba-la-mat-da-tam-kinh.pdf" target="_blank" title="Địa Tạng Bồ Tát Bổn Nguyện">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baokinhthunhan">
-	<h2 property="name">Bảo Kinh Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.x0230s4pt3hy" target="_blank" title="Ma Ni Ấn Pháp">Bảo kinh thủ nhãn</a> học rộng nghe nhiều. Tay thứ ba trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Tất đà dạ ta bà ha, ma ha tất đà dạ ta bà ha</b>. Chơn ngôn: <b>Án !!! A hạ ra tát ra phạ ni nễ dã đà ra bố nễ đế tát phạ hạ</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/dia-tang-bo-tat-bon-nguyen.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Địa Tạng" /><category term="pdf" /><category term="địa tạng" /><category term="bồ tát" /><category term="bổn nguyện" /><summary type="html"><![CDATA[Bát nhã tâm kinh tên đầy đủ là ma ha bát nhã ba la mật đa tâm kinh, là hạnh nguyện của ngài Địa Tạng Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/dia-tang-vuong-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Liên Hoa Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-lien-hoa-an-phap/" rel="alternate" type="text/html" title="Pdf Liên Hoa Ấn Pháp" /><published>2025-08-27T08:29:00+07:00</published><updated>2025-08-27T08:29:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-lien-hoa-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-lien-hoa-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Liên Hoa Ấn Pháp</h2>
+	<p property="abstract">Liên hoa ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải Liên hoa ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/lien-hoa-an-phap.pdf" target="_blank" title="Liên Hoa Ấn Pháp">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baocungthunhan">
-	<h2 property="name">Bảo Cung Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.1bw4m7yeo327" target="_blank" title="Ma Ni Ấn Pháp">Bảo cung thủ nhãn</a> thăng quan tiến chức. Tay thứ nhất trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Phạt sa phạt sâm</b>. Chơn ngôn: <b>Án !!! A tả vĩ lệ tát phạ hạ</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/lien-hoa-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="liên hoa" /><category term="ấn pháp" /><summary type="html"><![CDATA[Liên Hoa bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng của các Pháp mà không hề bị ngăn ngại là Pháp tu được chư Phật Bồ Tát gia hộ.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Kim Cương Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-kim-cuong-an-phap/" rel="alternate" type="text/html" title="Pdf Kim Cương Ấn Pháp" /><published>2025-08-27T08:24:00+07:00</published><updated>2025-08-27T08:24:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-kim-cuong-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-kim-cuong-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Kim Cương Ấn Pháp</h2>
+	<p property="abstract">Kim cương ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải Kim cương ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/kim-cuong-an-phap.pdf" target="_blank" title="Kim Cương Ấn Pháp">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="bachlienhoathunhan">
-	<h2 property="name">Bạch Liên Hoa Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.1jeud3fpdd4a" target="_blank" title="Ma Ni Ấn Pháp">Bạch liên hoa thủ nhãn</a> được hương thơm. Tay thứ tư trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Kiết mông</b>. Chơn ngôn: <b>Án !!! Phạ nhựt ra vị ra dã tát phạ hạ</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/kim-cuong-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="kim cương" /><category term="ấn pháp" /><summary type="html"><![CDATA[Kim Cương bộ biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc vào sự vật nào là Pháp tu chiết phục các nhóm ác hoặc các người ác.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Thủ Nhãn Ấn Pháp</title><link href="https://kinhsach.github.io/posts/pdf-thu-nhan-an-phap/" rel="alternate" type="text/html" title="Pdf Thủ Nhãn Ấn Pháp" /><published>2025-08-27T08:19:00+07:00</published><updated>2025-08-27T08:19:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-thu-nhan-an-phap</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-thu-nhan-an-phap/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Thủ Nhãn Ấn Pháp</h2>
+	<p property="abstract">Thủ nhãn ấn Pháp của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải thủ nhãn ấn Pháp từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/42-thu-nhan-an-phap.pdf" target="_blank" title="Thủ Nhãn Ấn Pháp">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="thanhlienhoathunhan">
-	<h2 property="name">Thanh Liên Hoa Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.n91cqlwbgcfz" target="_blank" title="Ma Ni Ấn Pháp">Thanh liên hoa thủ nhãn</a> được sanh về Tịnh Độ. Tay thứ năm trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Rị đà dựng</b>. Chơn ngôn: <b>Án !!! Chỉ rị chỉ rị phạ nhựt ra bồ ra bạn đà hồng phấn tra</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/thu-nhan-an-phap.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="thủ nhãn" /><category term="ấn pháp" /><summary type="html"><![CDATA[Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, tuyệt đối không được khởi tâm niệm tham cầu thần thông.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Chú Đại Bi</title><link href="https://kinhsach.github.io/posts/pdf-chu-dai-bi/" rel="alternate" type="text/html" title="Pdf Chú Đại Bi" /><published>2025-08-27T07:47:00+07:00</published><updated>2025-08-27T07:47:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-chu-dai-bi</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-chu-dai-bi/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Chú Đại Bi</h2>
+	<p property="abstract">Chú đại bi của <span property="genre">Quan Âm</span> Bồ Tát được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải thần chú đại bi từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/chu-dai-bi.pdf" target="_blank" title="Chú Đại Bi">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-27</span> <span property="endDate">2025-08-27</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="baodacthunhan">
-	<h2 property="name">Bảo Đạc Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.ygoifr6f660g" target="_blank" title="Ma Ni Ấn Pháp">Bảo đạc thủ nhãn</a> có phạm âm nhiệm mầu. Tay thứ sáu trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Dá ra dá ra</b>. Chơn ngôn: <b>Án !!! A mật lật đảm nhiễm bệ thất rị duệ thất rị chiếm rị nãnh tát phạ hạ</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/chu-dai-bi.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="pdf" /><category term="chú đại bi" /><summary type="html"><![CDATA[Chú đại bi là thần chú giúp chúng sinh an lạc, nói cách khác cũng là hạnh nguyện của ngài Quán Thế Âm Bồ Tát.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Cha Giáng Trần Dạy Tu Đạo P3</title><link href="https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-3/" rel="alternate" type="text/html" title="Pdf Cha Giáng Trần Dạy Tu Đạo P3" /><published>2025-08-26T16:01:00+07:00</published><updated>2025-08-26T16:01:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-3</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-3/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Cha Giáng Trần Dạy Tu Đạo</h2>
+	<p property="abstract"><span property="genre">Kinh Cha</span> giáng trần dạy tu Đạo phần 3 được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải kinh Cha giáng trần dạy tu Đạo phần 3 từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/cha-giang-tran-day-tu-dao-phan-3.pdf" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-26</span> <span property="endDate">2025-08-26</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="tulienhoathunhan">
-	<h2 property="name">Tử Liên Hoa Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.2eovxyqrwab" target="_blank" title="Ma Ni Ấn Pháp">Tử liên hoa thủ nhãn</a> được diện kiến chư Phật. Tay thứ bảy trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>Phật ra xá da</b>. Chơn ngôn: <b>Án !!! Tát ra tát ra phạ nhựt ra ca ra hồng phấn tra</b>.</blockquote>
-		</p>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
+</div>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/cha-giang-tran-day-tu-dao-phan-3.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="pdf" /><category term="cha" /><category term="giáng trần" /><category term="dạy tu" /><category term="đạo" /><summary type="html"><![CDATA[Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pdf Cha Giáng Trần Dạy Tu Đạo P2</title><link href="https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-2/" rel="alternate" type="text/html" title="Pdf Cha Giáng Trần Dạy Tu Đạo P2" /><published>2025-08-26T15:52:00+07:00</published><updated>2025-08-26T15:52:00+07:00</updated><id>https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-2</id><content type="html" xml:base="https://kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-2/"><![CDATA[<body vocab="https://schema.org/" typeof="AggregateRating">
+<div property="itemReviewed" typeof="BookSeries">
+	<h2 property="name">Cha Giáng Trần Dạy Tu Đạo</h2>
+	<p property="abstract"><span property="genre">Kinh Cha</span> giáng trần dạy tu Đạo phần 2 được <span property="author" typeof="Person"><span property="name">itvtbadboy</span></span> xuất bản thành định dạng sổ tay pdf với bản quyền thuộc PDFCrowd, ngoài ra đồng đạo cũng có thể tải kinh Cha giáng trần dạy tu Đạo phần 2 từ <a property="downloadUrl" href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/pdf/cha-giang-tran-day-tu-dao-phan-2.pdf" target="_blank" title="Cha Giáng Trần Dạy Tu Đạo">google bucket</a>.</p>
+	<div style="display: none;">
+        <span property="startDate">2025-08-26</span> <span property="endDate">2025-08-26</span>
 	</div>
 </div>
-<hr>
-<div property="mainEntity" typeof="Question" id="bodaothunhan">
-	<h2 property="name">Bồ Đào Thủ Nhãn</h2>
-	<div property="acceptedAnswer" typeof="Answer">
-		<p property="text">
-			<span><a href="https://site.itvtbadboy.io.vn/home/42-thu-nhan-an-phap/ma-ni-an-phap#h.xrn0uu2z887d" target="_blank" title="Ma Ni Ấn Pháp">Bồ đào thủ nhãn</a> được cây trái ngũ cốc. Tay thứ tám trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích.</span>
-			<blockquote style="font-size: 18px;">Thần chú: <b>A tất đà dạ</b>. Chơn ngôn: <b>Án !!! A ma lã kiếm đế nễ nãnh tát phạ hạ</b>.</blockquote>
-		</p>
-	</div>
+<div style="display: none;">
+	<span property="ratingValue">5</span> <span property="bestRating">5</span> <span property="ratingCount">5</span>
 </div>
-</body>]]></content><author><name>Kinh Sách</name></author><category term="Quan Âm" /><category term="ma ni" /><category term="ấn pháp" /><summary type="html"><![CDATA[Ma Ni bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/tuong-quan-am-bo-tat.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+
+<div style="padding: 30px;"><hr></div>
+
+<embed src="https://www.itvtbadboy.io.vn/pdf/cha-giang-tran-day-tu-dao-phan-2.pdf" width="100%" height="700px"></embed>
+</body>]]></content><author><name>Kinh Sách</name></author><category term="Kinh Cha" /><category term="pdf" /><category term="cha" /><category term="giáng trần" /><category term="dạy tu" /><category term="đạo" /><summary type="html"><![CDATA[Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" /><media:content medium="image" url="https://www.itvtbadboy.io.vn/image/kinh/cha-giang-tran-day-tu-dao.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

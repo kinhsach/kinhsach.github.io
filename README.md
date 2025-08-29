@@ -2,6 +2,8 @@
 
 ![kinh sach](https://chirpy-img.netlify.app/commons/devices-mockup.png "Kinh sách chirpy theme")
 
+**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
+
 <div align="center">
 
 | tính năng | quảng bá |
@@ -20,13 +22,13 @@
 
 </div>
 
-**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
-
 <div style="width:55%, padding:30px;"><hr></div>
 
 ## máy chủ kinhsach
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/may-chu-kinh-sach.jpg "máy chủ kinh sách")
+
+**Máy chủ kinh sách có hiệu suất, khả năng tiếp cận thực tế và quảng bá thương hiệu rất cao so với các hệ thống máy chủ đơn giản. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
 
 <div align="center">
 
@@ -38,8 +40,6 @@
 | quảng bá: 100% | quảng bá: 100% |
 
 </div>
-
-**Máy chủ kinh sách có hiệu suất, khả năng tiếp cận thực tế và quảng bá thương hiệu rất cao so với các hệ thống máy chủ đơn giản. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
 
 **Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
@@ -61,6 +61,16 @@
 
 **Phương tiện kinh sách là tính năng truyền bá kinh sách miễn phí sử dụng ổ cứng `google bucket` lưu trữ kinh sách định dạng `mp3`, xây dựng tập tin chỉ đường [`podcast.xml`](https://www.itvtbadboy.io.vn/podcast.xml) và chia sẽ lên kênh âm nhạc `podcast amazon music`.**
 
+<div align="center">
+
+| `audio mp3` | `video mp4` |
+|:-----|:-----|
+| amazon | youtube |
+
+**Phương tiện kinh sách chỉ với một tập tin dẫn đường `podcast.xml` và một kho lưu trữ `google bucket`, vừa chia sẽ lên `amazon music` vừa có thể xây dựng kênh truyền thông đa phương tiện với `youtube` chỉ bằng vài thông tin cơ bản.**
+
+</div>
+
 <div style="width:55%, padding:30px;"><hr></div>
 
 ## nền tảng kinhsach
@@ -75,7 +85,7 @@
 | `ruby` | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
 | `server` | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
 | `github` | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
+| `firebase` | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
 | `oracle` | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>

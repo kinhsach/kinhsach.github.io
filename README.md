@@ -102,7 +102,8 @@
 
 | `oracle` | thực hiện |
 |:-----|:-----|
-| đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) |
+| đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) <br>yêu cầu `mastercard` |
+| máy chủ | khu vực => `AD-2` <br>ổ cứng => `VM.Standard.A1.Flex 100GB` <br>hđh => `ubuntu 24.04` <br>mạng => `public IPv4` <br>bộ nhớ => `18GB RAM` |
 | xây dựng | `win` => [`Termius`](https://termi.us/win) <br>`linux` => `SSH Client` |
 
 </div>

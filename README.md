@@ -91,9 +91,9 @@
 
 <div align="center">
 
-| công dụng | ứng dụng |
+| `github` | thực hiện |
 |:-----|:-----|
-| `github` | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
+| cài đặt | Win => [`Github GUI`](https://desktop.github.com/download), Linux => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 
 </div>
 

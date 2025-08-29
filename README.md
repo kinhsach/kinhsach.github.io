@@ -49,7 +49,11 @@
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/seo-json-rdfa.jpg "quảng bá kinh sách")
 
-**Quảng bá kinh sách có đầy đủ ba giải pháp tối ưu `opengraph + json-ld + rdfa` được itvtbadboy gộp lại thành một khối liên kết cho tất cả các trang, `opengraph` seo chuyên dụng về thẻ `meta`, `json-ld` đóng vai trò mở rộng quảng bá nội dung phong phú dựa trên giao diện seo thiết kế theo khuôn mẫu `rdfa`.**
+**Quảng bá kinh sách có đầy đủ ba giải pháp tối ưu `opengraph + json-ld + rdfa` được itvtbadboy gộp lại thành một khối liên kết cho tất cả các trang, `opengraph` seo chuyên dụng về thẻ `meta`, `json-ld` đóng vai trò mở rộng quảng bá nội dung kinh sách phong phú dựa trên giao diện seo thiết kế theo khuôn mẫu `rdfa`.**
+
+**Quảng bá kinh sách `jekyll` có sáu tập tin chủ chốt là `Gemfile + _config.yml + _includes\head.html + _layouts\default.html + template.html + json_ld_drop.rb`. `Gemfile` và `_config.yml` quản lý tiện ích mở rộng, `default.html` sửa thẻ `!DOCTYPE` chuẩn `html5`, `head.html` khai báo `seo` hỗ trợ `jekyll seo tags` và khung giao diện `css` mở rộng, `template.html` tùy chỉnh `seo meta`, `json_ld_drop.rb` tùy chỉnh mã `schema json` dựa trên khung chuẩn.**
+
+<div style="width:55%, padding:30px;"><hr></div>
 
 ## giải pháp kinh
 
@@ -74,6 +78,8 @@
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>
 > **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br>
 > **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.**
+
+<div style="width:55%, padding:30px;"><hr></div>
 
 ## nhóm chép kinh
 

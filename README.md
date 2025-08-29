@@ -41,6 +41,10 @@
 
 **Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
+## quảng bá kinhsach
+
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/seo-json-rdfa.jpg "quảng bá kinh sách")
+
 ## giải pháp kinh
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")

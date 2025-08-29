@@ -104,6 +104,7 @@
 |:-----|:-----|
 | đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) <br>yêu cầu `mastercard` |
 | máy chủ | khu vực => `AD-2` <br>ổ cứng => `A1.Flex 100GB` <br>hđh => `ubuntu 24.04` <br>mạng => `public IPv4` <br>điều khiển => 3 `CPU` <br>bộ nhớ => `18GB RAM` |
+| `cloudpanel` | [`ubuntu 24.04`](https://www.cloudpanel.io/docs/v2/getting-started/other/) |
 | xây dựng | `win` => [`Termius`](https://termi.us/win) <br>`linux` => `SSH Client` |
 
 </div>
@@ -129,6 +130,6 @@
 
 | quản lý | sổ tay |
 |:-----|:-----|
-| [![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat") | > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br> > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br> > **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br> > **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.** |
+| [![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat") | **hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.** <br>**hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.** <br>**hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.** <br>**hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.** |
 
 </div>

@@ -99,10 +99,16 @@
 
 **Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
 
+<div align="center">
+
 | `firebase` | thực hiện |
 |:-----|:-----|
 | cài đặt | `win` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>`linux` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
 | cấu hình | đăng nhập => `firebase login` <br>xây dựng => `firebase init hosting` <br>triển khai => `firebase deploy --only hosting` |
+
+</div>
+
+**Nền tảng `firebase` tuy có dung lượng lưu trữ lớn nhưng khả năng truyền bá kinh sách không cao bằng `github` hay `oracle`, tuy nhiên với đồng đạo có kinh nghiệm chuyên ngành lập trình di động thì `firebase` là trang kinh khá tốt.**
 
 > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>

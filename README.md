@@ -89,7 +89,7 @@
 
 <div align="center">
 
-| `github` | thực hiện |
+| [`github`](https://kinhsach.github.io) | thực hiện |
 |:-----|:-----|
 | cấu hình | tên miền => `.github.io` <br>`deployment` => `from a branch` <br>`brand` => `main/root` |
 | cài đặt | `win` => [`Github GUI`](https://desktop.github.com/download) <br>`linux` => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-| `oracle` | thực hiện |
+| [`oracle`](https://www.itvtbadboy.io.vn) | thực hiện |
 |:-----|:-----|
 | đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) <br>yêu cầu `mastercard` |
 | máy chủ | khu vực => `AD-2` <br>ổ cứng => `A1.Flex 100GB` <br>hđh => `ubuntu 24.04` <br>mạng => `public IPv4` <br>điều khiển => 3 `CPU` <br>bộ nhớ => `18GB RAM` |
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-| `firebase` | thực hiện |
+| [`firebase`](https://itvtbadboy-f4257.web.app/) | thực hiện |
 |:-----|:-----|
 | cài đặt | `win` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>`linux` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
 | cấu hình | đăng nhập => `firebase login` <br>xây dựng => `firebase init hosting` <br>triển khai => `firebase deploy --only hosting` |

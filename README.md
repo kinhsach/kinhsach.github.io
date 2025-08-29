@@ -59,7 +59,7 @@
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/phuong-tien-kinh-sach.jpg "phương tiện kinh sách")
 
-**Phương tiện kinh sách là tính năng truyền bá kinh sách miễn phí sử dụng ổ cứng `google bucket` lưu trữ kinh sách định dạng `mp3`, xây dựng tập tin chỉ đường `[podcast.xml](https://www.itvtbadboy.io.vn/podcast.xml)` và chia sẽ lên kênh âm nhạc `podcast amazon music`.**
+**Phương tiện kinh sách là tính năng truyền bá kinh sách miễn phí sử dụng ổ cứng `google bucket` lưu trữ kinh sách định dạng `mp3`, xây dựng tập tin chỉ đường [`podcast.xml`](https://www.itvtbadboy.io.vn/podcast.xml) và chia sẽ lên kênh âm nhạc `podcast amazon music`.**
 
 <div style="width:55%, padding:30px;"><hr></div>
 

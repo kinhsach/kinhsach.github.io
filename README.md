@@ -82,6 +82,7 @@
 | công dụng | ứng dụng |
 |:-----|:-----|
 | `ruby` | `win` => [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux` => `Ruby Full` |
+| `jekyll` | `gem install jekyll bundler` |
 
 </div>
 

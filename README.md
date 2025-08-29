@@ -102,7 +102,7 @@
 | `firebase` | thực hiện |
 |:-----|:-----|
 | cài đặt | `win` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>`linux` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
-| cấu hình | đăng nhập => `firebase login` <br>`triển khai` => `firebase deploy --only hosting` |
+| cấu hình | đăng nhập => `firebase login` <br>xây dựng => `firebase init hosting` <br>triển khai => `firebase deploy --only hosting` |
 
 > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>

@@ -65,7 +65,7 @@
 
 | `audio mp3` | `video mp4` |
 |:-----|:-----|
-| `amazon` | `youtube` |
+| [`amazon`](https://podcasters.amazon.com/podcasts/f6687c9a-ddf1-4e37-adac-b3d1efe85b4b) | [`youtube`](https://www.youtube.com/@thuongmaibrvt/podcasts) |
 
 </div>
 

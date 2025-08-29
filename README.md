@@ -45,6 +45,8 @@
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/seo-json-rdfa.jpg "quảng bá kinh sách")
 
+**Quảng bá kinh sách có đầy đủ ba giải pháp tối ưu `opengraph + json-ld + rdfa` được itvtbadboy gộp lại thành một khối liên kết cho tất cả các trang, `opengraph` seo chuyên dụng về thẻ `meta`, `json-ld` đóng vai trò mở rộng quảng bá nội dung phong phú dựa trên giao diện seo thiết kế theo khuôn mẫu `rdfa`.**
+
 ## giải pháp kinh
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")

@@ -81,8 +81,7 @@
 
 | công dụng | ứng dụng |
 |:-----|:-----|
-| `ruby` | `win`: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux`: `Ruby Full` |
-| `oracle` | `win`: [`Termius`](https://termi.us/win) <br>`linux`: `SSH Client` |
+| `ruby` | `win` => [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux` => `Ruby Full` |
 
 </div>
 
@@ -99,7 +98,16 @@
 
 **Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
 
-**Nền tảng `oracle` là lựa chọn hàng đầu cho giải pháp truyền bá kinh sách miễn phí, công nghệ đám mây vận hành máy chủ `ubuntu 24.04` dưới sự hỗ trợ của ổ cứng `100GB` cùng tốc độ 3 `CPU` và `18GB RAM.**
+<div align="center">
+
+| `oracle` | thực hiện |
+|:-----|:-----|
+| đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) |
+| xây dựng | `win` => [`Termius`](https://termi.us/win) <br>`linux` => `SSH Client` |
+
+</div>
+
+**Nền tảng `oracle` là lựa chọn hàng đầu cho giải pháp truyền bá kinh sách miễn phí, công nghệ đám mây vận hành máy chủ `ubuntu 24.04` dưới sự hỗ trợ của ổ cứng `100GB` cùng tốc độ 3 `CPU` và `18GB RAM`.**
 
 <div align="center">
 

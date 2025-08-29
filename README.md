@@ -65,11 +65,11 @@
 
 | `audio mp3` | `video mp4` |
 |:-----|:-----|
-| amazon | youtube |
-
-**Phương tiện kinh sách chỉ với một tập tin dẫn đường `podcast.xml` và một kho lưu trữ `google bucket`, vừa chia sẽ lên `amazon music` vừa có thể xây dựng kênh truyền thông đa phương tiện với `youtube` chỉ bằng vài thông tin cơ bản.**
+| `amazon` | `youtube` |
 
 </div>
+
+**Phương tiện kinh sách chỉ với một tập tin dẫn đường `podcast.xml` và một kho lưu trữ `google bucket`, vừa chia sẽ lên `amazon music` vừa có thể xây dựng kênh truyền thông đa phương tiện với `youtube` chỉ bằng vài thông tin cơ bản.**
 
 <div style="width:55%, padding:30px;"><hr></div>
 

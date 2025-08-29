@@ -93,6 +93,7 @@
 
 | `github` | thực hiện |
 |:-----|:-----|
+| cấu hình | định dạng => .github.io, deployment => from a branch, brand => main/root |
 | cài đặt | Win => [`Github GUI`](https://desktop.github.com/download), Linux => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 
 </div>

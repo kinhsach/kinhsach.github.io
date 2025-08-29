@@ -72,11 +72,11 @@
 | công dụng | ứng dụng |
 |:-----|:-----|
 | câu lệnh | Win: `PowerShell` <br>Linux: `Terminal` |
-| remote | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| server | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
-| ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
+| `ruby` | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
+| `server` | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
+| `github` | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 | firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
-| ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
+| `oracle` | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>
 

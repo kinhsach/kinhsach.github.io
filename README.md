@@ -63,9 +63,9 @@
 
 <div style="width:55%, padding:30px;"><hr></div>
 
-## giải pháp kinh
+## nền tảng kinhsach
 
-![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "nền tảng kinh sách")
 
 <div align="center">
 
@@ -73,14 +73,14 @@
 |:-----|:-----|
 | câu lệnh | Win: `PowerShell` <br>Linux: `Terminal` |
 | remote | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
 | server | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
+| ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
 | firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
 | ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>
 
-**Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+**Nền tảng kinh sách miễn phí có nhiều giải pháp triển khai như đã nói ở đầu trang, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
 
 > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>

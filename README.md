@@ -82,13 +82,22 @@
 | công dụng | ứng dụng |
 |:-----|:-----|
 | `ruby` | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
-| `github` | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 | `firebase` | Win: [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>Linux: [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
 | `oracle` | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>
 
 **Nền tảng kinh sách miễn phí có nhiều giải pháp triển khai như đã nói ở đầu trang, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+
+<div align="center">
+
+| công dụng | ứng dụng |
+|:-----|:-----|
+| `github` | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
+
+</div>
+
+**Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
 
 > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>

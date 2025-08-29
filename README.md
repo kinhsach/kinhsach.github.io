@@ -99,6 +99,8 @@
 
 **Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
 
+**Nền tảng `oracle` là lựa chọn hàng đầu cho giải pháp truyền bá kinh sách miễn phí, công nghệ đám mây vận hành máy chủ `ubuntu 24.04` dưới sự hỗ trợ của ổ cứng `100GB` cùng tốc độ 3 `CPU` và `18GB RAM.**
+
 <div align="center">
 
 | `firebase` | thực hiện |

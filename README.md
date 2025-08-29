@@ -121,13 +121,14 @@
 
 **Nền tảng `firebase` tuy có dung lượng lưu trữ lớn nhưng khả năng truyền bá kinh sách không cao bằng `github` hay `oracle`, tuy nhiên với đồng đạo có kinh nghiệm chuyên ngành lập trình di động thì `firebase` là trang kinh khá tốt.**
 
-> **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
-> **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>
-> **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br>
-> **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.**
-
 <div style="width:55%, padding:30px;"><hr></div>
 
 ## nhóm chép kinh
 
-[![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat")
+<div align="center">
+
+| quản lý | sổ tay |
+|:-----|:-----|
+| [![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat") | > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br> > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br> > **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br> > **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.** |
+
+</div>

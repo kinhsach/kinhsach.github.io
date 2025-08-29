@@ -22,7 +22,7 @@
 
 **Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
 
-<div style="padding: 30px;"><hr></div>
+<div style="width:55%, padding:30px;"><hr></div>
 
 ## máy chủ kinhsach
 
@@ -43,7 +43,7 @@
 
 **Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
-<div style="padding: 30px;"><hr></div>
+<div style="width:55%, padding:30px;"><hr></div>
 
 ## quảng bá kinhsach
 

@@ -81,9 +81,8 @@
 
 | công dụng | ứng dụng |
 |:-----|:-----|
-| `ruby` | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
-| `firebase` | Win: [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>Linux: [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
-| `oracle` | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
+| `ruby` | `win`: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux`: `Ruby Full` |
+| `oracle` | `win`: [`Termius`](https://termi.us/win) <br>`linux`: `SSH Client` |
 
 </div>
 
@@ -93,12 +92,17 @@
 
 | `github` | thực hiện |
 |:-----|:-----|
-| cấu hình | định dạng => .github.io, deployment => from a branch, brand => main/root |
-| cài đặt | Win => [`Github GUI`](https://desktop.github.com/download), Linux => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
+| cấu hình | tên miền => `.github.io` <br>`deployment` => `from a branch` <br>`brand` => `main/root` |
+| cài đặt | `win` => [`Github GUI`](https://desktop.github.com/download) <br>`linux` => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
 
 </div>
 
 **Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
+
+| `firebase` | thực hiện |
+|:-----|:-----|
+| cài đặt | `win` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>`linux` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
+| cấu hình | đăng nhập => `firebase login` <br>`triển khai` => `firebase deploy --only hosting` |
 
 > **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
 > **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>

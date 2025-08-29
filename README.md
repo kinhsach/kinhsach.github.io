@@ -22,6 +22,14 @@
 
 **Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
 
+## máy chủ kinhsach
+
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/may-chu-kinh-sach.jpg "máy chủ kinh sách")
+
+**Máy chủ kinh sách giao diện người dùng Web UI, ghim kinh sách lên trang chủ, danh mục tủ kinh phân cấp, luôn cập nhật kinh sách mới, bảo mật không cơ sở dữ liệu và còn rất nhiều tính năng nổi bật. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
+
+**Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
+
 ## giải pháp kinh
 
 ![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")
@@ -38,8 +46,6 @@
 | ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
 
 </div>
-
-**Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 
 **Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
 

@@ -37,7 +37,7 @@
 
 </div>
 
-**Máy chủ kinh sách giao diện người dùng Web UI, ghim kinh sách lên trang chủ, danh mục tủ kinh phân cấp, luôn cập nhật kinh sách mới, bảo mật không cơ sở dữ liệu và còn rất nhiều tính năng nổi bật. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
+**Máy chủ kinh sách có hiệu suất, khả năng tiếp cận thực tế và quảng bá thương hiệu rất cao so với các hệ thống máy chủ đơn giản. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
 
 **Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
 

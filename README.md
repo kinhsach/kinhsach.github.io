@@ -135,7 +135,7 @@
 
 </div>
 
-**Nhóm chép kinh có những giải pháp truyền bá kinh sách đến bạn đọc tốt như mạng thương mại toàn cầu.**
+**Nhóm chép kinh có lập trình viên thiết kế trang bảo mật mạng và quản lý hệ thống truyền bá kinh sách. Lập trình viên chép kinh xuất bản nhiều định dạng, thiết kế chuyên tìm kiếm giao diện, bảo mật mạng luôn kiểm tra vấn đề mỗi khi tài nguyên mới xuất hiện và quản lý nắm bắt mọi cơ hội 0đ.**
 
 <div align="center">
 

@@ -166,8 +166,8 @@
 |:-----|:-----|
 | [`centos`](https://wiki.centos.org/Books.html) | [`apache`](https://httpd.apache.org/docs/2.4/) |
 | [`kali docs`](https://www.kali.org/docs/general-use/kali-training/) | [`parrot docs`](https://parrotsec.org/docs/) |
-| [`immuni`](https://www.immuniweb.com/websec/) | [`kali tools](https://www.kali.org/tools/) |
-| [`parrot tools](https://thelinuxcode.com/parrot_os_tools_top_20/) | ...... |
+| [`immuni`](https://www.immuniweb.com/websec/) | [`kali tools`](https://www.kali.org/tools/) |
+| [`parrot tools`](https://thelinuxcode.com/parrot_os_tools_top_20/) | ...... |
 
 </div>
 

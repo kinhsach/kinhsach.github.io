@@ -134,3 +134,41 @@
 | [![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat") | **hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.** <br>**hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.** <br>**hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.** <br>**hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.** |
 
 </div>
+
+**Nhóm chép kinh có những giải pháp truyền bá kinh sách đến bạn đọc tốt như mạng thương mại toàn cầu.**
+
+<div align="center">
+
+| lập trình | ứng dụng |
+|:-----|:-----|
+| [`w3css`](https://www.w3schools.com/w3css/) | [`amp guides`](https://amp.dev/documentation/guides-and-tutorials/) |
+| [`schema`](https://schema.org/) | [`geany`](https://www.geany.org/) |
+| [`firebase`](https://console.firebase.google.com/) | [`amp test`](https://search.google.com/test/amp/result) |
+
+</div>
+
+**Lập trình viên là nhóm thành viên chủ chốt vừa chép kinh xuất bản nhiều định dạng, viết mã tối ưu tiềm năng các trang kinh vừa xây dựng giải pháp truyền thông sao cho cộng đồng không chỉ dễ dàng tìm đọc mà quan trọng là phải thâu tóm được trí tuệ. Bằng cách nghe chép và phân loại nội dung cần thiết thành trang hoàn chỉnh để cho ra kết quả hiển thị với công cụ tìm kiếm.**
+
+<div align="center">
+
+| thiết kế | ứng dụng |
+|:-----|:-----|
+| [`w3 template`](https://www.w3schools.com/w3css/w3css_templates.asp) | [`mediawiki`](https://www.mediawiki.org/wiki/MediaWiki) |
+| [`litespot`](https://www.youtube.com/watch?v=9Wka1qsAYfw) | ...... |
+
+</div>
+
+**Thiết kế trang là nhóm thành viên chuyên tìm kiếm giao diện, canh chỉnh khung trang kinh và cũng là nhóm sở hữu giao diện mẫu nhiều nhất, nhóm thiết kế luôn tìm kiếm các mẫu chuyên nghiệp nhưng miễn phí dễ sử dụng tùy theo nhu cầu sở thích mà chia sẽ đến đồng đạo.**
+
+<div align="center">
+
+| bảo mật | ứng dụng |
+|:-----|:-----|
+| [`centos`](https://wiki.centos.org/Books.html) | [`apache`](https://httpd.apache.org/docs/2.4/) |
+| [`kali docs`](https://www.kali.org/docs/general-use/kali-training/) | [`parrot docs`](https://parrotsec.org/docs/) |
+| [`immuni`](https://www.immuniweb.com/websec/) | [`kali tools](https://www.kali.org/tools/) |
+| [`parrot tools](https://thelinuxcode.com/parrot_os_tools_top_20/) | ...... |
+
+</div>
+
+**Bảo mật mạng là nhóm thành viên thành thạo hệ điều hành Parrot Sec và Kali Linux biết cách thăm dò lỗi trên trang kinh, phát hiện chuẩn đoán và đánh cắp thông tin tài khoản cá nhân của người dùng lưu trong cơ sở dữ liệu. Học được kiến thức thì xây dựng chiến lược phòng chống và luôn kiểm tra vấn đề mỗi khi tài nguyên mới xuất hiện.**

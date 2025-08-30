@@ -84,9 +84,9 @@
 | `ruby` | `win` => [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux` => `Ruby Full` |
 | `jekyll` | `gem install jekyll bundler` |
 | `chirpy` | `gem install jekyll-theme-chirpy` |
-| `github` | `jekyll build url: https://kinhsach.github.io:80 --incremental` |
-| `oracle` | `jekyll build url: https://www.itvtbadboy.io.vn:80 --incremental` |
-| `firebase` | `jekyll build url: https://itvtbadboy-f4257.web.app:80 --incremental` |
+| `github` | `jekyll build url: https://kinhsach.github.io:80` |
+| `oracle` | `jekyll build url: https://www.itvtbadboy.io.vn:80` |
+| `firebase` | `jekyll build url: https://itvtbadboy-f4257.web.app:80` |
 
 </div>
 

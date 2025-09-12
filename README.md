@@ -2,6 +2,8 @@
 
 ![kinh sach](https://chirpy-img.netlify.app/commons/devices-mockup.png "Kinh sách chirpy theme")
 
+**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
+
 <div align="center">
 
 | tính năng | quảng bá |
@@ -20,34 +22,157 @@
 
 </div>
 
-**Kinh sách miễn phí itvtbadboy phát triển từ mã nguồn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy) chạy trên máy chủ [`jekyll`](https://jekyllrb.com/), giấy phép truyền bá nội dung kinh sách `GPL-2.0 License`. Kinh sách miễn phí đáp ứng được yêu cầu tự động của một hệ thống quản lý nội dung `CMS` nhưng không cần đến cơ sở dữ liệu `MySQL MariaDB` hay máy chủ `Apache Nginx PHP`.**
+<div style="width:55%, padding:30px;"><hr></div>
 
-## giải pháp kinh
+## máy chủ kinhsach
 
-![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "Kinh sách github page")
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/may-chu-kinh-sach.jpg "máy chủ kinh sách")
+
+**Máy chủ kinh sách có hiệu suất, khả năng tiếp cận thực tế và quảng bá thương hiệu rất cao so với các hệ thống máy chủ đơn giản. Đặc biệt `jekyll` sở hữu kho tiện ích mở rộng [`jekyll plugins`](https://github.com/planetjekyll/awesome-jekyll-plugins) ổn định không thua gì máy chủ `Apache Nginx PHP`.**
+
+<div align="center">
+
+| di động | máy tính |
+|:-----|:-----|
+| hiệu suất: 71% | hiệu suất: 97% |
+| tiếp cận: 100% | tiếp cận: 95% |
+| thực tế: 96% | thực tế: 96% |
+| quảng bá: 100% | quảng bá: 100% |
+
+</div>
+
+**Máy chủ kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
+
+<div style="width:55%, padding:30px;"><hr></div>
+
+## quảng bá kinhsach
+
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/seo-json-rdfa.jpg "quảng bá kinh sách")
+
+**Quảng bá kinh sách có đầy đủ ba giải pháp tối ưu `opengraph + json-ld + rdfa` được itvtbadboy gộp lại thành một khối liên kết cho tất cả các trang, `opengraph` seo chuyên dụng về thẻ `meta`, `json-ld` đóng vai trò mở rộng quảng bá nội dung kinh sách phong phú dựa trên giao diện seo thiết kế theo khuôn mẫu `rdfa`.**
+
+**Quảng bá kinh sách `jekyll` có sáu tập tin chủ chốt là `Gemfile + _config.yml + _includes\head.html + _layouts\default.html + template.html + json_ld_drop.rb`. `Gemfile` và `_config.yml` quản lý tiện ích mở rộng, `default.html` sửa thẻ `!DOCTYPE` chuẩn `html5`, `head.html` khai báo `seo` hỗ trợ `jekyll seo tags` và khung giao diện `css` mở rộng, `template.html` tùy chỉnh `seo meta`, `json_ld_drop.rb` tùy chỉnh mã `schema json` dựa trên khung chuẩn.**
+
+<div style="width:55%, padding:30px;"><hr></div>
+
+## phương tiện kinhsach
+
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/phuong-tien-kinh-sach.jpg "phương tiện kinh sách")
+
+**Phương tiện kinh sách là tính năng truyền bá kinh sách miễn phí sử dụng ổ cứng `google bucket` lưu trữ kinh sách định dạng `mp3`, xây dựng tập tin chỉ đường [`podcast.xml`](https://www.itvtbadboy.io.vn/podcast.xml) và chia sẽ lên kênh âm nhạc `podcast amazon music`.**
+
+<div align="center">
+
+| `audio mp3` | `video mp4` |
+|:-----|:-----|
+| [`amazon`](https://podcasters.amazon.com/podcasts/f6687c9a-ddf1-4e37-adac-b3d1efe85b4b) | [`youtube`](https://www.youtube.com/@thuongmaibrvt/podcasts) |
+
+</div>
+
+**Phương tiện kinh sách chỉ với một tập tin dẫn đường `podcast.xml` và một kho lưu trữ `google bucket`, vừa chia sẽ lên `amazon music` vừa có thể xây dựng kênh truyền thông đa phương tiện với `youtube` chỉ bằng vài thông tin cơ bản.**
+
+<div style="width:55%, padding:30px;"><hr></div>
+
+## nền tảng kinhsach
+
+![kinh sach](https://www.itvtbadboy.io.vn/image/1280/oracle-cloud-cpu.jpg "nền tảng kinh sách")
 
 <div align="center">
 
 | công dụng | ứng dụng |
 |:-----|:-----|
-| câu lệnh | Win: `PowerShell` <br>Linux: `Terminal` |
-| remote | Win: [`Github GUI`](https://desktop.github.com/download) <br>Linux: [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
-| ruby | Win: [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>Linux: `Ruby Full` |
-| server | Win: `Gem Jekyll` <br>Linux: `Gem Jekyll` |
-| firebase | Win: `Firebase Kit` <br>Linux: `Firebase Kit` |
-| ssh cloud | Win: [`Termius`](https://termi.us/win) <br>Linux: `SSH Client` |
+| `ruby` | `win` => [`Ruby v3.4`](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe) <br>`linux` => `Ruby Full` |
+| `jekyll` | `gem install jekyll bundler` |
+| `chirpy` | `gem install jekyll-theme-chirpy` |
+| `github` | `jekyll build url: https://kinhsach.github.io:80` |
+| `oracle` | `jekyll build url: https://www.itvtbadboy.io.vn:80` |
+| `firebase` | `jekyll build url: https://itvtbadboy-f4257.web.app:80` |
 
 </div>
 
-**Kinh sách `jekyll theme chirpy` một mã nguồn phát triển ba nền tảng miễn phí `github repository + google firebase + oracle cloud`, lưu ý với `oracle cloud` đồng đạo cần trả phí khoảng 2$ xác nhận thông tin tài khoản. Giải pháp triển khai kinh sách miễn phí là thư mục `_site` kết hợp tập tin cấu hình `_config.yml` và lệnh triển khai `jekyll build`.**
+**Nền tảng kinh sách miễn phí có nhiều giải pháp triển khai như đã nói ở đầu trang, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
 
-**Kinh sách miễn phí nhiều giải pháp triển khai, cái khó không phải do máy chủ `server` hay kinh nghiệm lập trình `gem jekyll` mà ở kế hoạch triển khai hệ thống rõ ràng ngay từ bước đầu tiên, đồng đạo có thể đặt câu hỏi chi tiết lên ứng dụng hỏi đáp của nhóm chép kinh để quản lý nhóm hỗ trợ xây dựng.**
+<div align="center">
 
-> **Hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.**<br>
-> **Hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.**<br>
-> **Hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.**<br>
-> **Hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.**
+| [`github`](https://kinhsach.github.io) | thực hiện |
+|:-----|:-----|
+| cấu hình | tên miền => `.github.io` <br>`deployment` => `from a branch` <br>`brand` => `main/root` |
+| cài đặt | `win` => [`Github GUI`](https://desktop.github.com/download) <br>`linux` => [`Github GUI`](https://mirror.mwt.me/shiftkey-desktop/deb/pool/main/g/github-desktop/github-desktop_3.4.12-linux1_amd64.deb) |
+
+</div>
+
+**Nền tảng `github` là lựa chọn ưu việt nhất cho giải pháp truyền bá kinh sách vì `github` có khả năng tiếp thị độc lập trên cả hai bộ công cụ tìm kiếm `google` và `bing`, một tài nguyên được `github` cung cấp đầy đủ từ tên miền đến ứng dụng `seo`.**
+
+<div align="center">
+
+| [`oracle`](https://www.itvtbadboy.io.vn) | thực hiện |
+|:-----|:-----|
+| đăng ký | [`cloudservice`](https://www.oracle.com/cloud/sign-in.html) <br>yêu cầu `mastercard` |
+| máy chủ | khu vực => `AD-2` <br>ổ cứng => `A1.Flex 100GB` <br>hđh => `ubuntu 24.04` <br>mạng => `public IPv4` <br>điều khiển => 3 `CPU` <br>bộ nhớ => `18GB RAM` |
+| quản lý | `panel` => [`ubuntu 24.04`](https://www.cloudpanel.io/docs/v2/getting-started/other/) |
+| xây dựng | `win` => [`Termius`](https://termi.us/win) <br>`linux` => `SSH Client` |
+
+</div>
+
+**Nền tảng `oracle` là lựa chọn hàng đầu cho giải pháp truyền bá kinh sách miễn phí, công nghệ đám mây vận hành máy chủ `ubuntu 24.04` dưới sự hỗ trợ của ổ cứng `100GB` cùng tốc độ 3 `CPU` và `18GB RAM`.**
+
+<div align="center">
+
+| [`firebase`](https://itvtbadboy-f4257.web.app/) | thực hiện |
+|:-----|:-----|
+| cài đặt | `win` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) <br>`linux` => [`Firebase Kit`](https://firebase.google.com/docs/cli/) |
+| cấu hình | đăng nhập => `firebase login` <br>xây dựng => `firebase init hosting` <br>triển khai => `firebase deploy --only hosting` |
+
+</div>
+
+**Nền tảng `firebase` tuy có dung lượng lưu trữ lớn nhưng khả năng truyền bá kinh sách không cao bằng `github` hay `oracle`, tuy nhiên với đồng đạo có kinh nghiệm chuyên ngành lập trình di động thì `firebase` là trang kinh khá tốt.**
+
+<div style="width:55%, padding:30px;"><hr></div>
 
 ## nhóm chép kinh
 
-[![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat")
+<div align="center">
+
+| quản lý | sổ tay |
+|:-----|:-----|
+| [![kinh sach](https://contrib.rocks/image?repo=kinhsach/kinhsach.github.io)](https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn "youtube live chat") | **hướng dẫn [`jekyll 4`](https://devdocs.io/jekyll/) từ `devdocs`.** <br>**hướng dẫn [`jekyll`](https://docs.w3cub.com/jekyll/) từ `w3cub`.** <br>**hướng dẫn [`jekyll`](https://jekyllrb.com/docs/) từ `jekyllrb`.** <br>**hướng dẫn [`chirpy`](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) từ `cotes2020`.** |
+
+</div>
+
+**Nhóm chép kinh có lập trình viên thiết kế trang bảo mật mạng và quản lý hệ thống truyền bá kinh sách. Lập trình viên chép kinh xuất bản nhiều định dạng, thiết kế chuyên tìm kiếm giao diện, bảo mật mạng luôn kiểm tra vấn đề mỗi khi tài nguyên mới xuất hiện và quản lý nắm bắt mọi cơ hội 0đ.**
+
+<div align="center">
+
+| lập trình | ứng dụng |
+|:-----|:-----|
+| [`w3css`](https://www.w3schools.com/w3css/) | [`amp guides`](https://amp.dev/documentation/guides-and-tutorials/) |
+| [`schema`](https://schema.org/) | [`geany`](https://www.geany.org/) |
+| [`firebase`](https://console.firebase.google.com/) | [`amp test`](https://search.google.com/test/amp/result) |
+
+</div>
+
+**Lập trình viên là nhóm thành viên chủ chốt vừa chép kinh xuất bản nhiều định dạng, viết mã tối ưu tiềm năng các trang kinh vừa xây dựng giải pháp truyền thông sao cho cộng đồng không chỉ dễ dàng tìm đọc mà quan trọng là phải thâu tóm được trí tuệ. Bằng cách nghe chép và phân loại nội dung cần thiết thành trang hoàn chỉnh để cho ra kết quả hiển thị với công cụ tìm kiếm.**
+
+<div align="center">
+
+| thiết kế | ứng dụng |
+|:-----|:-----|
+| [`w3 template`](https://www.w3schools.com/w3css/w3css_templates.asp) | [`mediawiki`](https://www.mediawiki.org/wiki/MediaWiki) |
+| [`litespot`](https://www.youtube.com/watch?v=9Wka1qsAYfw) | ...... |
+
+</div>
+
+**Thiết kế trang là nhóm thành viên chuyên tìm kiếm giao diện, canh chỉnh khung trang kinh và cũng là nhóm sở hữu giao diện mẫu nhiều nhất, nhóm thiết kế luôn tìm kiếm các mẫu chuyên nghiệp nhưng miễn phí dễ sử dụng tùy theo nhu cầu sở thích mà chia sẽ đến đồng đạo.**
+
+<div align="center">
+
+| bảo mật | ứng dụng |
+|:-----|:-----|
+| [`centos`](https://wiki.centos.org/Books.html) | [`apache`](https://httpd.apache.org/docs/2.4/) |
+| [`kali docs`](https://www.kali.org/docs/general-use/kali-training/) | [`parrot docs`](https://parrotsec.org/docs/) |
+| [`immuni`](https://www.immuniweb.com/websec/) | [`kali tools`](https://www.kali.org/tools/) |
+| [`parrot tools`](https://thelinuxcode.com/parrot_os_tools_top_20/) | ...... |
+
+</div>
+
+**Bảo mật mạng là nhóm thành viên thành thạo hệ điều hành Parrot Sec và Kali Linux biết cách thăm dò lỗi trên trang kinh, phát hiện chuẩn đoán và đánh cắp thông tin tài khoản cá nhân của người dùng lưu trong cơ sở dữ liệu. Học được kiến thức thì xây dựng chiến lược phòng chống và luôn kiểm tra vấn đề mỗi khi tài nguyên mới xuất hiện.**

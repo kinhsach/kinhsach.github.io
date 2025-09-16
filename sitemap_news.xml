@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/audio-chu-dai-bi/</loc>
+<loc>kinhsach.github.io/posts/audio-chu-dai-bi/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -16,7 +16,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/khong-nen-phe-phan/</loc>
+<loc>kinhsach.github.io/posts/khong-nen-phe-phan/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -30,7 +30,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/khong-ai-tranh-khoi/</loc>
+<loc>kinhsach.github.io/posts/khong-ai-tranh-khoi/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -44,7 +44,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/hay-rang-an-chay/</loc>
+<loc>kinhsach.github.io/posts/hay-rang-an-chay/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -58,7 +58,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/khong-the-tha-thu/</loc>
+<loc>kinhsach.github.io/posts/khong-the-tha-thu/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -72,7 +72,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/lam-lan-quan-niem/</loc>
+<loc>kinhsach.github.io/posts/lam-lan-quan-niem/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -86,7 +86,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/dieu-kien-thanh-tuu/</loc>
+<loc>kinhsach.github.io/posts/dieu-kien-thanh-tuu/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -100,7 +100,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/chac-khong-ai-biet/</loc>
+<loc>kinhsach.github.io/posts/chac-khong-ai-biet/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -114,7 +114,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/san-trong-tam-hon/</loc>
+<loc>kinhsach.github.io/posts/san-trong-tam-hon/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -128,7 +128,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/cam-nhan-dan-dan/</loc>
+<loc>kinhsach.github.io/posts/cam-nhan-dan-dan/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -142,7 +142,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-yet-ma-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-yet-ma-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -156,7 +156,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-nhu-lai-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-nhu-lai-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -170,7 +170,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-ma-ni-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-ma-ni-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -184,7 +184,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-dia-tang-bo-tat-bon-nguyen/</loc>
+<loc>kinhsach.github.io/posts/pdf-dia-tang-bo-tat-bon-nguyen/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -198,7 +198,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-lien-hoa-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-lien-hoa-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -212,7 +212,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-kim-cuong-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-kim-cuong-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -226,7 +226,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-cha-giang-tran-day-tu-dao-phan-3/</loc>
+<loc>kinhsach.github.io/posts/pdf-cha-giang-tran-day-tu-dao-phan-3/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -240,7 +240,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-chu-dai-bi/</loc>
+<loc>kinhsach.github.io/posts/pdf-chu-dai-bi/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -254,7 +254,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/pdf-thu-nhan-an-phap/</loc>
+<loc>kinhsach.github.io/posts/pdf-thu-nhan-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -268,7 +268,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/audio-dia-tang-bo-tat-bon-nguyen/</loc>
+<loc>kinhsach.github.io/posts/audio-dia-tang-bo-tat-bon-nguyen/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -282,7 +282,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/audio-thu-nhan-an-phap/</loc>
+<loc>kinhsach.github.io/posts/audio-thu-nhan-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -296,7 +296,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-chu-dai-bi/</loc>
+<loc>kinhsach.github.io/posts/youtube-chu-dai-bi/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -310,7 +310,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-dia-tang-bo-tat-bon-nguyen/</loc>
+<loc>kinhsach.github.io/posts/youtube-dia-tang-bo-tat-bon-nguyen/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -324,7 +324,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-thu-nhan-an-phap/</loc>
+<loc>kinhsach.github.io/posts/youtube-thu-nhan-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -338,7 +338,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-cha-giang-tran-day-tu-dao-phan-3/</loc>
+<loc>kinhsach.github.io/posts/youtube-cha-giang-tran-day-tu-dao-phan-3/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -352,7 +352,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/ma-ni-an-phap/</loc>
+<loc>kinhsach.github.io/posts/ma-ni-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -366,7 +366,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-ma-ni-an-phap/</loc>
+<loc>kinhsach.github.io/posts/youtube-ma-ni-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -380,7 +380,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/nhu-lai-an-phap/</loc>
+<loc>kinhsach.github.io/posts/nhu-lai-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -394,7 +394,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>http://localhost/posts/youtube-nhu-lai-an-phap/</loc>
+<loc>kinhsach.github.io/posts/youtube-nhu-lai-an-phap/</loc>
 <news:news>
 <news:publication>
 <news:name></news:name>
@@ -402,20 +402,6 @@
 </news:publication>
 <news:publication_date>2025-09-14T08:15:00+07:00</news:publication_date>
 <news:title>Youtube Như Lai Ấn Pháp</news:title>
-</news:news>
-</url>
-</urlset>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url>
-<loc>http://localhost/posts/yet-ma-an-phap/</loc>
-<news:news>
-<news:publication>
-<news:name></news:name>
-<news:language>en</news:language>
-</news:publication>
-<news:publication_date>2025-09-13T16:25:00+07:00</news:publication_date>
-<news:title>Yết Ma Ấn Pháp</news:title>
 </news:news>
 </url>
 </urlset>

@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: kinhsach.github.io/sitemap.xml
+Sitemap: https://kinhsach.github.io/sitemap.xml

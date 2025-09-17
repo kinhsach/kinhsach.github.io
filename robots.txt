@@ -1,5 +1,3 @@
 User-agent: *
-
-Disallow: /norobots/
-
+Allow: /
 Sitemap: https://kinhsach.github.io/sitemap.xml
